@@ -1,0 +1,908 @@
+[
+    {
+        "type": "chapter_title",
+        "title": "Capítulo 11 – Hygge",
+        "image": "Assets/cap11-12 titulo.png",
+        "text": ""
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Em algum lugar do oeste, Ethan, Fylk e Shin percorrem pela floresta com muita pressa. Fylk e Shin estão em silêncio. Fylk"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "corre com uma das mãos tampando uma ferida em seu tronco."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Droga!!! Não era para isso ter acontecido! -FlashbackEm uma das diversas montanhas do oeste há um caminho íngreme em espiral"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "que a contorna e na metade dele há uma caverna. Dentro dela se encontram os irmãos Fiender mais ao fundo e os quatro capitães"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "próximos da entrada, onde é mais iluminado."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O lugar se estreita aos poucos, e mesmo com pouca luz, percebesse que não é muito profundo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "A visão deles é melhor que a nossa... Não podemos ficar muito longe da entrada. -Afirma, olhando discretamente para a entrada"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "atrás da equipe. - Lá fora o caminho é instável, poderíamos ser atacados de surpresa e não conseguiríamos nos proteger... Aqui"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "eles parecem encurralados, estão nos subestimando? Ou seria uma armadilha? Fylk está com sua armadura bastante danificado por"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "arranhões, amassados e acaba de receber um golpe perfurante do dedo indicador de Nyari que se estica como uma estalactite"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "afiada que perfura sua armadura e acerta seu corpo. O homem cambaleia"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "um pouco, mas se mantém em pé."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI.png",
+        "text": "Esse humano não cai? Está aguentando nossos golpes desde o começo da luta! - Pensa, irritada."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Gyuder avança na direção de Nyari e atravessa o corpo de Nyari, travando-a na parede. Han vai atacar Gyuder com sua garra"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "destra afiada, Shin intervém por um breve momento e, apesar de bloquear com suas adagas cruzadas, é jogado para o lado de fora"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "pelo braço esquerdo de Han. O monstro insiste em atacar o alvo e é bloqueado por um escudo erguido rapidamente pelo braço"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "direito do alvo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Essa foi por pouco, se Shin não tivesse vindo, eu estaria..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "As garras de Han atravessam, mas ficam presas, fincadas no braço e escudo do homem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Aaargh!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ethan se aproxima de Gyuder e usando ambas as mãos, atravessa sua espada bastarda no ombro de Han que também o trava na"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "parede, superficialmente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Arf... Arf... Isso deve resolverGyuder: Ainda não! Vocês precisam fugir daqui! Agora! Ethan percebe que Gyuder está tentando"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "manter ambos os Fienders imobilizados."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os irmãos começam a atacar o capitão, que também se encontra sem ação. Ethan recua, deixando sua espada no ombro do demônio."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Han tenta retirar a lâmina e nota que sua mão esquerda está sangrando, Gyuder segura a espada no lugar de Ethan, tentando"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "segurá-la no lugar. Nyari o perfura com todos os dedos esticados de uma das mãos, enquanto segura a lâmina da espada fincada"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "em si com a outra. E Han tenta chutá-lo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI.png",
+        "text": "Se eu te matar, vai perder as forças e poderei sair daqui. - Comenta. - Argh! - Exclama, cuspindo um pouco de sangue."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Heh... Você deve ser... - Comenta, olhando para Nyari e lembrando de Kyuk. - NÃO TE DEIXAREI SAIR DAQUI POR NADA!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Senhor!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Vão logo, não podemos morrer todos aqui!!! Fylk ergue seu martelo com as duas mãos, como se fosse dar um golpe firme de espada"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "longa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Não Fylk! Não faça isso!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "Obrigado por tudo... Gyuder! - Conclui, acertando brutalmente o chão do lugar, que causa um temor de todas as direções. E do"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "chão ao teto rachaduras se espalham como raízes de uma arvore grande. Ethan e Fylk correm com afinco para a saída e ao sair de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "lá, Ethan olha brevemente para trás."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Tinha razão, essa espada é muito boa Ethan. Obrigado por me deixar usá-la!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "A caverna por fim desmorona junto de parte do caminho da entrada, o que faz os dois capitães caírem. Ao redor do"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "desmoronamento, um exército de Fienders se aproximam, vindo de traz das várias rochas e montanhas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "-Fim do FlashbackEthan",
+        "image": "",
+        "text": "Senhor, Gyuder!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Tsk! Não tivemos escolha, aconteceu muito rápido... - Comenta, indignado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "No final o senhor quem fez o papel de líder... Um líder não foge, droga! - Pensa, inconformado."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Em uma floresta à noroeste da capital, Eliphas e Kyuk saem de um círculo de teletransporte desenhado em uma rocha"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "semicircular. A cicatriz do pescoço brilha."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Argh! De novo?!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O mago observa em volta uma floresta densa de arvores, muitos troncos e rochas irregulares são cobertos por vegetação verde."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "No chão quase não se vê terra, muita grama em volta, exceto um caminho sutil assentado logo a frente da rocha desenhada."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Pequenos flocos de luz também marcam presença no ambiente, flutuam no ar e tocam diversas plantas, se destacando"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "principalmente com os troncos e galhos mais escuros. A cor dessa luz se torna vermelha segundo depois da cicatriz se iluminar,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "em seguida uma luz verde toma conta e por fim um azulado que logo se rende ao branco amarelado novamente. O mago olha para as"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "luzes em transição com curiosidade."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Argh! Por que isso?! O que tem aqui? Cof!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Acalme-se, logo deve parar. A floresta já se acalmou."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Uma mulher de meia idade, loira de olhos verdes e segurando um cajado, se aproxima. Suas vestes se assemelham com as de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Eliphas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E-Ei quem é essa? - Pergunta, se afastando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mulher loira",
+        "image": "",
+        "text": "Eu quem deveria pergunta quem é você, meu jovem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Ele é o filho do Kairos, Magda."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Oh é mesmo, você mencionou que o traria... É tão incomum ver você acompanhado, Eliphas. Mesmo Kairos já não vinha mais."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Meu pai já veio aqui? para quê?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Podemos ir? Eu já falei que queria ter feito esse círculo dentro da casa de vocês. - Resmunga, andando pelo caminho assentado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "E ocupar espaço atoa? Nosso lar mal tem espaço para as nossas coisas. - Responde, andando ao lado do mago."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Ah qual é! Vocês moram em uma floresta, olha o tanto de espaço aqui! - Diz, erguendo os braços para cima."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Espera aí, quem é ela? E quem mais tem aqui? - Pergunta, seguindo-os e olhando em volta com estranheza."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Você reclama demais, não sei como ainda te ajudamos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "São muitos anos de convívio, vocês sentiriam minha falta se eu sumisse sem avisar. - Comenta com o leve sorriso no rosto."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Tentamos te fazer sumir criando a magia de teletransporte... Você que não nos larga. - Comenta, rindo um pouco."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Logo em frente chegam em uma casa de rocha e raízes como se sempre fosse parte da floresta. O que faz lembrar uma residência"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "são as janelas cobertas de musgo e pequenas flores silvestres. Saindo pela porta da frente uma mulher de cabelo preto e curto"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "saí também com um cajado de madeira em mãos. Está aparenta ser bem mais jovem que a loira, suas vestes são vermelho madeira"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "escura."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mulher de cabelo curto",
+        "image": "",
+        "text": "Eli! É sempre bom ver o senhor!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Digo o mesmo, Agnes! Precisei voltar mais cedo dessa vez, deveria ter avisado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Deveria mesmo! - Afirma, apoiando a mão em um dos ombros dele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Alguém pode por favor me explicar o que estou fazendo aqui e quem são essas mulheres?! Todos param de falar por um momento,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "olhando para o garoto."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Somos, bem... Alguns nos chamam de bruxas, outros de druidas... De qualquer maneira é um prazer, sou Agnes."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk fica surpreso em silêncio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "E-Eu fiz certo? Faz tanto tempo que não falo com alguém lá de fora... - Cochicha discretamente para Eliphas, enquanto se apoia"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "no próprio cajado desajeitada."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Um outro cajado é firmado no chão, ao lado de Agnes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mulher",
+        "image": "",
+        "text": "Seja mais incisiva, Agnes! Não somos menos que eles! -Adverte, se aproximando da jovem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O quê?! - Exclama, se assustando. - Eu não te vi chegar."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "A mulher que acabara de chegar é morena, usa dreadlock e veste uma mescla de tecido esverdeado e armadura que parece de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "madeira. Seu cajado se assemelha a uma lança rodeada de raízes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Oh, e essa é a..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mulher",
+        "image": "",
+        "text": "Sou Elisa! E não se ache só porque o Eli te trouxe aqui. - Explica, olhando Kyuk de baixo acima."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "C-Calma Elisa, está tudo bem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA.png",
+        "text": "Não está tudo bem, você viu a reação da floresta agora a pouco? Qual foi a última vez que você a viu ficar vermelha?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Está tudo bem Elis, ela sempre estranha quando chega alguém novo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ei mago, do que elas estão falando?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Essa floresta é viva jovem. E nós a protegemos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Sempre que alguém entra nela, ela nos avisa através dos cristais."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Cristais? Quais cristais? Não estou vendo nenhum além desses dos cajados."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Aqui os cristais são usados em pó, como sensores espalhados pela floresta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ooh é mesmo?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Também fiquei preocupada, mas se a cor voltou ao normal então está tudo bem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Como assim?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "As cores representam a intenção dos visitantes. Se ficar vermelho são malintencionados, se ficar verde são bem-intencionados."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum... E o azul? Agora pouco também ficou azul."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Bem... Isso seria um bom motivo para a Elisa suspeitar de você."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA.png",
+        "text": "Estão vendo? Estão todos ignorando esse detalhe! Eu não confio nele, mesmo estando junto do Eli!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não precisa se preocupar, deve ter alguma explicação para isso..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "A cor azul surge quando dois ou mais seres aparecem e suas intenções são distintas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Nesse caso a cor deveria permanecer azul, mas não aconteceu. Quem é esse garoto, Eliphas? Ele é mesmo filho de Kairos?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA.png",
+        "text": "Se ele tiver mesmo afinidade com magia de fogo igual o pai, é problemático trazêlo aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "É uma longa história... E não vi problema algum nisso, porque o pai dele também controlou as próprias habilidades aqui."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "As três ficam em silêncio. Agnes se aproxima de Kyuk e lhe dá um abraço."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Eu sinto muito Kyuk, vai ficar tudo bem agora. Vamos te ajudar com o que precisar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA.png",
+        "text": "Hunf! Fale por você, eu também não gostava do Kairos, sempre preferi o Eli. - Fala, olhando para o mago de forma maliciosa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Veja como fala dele, Elisa! - Grita. Elisa, mesmo emburrada, fica em silêncio, junto de Kyuk e as outras duas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Então o trouxe aqui para aprender magia?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Ele já sabe conjurar, só precisa melhorar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA.png",
+        "text": "Hum... É natural que o filho de alguém como o Kairos fosse assim. Gostando ou não, ele era muito habilidoso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hã? Estou confuso..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Você sempre está confuso, já me acostumei... Senhoritas, esse jovem nasceu sabendo usar magia e preciso que ensinem o que"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "sabem para ele. Principalmente seu potencial de conjurar fogo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "As três ficam novamente em silêncio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Como a magia de vocês é muito mais conectada com a natureza que a minha, achei que poderiam ajudar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA.png",
+        "text": "Nem pensar! Você só traz serviços estranhos para gente, nunca é só para passar"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "um tempo aqui com a gente. - Responde, emburrada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Eu ajudo! - Se dispõe, fazendo continência com o cajado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Bem... Eu até ajudaria, mas precisamos continuar de onde paramos da última vez, né? - Explica, se aproximando do mago e"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "abraçando seu braço."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA.png",
+        "text": "Magda tem razão e nós três estávamos indo tão bem, uma pena que você teve que ir."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "D-Do que vocês estão falando?! - Pergunta, envergonhado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Você é muito jovem para entender essas coisas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não piore as coisas Agnes... Estão falando de magia avançada. E não se enganem, esse jovem tem um potencial incrível. Está"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "mais avançado do que pensam."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É! Olha o que eu sei fazer... - Avisa, estendendo as mãos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Aqui não! Vai incendiar a floresta inteira, idiota!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "E-E ele tentou fazer isso do nada? - Indaga, erguendo os braços de Kyuk. - Cadê? Cadê os orbes?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Eu disse que ele nasceu assim, então não precisa dessas coisas. Inclusive, recomendo deixarem os orbes longe da vista dele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E-Eu já me desculpei antes... Acho que vou conseguir me conter se eu aprender mais sobre magia! - Afirma. - Por favor, me"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "ensine! - Pede, fazendo reverência para Agnes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Claro, venha comigo. - Chama, pegando um casco de arvore pouco menor que"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "uma prancha de surf pequena."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk e Agnes estão do lado de fora da casa. A jovem segura a casca como uma prancha de surf."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Vamos para o sul da floresta, é a única clareira que tem por aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Certo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Disseram que você estava treinando para ser guerreiro, então estava treinando sua força física?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É, sei que é estranho, mas agora estou tentando aceitar quem sou e... Agnes sobe em sua prancha de casca, com um dos braços"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "direcionados para frente e o outro com seu cajado apoiado na parte de trás do casco que está se apoiando, conjura"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "uma rajada de vento para se impulsionar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ei, o que tá fazendo?!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Vamos logo, ir a pé demora demais!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Não, você não entendeu, eu era péssimo! Me espera! – Exclama, adentrando a floresta."
+    }
+]

@@ -1,0 +1,1472 @@
+[
+    {
+        "type": "chapter_title",
+        "title": "Capítulo 15 – Guerra II",
+        "image": "Assets/WARRING MAPA.png",
+        "text": ""
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Um Fiender grande é golpeado no peito e cai rapidamente ao chão. Fylk está pisando em seu tronco, como se estivesse no topo de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "uma colina. Contornando o corpo morto, dezenas de Fienders continuam avançando para retaguarda dos humanos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "Merda! Esses bichos não acabam. - Reclama, enquanto outros dois Fienders gigantes caem em volta dele."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Um dos corpos caiu devido aos ataques de Brankio e Loknar, o outro foi atacado por Shin."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Não são apenas os menores que são numerosos..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "É... Veja. - Diz, apontando para frente. Algumas dezenas de Fienders grandes se aproxima, formando uma fortaleza ambulante."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "Brankio e Loknar se entre olham."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Isso aqui parece o paraíso!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Vocês estão ignorando os menores... - Avisa, enquanto termina de degolar sua trigésima vítima."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "Parece que nem nós damos conta de tantos assim... E eles estão se acumulando lá atrás."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Eu não vou recuar!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "Nem eu! Estou exatamente onde queria estar! Há! Há! Há!"
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Elisa e Agnes aparentam cansaço."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "Melhor se poupar um pouco, você está usando muito da sua magia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Relaxa, eu ainda..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "Seu orbe já começou a trincar, concentre-se em manter Magda lá em cima."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os grupos menores que se montaram ajudaram os guerreiros a poderem avançar um pouco pelo campo de batalha, mas a diferença de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "força entre demônios e humanos resultou na perda de metade dos soldados do general e alguns aprendizes gravemente feridos. Os"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "paladinos tiveram menos baixas, mas suas armaduras e escudos estão desgastados assim como seus corpos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Droga... - Fala, sacando sua espada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "O que faremos agora? Não temos mais armadilhas e é só questão de tempo até ficarmos sem orbes... - Comenta, enquanto as duas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "aterrissam próximas a eles."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Quanto tempo até a magia ficar pronta?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "Vai demorar um pouco ainda... Ela precisa cobrir os céus com nuvens."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Então eu terei que agir, não tem outro jeito... Não podemos contar com o... Chamas vindas de cima do conflito tomam conta do"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "campo novamente, as chamas se espalham carbonizando cada Fiender que toca. O fogo parece dançar, se espalha em curvas que"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "atingem os demônios e evita os humanos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "O que é isso, Ethan? Acabou de dizer que as armadilhas haviam acabado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "E acabaram... Isso é..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Kyuk."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes e Ethan",
+        "image": "",
+        "text": "Kyuk?!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Oh?! - Pergunta, olhando para trás, na direção do general. - Então isso aqui... é aquele garoto?! - Questiona, voltando sua"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "atenção para a chamas impressionado."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O fogo faz uma espiral que se concentra na frente dos aprendizes, guerreiros e paladinos. A espiral diminui e as chamas se"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "dissipam, dando lugar a Kyuk com sua armadura leve, capa escura e capuz abaixado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "Heh. Pode não parecer, mas esse garoto é mesmo um prodígio quando o assunto é magia. E o fato dele ser tão esforçado só"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "adiantou seu aprendizado..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Elisa olha para o lado e percebe que Agnes está completamente empolgada e incrédula."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Então até você gostou dele, né?! - Pergunta, emocionada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "N-Não me entenda errado! Só fiz um elogio merecido..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Paladinos e aprendizes",
+        "image": "",
+        "text": "Esse garoto... Ele derrotou quase todos esses monstros?!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Isso é ótimo... Agora posso fazer meu trabalho. - Comenta, indo para a frente da guerra."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Holkes, Ethan, Kyuk, Elisa e Agnes foram ajudar seus aliados. Gunir fica para trás com os paladinos. Alguns guerreiros e"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "aprendizes do mago estão se curando e ajudando os sobreviventes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Vamos, precisamos nos apressar para ajudar os outros! Eles devem estar..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alexander",
+        "image": "",
+        "text": "Acho que já ajudamos o bastante. Se continuarmos assim, teremos baixas irreversíveis."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Mas eles vão precisar de ajuda!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Paladino",
+        "image": "",
+        "text": "Já terão ajuda demais, aquele garoto e o Holkes foram para isso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Paladino 2",
+        "image": "",
+        "text": "E as bruxas?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Paladino",
+        "image": "",
+        "text": "Ah, tem elas também... Tomara que morram em batalha..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Do que estão falando?!!! Elas-"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldado",
+        "image": "",
+        "text": "S-Senhor... Precisamos ir."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O capitão olha boa parte dos soldados no chão e alguns com dificuldades de ficar em pé. São poucos os que se mostram aptos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "para avançar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Você tem razão, não podemos perder tempo aqui. Quem acha que pode ser útil venhaGunir para de falar ao avistar um Fiender com"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "cicatrizes brilhantes. E rapidamente os muros de Skar são tomados por diversos Fienders iguais o primeiro. Todos ficam"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "assustados com a quantidade de monstros que surgiram."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Uma gargalhada sádica pode ser ouvida de cima dos muros. Um demônio de pele esbranquiçada e marcas negras irregulares ao redor"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "dos olhos, está sentado lá. Ao contrário de Han e Nyari, ele usa roupas semelhantes aos aprendizes de Eliphas, porém surradas"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "cores mais escuras."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "Esse tipo de energia... Finalmente apareceu, Norio. Norio chega."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "Oh, devem estar se perguntando sobre as pessoas lá dentro... - Menciona, apontando para trás de si com o polegar. - Não sei se"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "estão bem, vi eles desaparecendo naquele desenho no chão. Devem ter morrido... - Conclui, abrindo um grande sorriso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "O que está acontecendo?! Não é bom... O inimigo acabou de descobrir sobre os círculos... - Pensa, preocupado. - Não vamos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "conseguir lidar com isso do jeito que estamos."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os Fienders avançam e acertam com facilidade soldados e paladinos que se diziam aptos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "Mesmo reanimados nós somos superiores a vocês fisicamente, isso é fascinante!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "E-Eles ficam mais fortes quando revividos?! - Se questiona, olhando em volta e percebendo todos ofegantes e com movimentos de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "corte pouco precisos. - Não. Não é isso, estamos ficando cansados. Suportar tantos ataques é mais difícil do que parece."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Precisamos de reforços! - Pensa, enquanto avança para a frente da batalha, onde estão"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "os outros capitães."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ethan, Sian e Kyuk estão enfrentando Fienders menores próximos ao portal de teletransporte mais próximo da linha de frente."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Logo a frente Elisa e Agnes lançam suas magias nos monstros maiores. Elisa usa seu cajado para trazer raízes do solo que"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "prendem as pernas e braços dos Fienders. Agnes por sua vez distrai os inimigos desviando de vários ataques, enquanto flutua em"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "volta deles. Suas rajadas de vento dispersam os Fienders menores que tentam avançar contra Elisa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Elas são formidáveis, mas parece que não vão segurá-los por muito tempo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O senhor não consegue ajudá-las? Aquele dia na floresta você matou dois desses facilmente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Não foi tão simples, eu sou melhor em ataques surpresa... Deixei-os em desvantagem para atacar no momento certo... Nesse campo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "aberto eu posso até atrapalhar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Pensei que tivesse avançado mais."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Eu tentei, mas eles não param de surgir e aqueles lá só querem saber de inimigos fortes. Até a Lycia se afastou, não sei mais"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "onde ela está."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Disse que ela está enfrentando Nyari? Sian afirma com a cabeça."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu preciso ir..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Acalme-se, Kyuk! -Pede ao garoto. - Haja o que houver, mantenham esse círculo funcionando! - Avisa aos assistentes do mago em"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "volta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Assistentes",
+        "image": "",
+        "text": "Sim, senhor!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Temos essa missão de extrema importância agora."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Isso não é um problema? Os inimigos podemO círculo de teletransporte brilha, interrompendo a conversa."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Brankio, Loknar, Shin e Fylk estão confrontando Yama. O rei demônio não percebe a presença de Shin, o capitão é rápido demais"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "para ser acompanhado com os olhos e logo sente diversos cortes em seus braços e pernas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Droga, não são cortes muito profundos, mas é tudo o que podemos fazer. Não conseguiremos vencê-lo, então vamos enfraquecê-lo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Brankio se aproxima do rei demônio de punhos cerrados e erguidos na altura do rosto. Um leve vento bate em seu moicano"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "esbranquiçado, o homem grande de pouca armadura encara o monstro gigante a sua frente. Brankio enche os pulmões de ar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "VEM PARA CIMA!!!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os outros capitães olham incrédulos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "Eita porra!!! Tamo fodido!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Isso é coragem ou burrice? -Pergunta, olhando para Loknar e apontando para Brankio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "É burrice..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O rei encara Brankio de volta e abre um leve e breve sorriso. O monstro também cerra seu punho e posiciona seu braço esquerdo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "para trás. A velocidade do movimento é lenta, Brankio não desfaz sua posição, continua encarando. Até que é acertado por um"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "soco e sua única reação é defender com um dos braços. Quando se dá conta, seu corpo foi lançando há vários metros do núcleo do"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "combate. Instintivamente os outros três capitães dão alguns passos para trás. O suor e a expressão em seus rostos eram"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "inevitáveis."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Brankio!!! Seu idiota, o que pensou que iria acontecer?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Ainda bem que não deixei ele me acertar antes. - Pensa, um pouco aliviado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "É... ferrou mesmo... Ei! V-Você está vivo, imbecil?!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Brankio se levanta devagar ao longe e levanta os braços. Um deles na verdade, o outro está completamente inchado e quebrado ao"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "meio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "ESTOU!!! Isso... Isso foi incrível! Nem os bichos maiores conseguiram fazer isso!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "Da próxima vez não terei piedade. - Comenta, levantando o orbe negro na direção do homem de um braço só."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "Shin, o que faremos?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Precisamos segurá-lo por mais tempo, ele não consegue me acertar... Então o resto é com vocês dois."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk, Ethan e Sian observam o portal brilhar e Gunir surgir dele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Capitão, Gunir?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Arf... Arf... Por sorte um desses ainda funciona... Arf... Com essa armadura eu não teria chegado a tempo correndo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "É claro que funciona! - Diz, olhando rapidamente para Magda flutuando no céu e para Agnes. - O que um líder deveria fazer? Eu"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "deveria saber? - Pensa, preocupado olhando para Kyuk. - Kyuk... Os soldados que restaram estão cansados, eu consigo seguir"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "lutando, mas os orbes estão começando a desgastar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu percebi, mas não consigo fazer nada sobre isso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "A situação lá atrás piorou!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "O que aconteceu, Gunir?! Já temos problemas demais por aqui. Ei, aprendizes! Ergam seus orbes, todos vocês. Precisamos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "distraí-los! Gunir está aqui e logo tomará a frente da situação como de costume!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Diversos orbes começam a flutuar acima deles e a grande maioria dos monstros em volta são atraídos pela luz emitida."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Então... Acho que descobri por que havia Fienders com cicatrizes brilhantes naquela noite."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "O quê?! Isso é impossível! Como-"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Por falar nisso, é a primeira vez que vejo o portal ficar ativo desse jeito. - Comenta, apontando para o círculo no chão. -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Isso é normal? Mais alguém viria com você senhor, Gunir?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os três capitães olham rapidamente para o portal, preocupados. Gunir se mostra particularmente mais preocupado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Isso não é bom, eles não podem vir! São muitos! Precisamos agir agora!!! - Grita, correndo na direção dos Fienders acumulados."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Agora sim! - Exclama, seguindo Gunir."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "E como fariam isso? Te viram vindo para cá?! - Questiona, seguindo os dois."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Não, ele descobriu antes de nos atacarem. Ao contrário dos outros dois Fienders, esse parece ser especialmente inteligente e"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "até consegue usar magia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Então só precisamos abrir caminho para o senhor avisar os outros capitães também?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Por que não deixa que eu entrego a mensagem?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Eu preciso estar na linha de frente, Sian! Até as senhoritas em breve ajudarão os outros!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "É claro, esse negócio de “magia” é muito... Kyuk lança suas chamas nos Fienders aglomerados, os monstros se espalham"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "rapidamente, grunhindo desesperados."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "...conveniente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Não! O que está fazendo, Kairos?! - Pergunta, indignado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Abrindo caminho! E meu nome é Kyuk!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "É, eu sei!! Mas não é só porque você não participou da reunião estratégica que você pode sair fazendo o que bem entende! Toda"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "vez a mesma coisa!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Ethan... Ele não é o Kairos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Er... Aprendizes, mantenham os orbes no ar!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ei... Por que me chamou assim?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Eu... Isso não é nada justo, não é? Você também teve a sorte de nascer para usar magia... E por coincidência... Sei lá... até"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "seu tipo de magia lembra seu pai."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E-Então ele também... Gunir atravessa sua lança em três monstros em chamas com seu ataque perfurante e os arremessa em outros"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "grupos que não foram atingidos por Kyuk."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Obrigado, garoto!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Sian tenta dar continuidade aos ataques de Gunir, mas sente que seu corpo não responde como deveria."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "O mago mestre não te falou? Você é bem confuso, fica por aí com essa armadura conjurando magia..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Argh... Pessoal, não queria atrapalhar... -Comenta, se aproximando e mancando. - Mas preciso de uma ajuda aqui."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "A perna de Sian está ferida e sangrando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Certo... O que temos aqui? Os Fienders estão sendo segurados por um tempo, não temos soldados o bastante, Gunir precisa de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "reforço na retaguarda, Ethan está ferido, mas não pode usar o portal para retornar, porque... - Interrompe o pensamento."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O capitão está paralisado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "E o portal?!!! Ele brilhou sozinho agora pouco!!! - Exclama, olhando na direção"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "do portal. Os outros acompanham o movimento de Ethan e se deparam com... nada. Não houve mudança alguma, exceto pelo portal"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "não estar mais brilhando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "O-O que foi isso? Imaginação?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Um blefe?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Não... Eu vi os olhos daquele monstro. Ele avançaria na primeira oportunidade para avisar o rei deles sobre a magia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "O que devemos fazer? São muitos problemas ao mesmo tempo... Quem devo priorizar? - Pensa, preocupado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Er... Pessoal, precisamos ajudá-las. - Comenta, apontando para Agnes e Elisa que ainda lutam com os mesmos monstros maiores."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O capitão loiro olha para as duas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Boa, garoto! É um bom começo eAs duas olham para cima e rapidamente se afastam dos Fienders grandes."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Alguns momentos antes. Loknar olha discretamente para suas foices no chão, atrás de Yama. Shin cerca Yama, movimentando-se"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "rapidamente a sua volta. Han que observa a batalha de não muito longe dá um passo para frente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Pa... SenhorYama: Não ouse sair daí, insolente! -Grita. - Eu não preciso da sua ajuda. - Afirma, calmamente. Loknar habilmente"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "apanha seu par de armas, mas para de se mover ao tocá-las. Yama está atrás dele, preparando o punho para o ataque."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "Não adianta ser rápido, se não pode fazer nada para impedir isso. - Comenta para Shin, com um sorriso focado em Loknar."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O rei Fiender interrompe seu movimento, após todos escutarem sons de corpos grandes caindo ao chão. São barulhos espaçados e"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "graves, como se um gigante estivesse andando devagar. Ao olhar na direção do som característico, o que mais lhe chama atenção"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "é Magda ainda flutuando alto em um céu carregado de nuvens escuras."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "O que ela está fazendo? Não sinto tanta energia vindo de lá. - Indaga, olhando para ela."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Pai para onde está olhando?! Eles acabaram deNo horizonte, Holkes caminha em direção aos dois, atrás de si há uma quantidade"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "considerável de Fienders grandes, todos ao chão, mortos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "É-É ele, pai! Eliphas está vindo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "Huh?! Onde...?! - Pergunta, olhando em volta até que fixa sua visão até onde consegue ver. -Hã? Aquele ali? Idiota! Ele não é"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "o..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O rei demônio para de falar ao ver Magda descendo do céu e sumindo no horizonte da batalha. O Mago Mestre flutua sobre o campo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "de batalha e, com um livro aberto a sua frente e braços quase totalmente levantados. Logo abaixo de si, os orbes que Ethan"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "pediu para que os aprendizes levitassem, erguem-se para cada vez mais próximo do mago."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Eu sei que os tempos estão mudando. Está na hora de todos tentarmos algo novo. Isso vale para você também, Kyuk. Kyuk está"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "olhando para o céu, o Mago está exatamente acima de seu grupo, onde Magda estava anteriormente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Você diz que quer ser um líder, Ethan, mas parece não conseguir se decidir. Ethan está olhando para o céu, um sorriso de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "alívio e algumas lágrimas tomam seu rosto."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Acho melhor vocês me deixarem guiá-los... Purple Rain!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O grito parece ecoar pelo céu. O Mago Mestre conjura uma magia de raios roxos que conectam as nuvens com o solo, cada Fiender"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "ainda de pé é atingido pelo ataque, incluindo alguns próximos à antiga capital, Skar. A maioria dos monstros morrem"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "instantaneamente. Nenhum acerta os humanos. Visualmente cerca de oitenta porcento dos orbes usados na magia desintegram,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "deixando cair micro fragmentos luminosos do céu. Fragmentos que vão se dissipando antes de tocar o solo. Os restantes dos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "orbes flutuando naturalmente para próximo de seus antigos donos."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Próximo dos portões de Skar, Norio olha para o céu admirado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "Oh grandioso Eliphas, nosso rei não parou de falar de você! Vim para esse mundo ouvindo seu nome! Não há dúvidas de que é"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "você, esse poder extraordinário... Não tenho palavras para descrever! Eu te odeio por ser tão bom... Eu não consigo manter"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "meus aliados reanimados por muito tempo... Talvez devesse tentar com meus inimigos. Aos pés dele, com exceção de Alexander, os"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "paladinos estão caídos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "Agora vão e avisem o rei sobre os portais que os humanos criaram –Ordena, para"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "um dos grupos de Fienders menores."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O Mago se aproxima de Ethan e Kyuk."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eliphas! Estou preocupado com a Lycia!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Ela está bem, ajudei um pouco contra a Nyari – Explica, se aproximando e mancando um pouco."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Então é por isso que ainda está aqui? Ninguém te curou?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Os únicos que são realmente bons nisso são os paladinos e ficaram todos para trás, por isso preciso avisar logo os outros."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não sei do que estão falando, mas confio em seus esforços!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "O inimigo descobriu sobre a magia de teletransporte, mas o rei deles ainda não sabe. Vamos cuidar disso senhor, Eliphas!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Certo. Kyuk, deve ter sentido outra energia poderosa por aqui, é do rei demônio. Precisamos fazê-lo usar o máximo de magia"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "possível para o orbe ser destruído."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É o que?! Isso é loucura!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Não encontramos outra solução."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Ajude os capitães a manterem os Fienders longe dele, sem o orbe temos mais chances de vencer e não será mais possível Yama"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "criar portais para esse mundo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Não farei nada que você mandar sem ver a Lycia antes!!! E... Onde está o senhor Gyuder? Ele deveria estar ajudando!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os capitães se encaram, com pesar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Agora não é hora, eu tive uma ideia para ajudar vocês... Ei aprendizes, façam alguns círculos de teletransporte por aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendizes",
+        "image": "",
+        "text": "Sim, senhor! - Exclamam, enquanto começam a desenhar os círculos no chão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Senhor Eliphas, me perdoe, mas não entendo o que pretende fazer... Quer que voltemos a fortaleza ou..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Esperem aqui! - Manda, virando-se em direção ao horizonte de onde vieram os Fienders, ficando de costas para todos. - Kyuk,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "eu... quero que saiba que não vou reviver mais ninguém, mas vou limpar o caminho para vocês seguirem. Em um instante o mago"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "parte voando impulsivamente para a frente da batalha."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Preciso morrer com essa culpa, não é... Cass? - Pensa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ooh! Ele é rápido! Mais rápido que a Agnes!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "Quando tem alguém ajudando é bem mais rápido de desenhar os círculos, não se preocupem, com três de nós em cada círculo em"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "alguns instantes ficarão prontos!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz 2",
+        "image": "",
+        "text": "Pronto!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "Agora é só por energia e esperar acender, isso significa que o Mestre terminou os dele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz 2",
+        "image": "",
+        "text": "Pode demorar um poucAo aplicar energia, os 3 círculos brilham instantaneamente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendizes",
+        "image": "",
+        "text": "O quê?!!! O Mestre já desenhou os 3 dele?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "I-Isso é sério? Ele acabou de sair daqui e ainda desenhou os círculos?!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Temos que lidar com o orbe negro, três Fienders inteligentes e esses Fienders"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "normais. Façam seu melhor para",
+        "image": "",
+        "text": "“Eliphas”, Kyuk, Gunir e Sian."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk, Gunir e Ethan",
+        "image": "",
+        "text": "Certo. Vamos!!!"
+    }
+]

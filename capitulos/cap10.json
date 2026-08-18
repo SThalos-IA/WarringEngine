@@ -1,0 +1,1292 @@
+[
+    {
+        "type": "chapter_title",
+        "title": "Capítulo 10 – Capital",
+        "image": "Assets/cap10 titulo.png",
+        "text": ""
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Andando em uma floresta com poucas árvores em pé, pois as outras se encontram quebradas ao meio e outras arrancadas do chão,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "estão dois homens andando entre os troncos caídos. Um deles é loiro e está carregando sua espada bastarda, mais atrás o outro"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "é mais alto, ruivo e carrega consigo um martelo de guerra, quase do tamanho de seu corpo, apoiado no ombro junto de sua"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "armadura e escudo grande."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Tome cuidado Fylk... Gyuder e Shin foram fazer o reconhecimento, mas já devem estar voltando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "Há! Não se preocupe comigo, nós estamos acostumados com situações extremas... Agora que comentou, já faz um tempo que saíram,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "esse Shin está ficando lento!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Sei que é difícil pedir isso de você, mas tenha paciência, essa região parece muito vasta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "Hunf, pensando bem, aposto que aquele velho do Gyuder está atrasando o cabeludo! Ele não costuma demorar tanto."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Você tem quase a mesma idade do Gyuder... E não grite, esse lugar é perigoso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "Vocês do Leste são muito medrosos, essa hesitação ainda pode matá-los. Mesmo com poucas arvores no caminho, não conseguem ver"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Fylk",
+        "image": "",
+        "text": "muito além, o terreno é difícil de andar e a suposta floresta faz conexões com regiões montanhosas."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "No topo das poucas arvores em pé, um vulto preto passa entre uma copa e outra. Logo abaixo, no solo, Gyuder está correndo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "tentando acompanhar o vulto. Pelo caminho ele vê os riscos nas árvores semelhantes aos que Sian usou em sua missão de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "reconhecimento, para ajudar quem vinha atrás a se localizarem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Mesmo com poucas arvores por aqui ele se move como se fosse uma floresta fechada. E o pior, não consigo vê-lo direito. -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Pensa, impressionado, enquanto corre por entre as arvores caídas e em pé. - Me desculpe jovem, era melhor ter vindo sozinho,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "estou te atrasando... Arf... Arf... Arf... - Comenta olhando para cima e se aproximando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Nessas horas é melhor fazer a coisas com calma, não estamos com pressa dessa vez. - Responde, agachado em um galho da última"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "arvore que se encontrava de pé pelo caminho."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Shin começa a observar em volta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Do jeito que se move não parece estar sem pressa, rapaz... Arf... Arf..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Só estou me aquecendo, não quero perder para o Han de novo e... - Interrompe sua fala ao ver ao longe dois Fienders"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "humanoides. - São eles! - Afirma, surpreso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Os Finders inteligentes?! Precisamos avisar os outros. Tem mais com eles?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Não, estão sozinhos e bem longe ainda."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Então fique de olho neles, vamos esperar o reforço. - Notifica. - Há muito tempo não faço isso, estou ansioso também. - Pensa,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "inquieto."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Dias depois, no maior pátio da capital, Kyuk e Eliphas saem andando do círculo mágico."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cidadão",
+        "image": "",
+        "text": "Oooh! O Mago Mestre!!! Ninguém anunciou que viria."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Cidadão 2",
+        "image": "",
+        "text": "Esse cara faz o que bem entende e pode aparecer do nada, não respeita nem"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "o rei!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Então quer dizer que vão demorar para voltarem?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Sim, tem um portal na cidade à oeste daqui e mesmo assim são alguns dias de viagem. - Explica. - Ele parece mais focado, nem"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "reparou que chegamos na... - Pensa."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk olha em volta e se assusta com o tamanho do pátio central que se encontram e o tamanho da multidão de pessoas transitando"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "em volta do círculo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Q-Qu..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Agora viu... - Comenta, olhando o garoto. Ao reparar melhor, percebe a cicatriz do pescoço dele brilhando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Hum?! A cicatriz... Será que é a minha barreira? Ou serão os Paladinos? Talvez sejam ambos... - Reflete."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Que imenso!!! Esse lugar existe mesmo? Olha o tanto de gente com roupa estranha e aquelas pessoas com um monte de cestos de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "frutas... O que estão fazendo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Aquilo são barracas de comida e estão vendendo frutas, carnes..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Carnes? As pessoas daqui comem animais? Como conseguem? É tão difícil encontrá-los..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Existem regiões que criam gados, tem alguns perto de onde vamos. - Comenta, saindo do círculo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk segue atrás e ao olha para o lado observa uma aglomeração."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Multidão",
+        "image": "",
+        "text": "Não comam carne, já temos comida demais e eles são seres vivos também!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E aquelas pessoas acumuladas ali? Estão comprando e vendendo também?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não, eles são contra o consumo de carne. Acham que não devemos comer, então reclamam para as pessoas tentarem mudar de ideia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah. Que povo estranho, nunca comi, mas carne deve sustentar mais que as outras coisas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Como sabe?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sei lá, para um homem do tamanho do senhor Gunir querer comer deve encher muito. - Menciona, rindo. - Espera, tem uns"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "guerreiros de armadura querendo passar e essas pessoas estão no caminho... Vou falar para eles que estão errados e..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O mago o impede, colocando a mão em seu ombro."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não faça isso, temos mais o que fazer agora. Estamos só de passagem, lembra?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah é! Disse que queria se desculpar melhor..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "A cicatriz de Kyuk para completamente de brilhar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Err... Mais ou menos isso..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Alguém",
+        "image": "",
+        "text": "Kyuk!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Huh?! Quem está me chamando...? - Questiona, olhando na direção que é chamado. - N-Não pode ser, Yukia!!! Senhor Bark!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "Kyuk! -Exclama, abraçando bruscamente o garoto. - O que tá fazendo aqui?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu que pergunto! Não me avisaram por carta que se mudaram para cá."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "K-Kyuk...! Pensei que tivesse morrido... Só vendo para acreditar! – Diz, chorando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Sentimos muito sua falta, garoto. Você parece bem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu t-também senhor! - Diz, lacrimejando. - Pensei que nunca mais veria vocês... Que bom que estão vivos... - Sorri, em meio as"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "poucas lagrimas. - P-Por que estão aqui? Suas roupas são estranhas também."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "O senhor Eliphas conversou com o rei que nos deixou ficar aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Hunf! Não se engane, ele não é uma boa pessoa. Yukia para de abraçar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "Hey! Eu comi carne ontem e tem um gosto estranho, mas é muito bom!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sério?! Não vejo a hora de comer também!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não temos tempo para isso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "De novo vocês com essa história de “sem tempo”! Eliphas, o mago-tempo! - Debocha, rindo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "K-Kyuk ele é o m-mago mestre?! Então tome cuidado com o que fala..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Ela tem razão, garoto! - Avisa, colocando a mão na cabeça do jovem e pressionando para baixo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ai! Calma aí, é só brincadeira! Bark ri um pouco."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E como estão os outros?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Estão bem, ficaram no vilarejo novo, mandamos algumas coisas quando podemos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Que bom! Vocês mandam carne para eles também? Como fazemos para conseguir “comprar”?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Aqui na capital nós recebemos uns cristais brilhantes que servem para trocar pelas coisas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É?! E como funciona? É só entregar o cristal e pegar quanto quiser?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Não é bem assim e..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Peraí que eu conheço um lugar cheinho deles e já volto com alguns..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O mago segura a gola da camisa de Kyuk."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não é tão simples assim, jovem. Os cristais da caverna são distribuídos entre mim, o Holkes e o rei. Os meus eu uso para fazer"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "os orbes e tudo mais, o careca usa para pagar os guerreiros da fortaleza."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E o rei...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Bem... O rei usa... Olhe em volta, lembra das roupas estranhas das pessoas? Nem todos da capital se vestem com roupas tão"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "limpas e intocadas assim. Esses negócios pendurados no pescoço delas são colares de cristais."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Mesmo?! Então todos eles também usam magia? Mas são muitos andando por ai!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não são tantos assim... Estamos bem no centro da capital, esse lugar é pequeno perto de todos os lugares que têm por aqui. Só"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "nos encontramos, porque avisei ao Bark que viríamos, só não imaginava que viriam nos encontrar aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Esse assunto de magia... Não queria nada disso para você, agora quem diria que é igual seu pai..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago",
+        "image": "",
+        "text": "Melhor, esse garoto pode superar Kairos um dia. Não sabemos o limite ainda."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os protestantes próximos aos quatro são empurrados com força e caem no chão. Sem as pessoas no caminho, guerreiros de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "armaduras grandes, douradas e detalhadas aparecem a vista."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldado",
+        "image": "",
+        "text": "Tentamos conversar, mas vocês não escutam! Estão tumultuando demais por aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Protestante",
+        "image": "",
+        "text": "Se não for assim ninguém escutará!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Uou! Olha esses guerreiros de armaduras brilhantes! Foi o senhor quem fez? - Pergunta ao Bark."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Não, minha especialidade são armas. Yukia quem costuma fazer algumas armaduras."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "Oh! É mesmo, vem com a gente!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah, mas eu quero conhecer eles! -Fala, apontando para os guardas. Bark ergue o garoto pela gola da camisa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Vamos logo que o senhor Eliphas está com pressa. - Indaga, carregando-o."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O mago tenta segui-los."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldado",
+        "image": "",
+        "text": "Senhor Mago."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O mago para e se vira para o soldado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldado",
+        "image": "",
+        "text": "O rei pediu que queria vê-lo assim que viesse novamente para a capital."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "A caminho da nova casa de Bark e Yukia, passam por pequenos currais. Um boi sem motivo aparente chama atenção de Kyuk. Ambos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "se encaram por um tempo. Ele não sabe bem o que pensar, nunca viu um ser vivo daquele tamanho, com tanta força aparente e ao"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "mesmo tempo preso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "Ei Kyuk, estamos quase chegando, é logo ali! - Chama, acenando e apontando logo a frente. Ao chegar em um local menos habitado"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "e com alguns celeiros em volta, Kyuk se sente paralisado por uns instantes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "O que foi?! - Pergunta, olhando para o garoto e depois olhando na mesma direção que o mesmo. - Ah... Isso também me incomodou"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "nos primeiros dias... ainda incomoda na verdade e... - Diz, notando a marca no pescoço dele, desvia o olhar e continua"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "andando, incomodada. Dentre as casas, há uma ferraria. Yukia entra nela."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Sei que não foi um dia fácil, mas já passou e estamos bem agora."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Senhor... Passei os últimos dias estudando e acho que consigo criar uma barreira em volta do vilarejo agora. - Informa. -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Pensando bem, a barreira em volta desse lugar é impressionante!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "Aqui, fiz isso para você! - Avisa, mostrando uma armadura leve e prateada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Nossa! Que incrível, Yukia!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Depois que soubemos que iria se tornar um guerreiro como sempre quis, ela não descansou até terminar isso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "M-Muito obrigado! Mas... Eu descobri que uso magia agora... Não sei se isso vai me ajudar..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia e Bark",
+        "image": "",
+        "text": "Você o que?!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Você falava de magia com o Eliphas a pouco e acabou de dizer que criaria uma barreira, mas nem me liguei!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "Como assim Kyuk? Isso não tem graça."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É sério! Olha só... - Diz, estendendo palma da mão para cima e dali surge uma chama pequena."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia e Bark",
+        "image": "",
+        "text": "Quê?!!! Apaga isso!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Um soldado passando por perto se aproxima, atraído pelo barulho"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldado",
+        "image": "",
+        "text": "O que? Um Bruxo?!!! Fique parado, você está preso!"
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Na sala do trono real, em uma audiência com o rei, o mago está abaixo da escada que leva ao trono e o rei sentado nele. Há"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "alguns guardas em volta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Como ousa falar assim comigo?! Só por causa da barreira acha que é quem?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não vou te dar informações de quando talvez comece a guerra sem garantias de que seus homens estarão nos ajudando na linha de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "frente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Hora seu...! Como pode saber que está para começar uma outra guerra total contra esses bichos?! Há muitos séculos que a"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "primeira aconteceu e apenas eu e o alto escalão deveríamos saber disso. Foi meu pai ou meu avô que te contaram?!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O mago sorri de forma sutil e maliciosa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldado",
+        "image": "",
+        "text": "Rei Kouv! - Interrompe, entrando na sala e se aproximando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Pff! - Exclama, segurando o riso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "O que tem de tão engraçado, Eliphas!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Esse nome..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldado",
+        "image": "",
+        "text": "Senhor, iriamos prendê-lo, mas achamos melhor ver isso antes. Encontramos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "um bruxo!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei e Soldados",
+        "image": "",
+        "text": "Um bruxo?!!!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os soldados reagem apontando suas armas para Kyuk."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ei! Bem que você falou, esse lugar é enorme, e esse aqui então... - Diz, sem jeito para o mago."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Isso se chama castelo, e aquele ali é o rei. - Explica, apontando para o homem sentado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ooh! Pff! Então ele se chama “couve”?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Sim, engraçado, né? - Responde, rindo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Vocês se conhecem?!!! Quem é ele Eliphas? Responda agora mesmo!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldado",
+        "image": "",
+        "text": "Espera, vocês estão juntos?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Não me surpreende você andar com gente assim... Agora bruxos são o cúmulo Eli-!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Mas eu não sou..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Ele não é um bruxo, é só mais um de meus aprendizes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldado",
+        "image": "",
+        "text": "Eu o vi usando magia sem usar nada!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Dãã! Ele é meu aprendiz, é lógico que usa magia... E o que você sabe sobre isso? Quer mesmo discutir comigo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Vocês são uma aberração com essas magias, não há o que discutir."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Sempre diz isso, mas esquece que seus soldados também usam."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Com eles é diferente, nós da capital usamos magia divina, que ajudam as pessoas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Então por que tem tanta gente adoecida por aqui?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Essa proteção tem um custo, você bem sabe disso! Sem impostos, sem a ajuda devida."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Olha aqui, essa conversa tá ficando complicada demais para mim. Poderiam me soltar, por favor? Precisamos ir, não? - Pergunta"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "ao mago."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Como ousa? Eu sou seu rei!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "M-Meu? Eu nem moro por aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Eu sou dono de todas as regiões, do norte ao sul e do leste ao oeste! E por falar nisso... Acabem logo com esses infortúnios"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "do oeste, precisamos explorar a floresta Hygge à Noroeste... Ela segue intacta, não?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não sei, não perguntei ao Holkes da última vez que o vi."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Outro insolente que não fala diretamente comigo. - Comenta. - Se não fosse tão forte, poderia mandá-lo me informar"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "pessoalmente. - Pensa, incomodado. - A madeira de lá é incrivelmente resistente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "É, ouvi dizer também... Agora vamos Kyuk. - Chama, se virando de costas para o rei."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk o segue e ambos vão direção a saída."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Aquelas malditas bruxas... mesmo estando mortas nos dão todo esse trabalho! Aposto que foram elas quem convocaram esses"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "monstros."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O mago para de andar por um momento."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum? O que foi? Após um breve silêncio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não foi nada, pensei ter esquecido de algo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei",
+        "image": "",
+        "text": "Que deus e seus anjos nos protejam dessas maldições que tentam nos lançar!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Soldados",
+        "image": "",
+        "text": "Amém!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Agora entende por que demoro tanto aqui?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O garoto repara uma pressão muito séria por parte do mago. Ao saírem do castelo, Yukia está do lado de fora esperando com um"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "sorriso de satisfação no rosto. Bark está se aproximando com a armadura de Kyuk em mãos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "Sabia que sairia dessa! O senhor Eliphas está com vocêMago Mestre: Isso é inútil, ele é um feiticeiro, não precisa dessas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "coisas. - Afirma, passando por eles sem parar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "N-Não liguem para ele, é claro que vou usar, ela parece muito confortável! Kyuk pega a armadura para carregá-la."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ei senhor, o rei falou de uma floresta à noroeste, onde fica? É perto de casa?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "É sim, mas é impossível de chegar lá, há muitas montanhas no caminho... A"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "madeira de lá é muito forte, inclusive oMago Mestre",
+        "image": "",
+        "text": "Ele sabe, o rei verdura acabou de falar... Precisamos ir em outro lugar agora, venha."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os dois jovens se olham sem entender o que está acontecendo. Em seguida, Kyuk sai correndo para acompanhar o mago."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Até mais gente! Muito obrigado por tudo! - Agradece, correndo sem jeito com sua armadura em mãos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia",
+        "image": "personagens/YUKIA.png",
+        "text": "Err... Pai... O que é um “feiticeiro”?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Bark",
+        "image": "personagens/BARK.png",
+        "text": "Não faço a menor ideia, filha..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yukia e Bark",
+        "image": "",
+        "text": "Ele está carregando aquela armadura. Quando ficou tão forte? - Pensam."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Eliphas e Kyuk estão descendo as escadas para o andar abaixo da biblioteca. O jovem está vestindo sua armadura nova, mas não"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "parece satisfeito."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "O que foi? Está quieto desde que saímos de lá. - Comenta, entrando na sala."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Queria te agradecer por ter me deixado vê-los, mas não deixou nem o senhor Bark terminar de falar! O que que tem de especial"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "na madeira daquele lugar? - Indaga, parando por um breve momento na entrada da sala, enquanto aponta o dedo indicador para o"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "mago."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Quase ninguém sabe, mas a lança do Gunir é feita daquela madeira. Se tornou uma herança de família... E se o rei ficar sabendo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "disso, vai me encher o saco para querer saber como isso aconteceu. - Responde, se aproximando da parede do fundo da sala"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "lotada de novas anotações em papeis."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E como isso aconteceu? - Questiona, emburrado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Hunf! Acontece que a floresta Hygge fica muito longe da nossa linha de frente, se o rei se desse o trabalho de enviar seus"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "soldados para lá, saberia disso. Então deixo ele achar que sei de como a floresta está através do Holkes que fica no oeste. -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Explica, retirando todos os novos papeis da parede."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Isso não respondeu nada! E essa não é a parede cheia de anotações importantes?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Vai responder... Aqueles papeis que você queimou outro dia não eram importantes porque tinham informações relevantes, eram"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "porque ajudavam a esconder isso."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Por toda a parede descoberta se encontra um círculo mágico quase ofuscado."
+    }
+]

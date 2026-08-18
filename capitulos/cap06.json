@@ -1,0 +1,1178 @@
+[
+    {
+        "type": "chapter_title",
+        "title": "Capítulo 6 – Escolta",
+        "image": "Assets/cap04-09 titulo.png",
+        "text": ""
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Próximos a entrada do acampamento, estão Lycia, Sian e Gunir. Entre eles e a entrada, há uma carroça com suprimentos e alguns"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "soldados e aprendizes de magos. Kyuk se aproxima do grupo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ei Lycia, estão saindo em missão de novo? Posso ir?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Claro, pegue suas coisas rápido, já estamos quase saindo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O garoto afirma com a cabeça e dá as costas para correr."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Tem certeza disso? - Pergunta se aproximando, enquanto Kyuk se afastou."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ele precisa aprender."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Não vejo problema, dessa vez vocês têm a mim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz de mago",
+        "image": "",
+        "text": "Ei! Não esqueçam de nós!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "É, claro... tem vocês também."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não seja tão indiferente com eles Capitão, sabe que são muito uteis em batalha."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Não precisa mais me chamar assim querida jovem, tenho certeza que depois dessa missão vão te promover."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Isso mesmo! Faço questão de mandar os relatórios ao General, contando de seus feitos em batalha."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ai, obrigada pessoal..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O jovem se aproxima novamente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ei Kyuk, finalmente!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Bem na hora garoto, estamos partindo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Certo!"
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "No caminho para a missão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Lycia... Vamos deixar o Senhor Ethan sozinho no acampamento?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ele não está sozinho, temos aprendizes de mago lá também. E ele mesmo dá conta, é muito inteligente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Entendo... Igual ao senhor Gyuder."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Além disso, de vez em quando a Capital manda alguns de seus soldados para escoltar o transporte dos cristais para lá e acabam"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "nos ajudando com a segurança."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum... Agora que falou, nunca vi nenhum deles. Como são os guerreiros de lá? E por que não nos ajudam?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Eles são fortes, mas segundo o rei, precisam dar prioridade a segurança deles, mesmo tendo muito mais soldados que nós..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "É complicado, garoto. Em breve você deve conhecê-los."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Espero que sim. - Responde, olhando em volta. - Agora... qual é a missão mesmo? hehe"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Precisamos levar esses suprimentos para um vilarejo aqui próximo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Só isso?! para que um grupo tão grande?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Fienders garoto, acho que já ouviu falar deles. - Explica, rindo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Disso eu sei! Mas mesmo indo até um lugar perto daqui é perigoso assim?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Bem... É um dia de viajem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O quê?! Você disse que era próximo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Era para ser... Mas o caminho não é favorável assim o tempo todo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ei... Espera um pouco... - Diz, pensando um pouco. - Por que não vamos com magia? Naqueles círculos de teletransporte, lá?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Você não ensinou sobre eles para o garoto ainda Lycia?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Expliquei, acho que ele esqueceu."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyul",
+        "image": "",
+        "text": "Não, eu lembro sim!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Então lembra que não temos como ir para esse vilarejo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "É garoto, a viajem é curta demais e dificilmente vamos até lá."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Bem lembrado, não lembro a última vez que viemos visitá-los. Eles nos ajudam tanto, espero que estejam bem!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ajudam com o que exatamente?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Sempre que vamos lá, voltamos com alguns soldados a mais."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Também nos ajudam... quer dizer... ajudavam mandando corpos de quem morria em batalha... Agora não tenho mais essa função..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Kyuk abaixa a cabeça. Lycia reage colocando a mão no ombro dele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Quando voltarmos, podemos tentar falar com o Mago Mestre sobre isso... Agora você precisa focar na missão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "T-Tem razão... Da última vez não fiz nada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Você foi para aprender. E saber observar quem já sabe também é um treino."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Estou vendo o começo do rio, logo vamos parar rapazes!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Uaah! Agora se me dão licença, vou tirar um cochilo, conto com você Lycia! - Diz, bocejando e se apoiando na carroça para"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "subir nela."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Mas já? E a missão?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ele vai dormir justamente para isso, logo iremos acampar e ele ficará no turno da noite."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum... -Olha em volta e nota que apenas Sian entrou na carroça. - Só ele?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não, o Capitão... o Gunir também. Só que ele não consegue dormir em missão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E tudo bem com isso?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Claro... Sabe, você nos subestima demais. Relaxe, Kyuk. - Aconselha, enquanto saca sua espada e se afasta do grupo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Aonde vai?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Varredura, Sian me deixou fazer dessa vez. - Explica, avançando na frente e subindo em algumas das poucas arvores do próximas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "ao rio."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O grupo para onde está, aguardando. Alguns minutos depois Lycia desce de uma das arvores e acena para que prossigam."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Foi rápida senhorita, tem certeza de que não quer ficar no lugar do Sian? -Elogia, rindo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Nunca! Ele é bem mais rápido que eu e o plano era eu me juntar a vocês aqui no leste de qualquer forma mesmo."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O tempo passa, logo escurece. Fazem uma fogueira, os aprendizes e guerreiros vão adormecendo aos poucos. Lycia acorda Sian"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "para trocar de turno. Até sobrarem Gunir, Sian e Kyuk acordados."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Não precisa se forçar a ficar acordado conosco garoto... Uaah! Vou fazer a varredura da noite, já volto. - Avisa, bocejando e"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "espreguiçando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sinto que preciso fazer isso, talvez eu possa aprender alguma coisa. Gunir está bem concentrado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Se vai ficar mesmo conosco, saiba que vão aparecer Fienders com certeza. Principalmente por causa da fogueira. - Afirma,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "voltando a ficar em silêncio. Kyuk engole em seco."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Certo! Não tem nenhum por enquanto! - Exclama, ao lado entre os dois. Kyuk pula tomando um susto e gritando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Tá maluco?!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Desculpe, não cheguei de fininho para não assustar vocês."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah, é?! Chegar gritando também não dá certo!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Só tem você gritando agora. - Comenta, rindo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Para de rir! Isso não tem graça! - Grita, ainda com a mão no peito. Gunir continua atento, segurando sua lança."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Estou surpreso que ainda não tenha dormido e... - Antes de terminar sua frase, percebe algo. - Gunir!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Não ouvi direito, de qual direção?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Estão vindo espalhados pela frente, não parecem muitos... Pela velocidade devem ser dos menores. - Informa, indo em direção a"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "fogueira. Kyuk engole novamente em seco, sacando sua espada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Sian, a tocha."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Eu sei, lá vai. - Responde, atirando a tocha para frente do trio. - Fique atento garoto, use todos os sentidos que puder."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os monstros se aproximam a uma distância quase visível na luz da tocha e Kyuk começa a ouvi-los e ver suas silhuetas. O espaço"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "não tem muitas arvores para atrapalhar a movimentação ou a visão, mas está de noite e a lua não está iluminando muito,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "deixando a função para a fogueira e tochas que Sian lançou a mais, evitando proximidade com as árvores e coisas secas no chão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "São mais do que imaginei, vamos precisar de ajuda."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Todos acordem!!! Estamos sendo atacados, preparem-se! Lycia e os soldados levantam rapidamente sacando suas armas, em questão"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "de segundos estão todos em pé e prontos para a batalha. Os dez magos, que foram junto"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "do grupo, demoram um pouco mais para ficarem apostos. A batalha inicia com Gunir avançando ao lugar mais iluminado pelas"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "tochas. Usando sua armadura grande, lança e escudo grande em mãos. A atenção dos monstros é voltada para ele, boa parte do"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "grupo avança em direção do capitão, porém alguns passam por ele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Aprendizes, já estão prontos? Precisamos de vocês. Sian, Lycia e os soldados começam a trocar golpes com os Fienders que"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "passaram por Gunir. Aprendizes retiram orbes de suas vestes ou bolsas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz 1",
+        "image": "",
+        "text": "E-Estamos prontos! Rápido, usem magia de Iluminação. E Chamar Atenção"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "no Capitão Gunir. Nesse momento metade deles fazem seus orbes se iluminarem por uma energia branca azulada que flutuam por"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "cima do campo de batalha e a outra metade usam seus orbes para enviar uma energia na armadura de Gunir que brilha da mesma cor"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "que os orbes flutuantes, mas menos intenso. Fazendo com que os monstros que haviam chegado mais próximos do acampamento também"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "voltassem sua atenção para o homem de armadura grande."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Argh... - Diz baixo, sentindo um pouco de dor e levando a mão ao pescoço. Ao mesmo tempo, os monstros são destacados, por"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "terem todas as cicatrizes de seus corpos iluminados pela mesma cor da magia dos aprendizes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Lycia, agora!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Certo!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz 2",
+        "image": "",
+        "text": "Sejam rápidos, a magia no Capitão não vai durar muito tempo!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ambos avançam rapidamente, decapitando a maioria dos monstros acumulados, Sian os da esquerda, Lycia os da direita. E Kyuk"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "acerta um no olho, que estava mais afastado encontrando espaço para atacar Gunir. Logo atrás do jovem, os soldados avançam"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "cercando os monstros mais afastados também."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Arf... Arf... Vocês são muito rápidos! - Comenta, acertando o outro olho do mesmo demônio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não fique muito longe de nós. - Avisa, atacando outro que tentava acertar Kyuk em seu ponto cego. Após isso, fica nas costas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "do garoto de costas para ele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Mandou bem, mas mantenha o foco e aproveite toda a vantagem ao máximo! Kyuk defende patadas mal acertadas pelo monstro e o"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "mata acertando sua espada no meio da cara."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Argh! Mesmo não enxergando ele tem muita força, como os daquele dia. - Pensa."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "A armadura de Gunir para de brilhar, o pequeno grupo que ainda restava em volta dele foram empurrados por seu escudo a ponto"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "de derrubá-los no chão. Um dos demônios que estava de barriga para cima ainda ergueu os braços em direção a um dos orbes"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "luminosos acima, tentando alcançá-lo, mas logo teve sua vista manchado pelo próprio sangue, devido ao golpe de machado que ele"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "e outros caídos no chão receberam com precisão dos soldados."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Ei... Vocês repararam que esses monstros têm cicatrizes que brilham?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Não só vi, como está nos ajudando muito para saber onde estão. -Comenta, desviando de um golpe. - Arf... Arf... Obrigado"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "magos!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Eles ainda não são magos. - Menciona, rindo. Ao mesmo tempo que decapita mais dois."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz 1",
+        "image": "",
+        "text": "N-Não temos esse tipo de magia..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Faltam poucos, os outros guerreiros estão lutando bem hoje."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Huh? - Questiona, reparando no resto do campo de batalha, onde vê Gunir atravessando sua lança em três demônios de uma vez e"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "lançando-os em outros. Além de Gunir, soldados desviam de ataques e acertam outros com suas espadas, machados e lanças."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Está vendo? Até os menos experientes optam por desviam dos ataques ao invés de defendê-los. A força física dos inimigos é"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "muito maior que a nossa. - Ensina, fincando sua espada no crânio de um demônio que havia acabado de derrubar no chão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E essas armas... nem todas são espadas, né? A do capitão Gunir só tem lâmina na ponta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Aquilo é uma lança, ela é assim para poder acertar os inimigos de longe, como acabou de ver."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E se os inimigos chegarem perto demais?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Seu escudo e armadura o protegem... Cada arma tem seus pontos fortes e fracos, assim como as coisas que mencionei na caverna"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "de cristais... Dizem que sua lança é a mais resistentes das armas, mesmo sendo de madeira."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Parece que... as cicatrizes estão parando de brilhar conforme matamos eles. - Observa, se aproximando de Lycia e Kyuk. Gunir"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "golpeia um inimigo com seu escudo, lançando-o contra a arvore mais próxima e fazendo as marcas em seu corpo pararem de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "brilhar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Certo, esse foi o último! - Exclama, erguendo seu escudo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk e Guerreiros",
+        "image": "",
+        "text": "Q-Que força! - Comemoram, admirados erguendo suas espadas também."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O que será isso? Os aprendizes disseram que não foram eles."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Algum tempo após a batalha."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Estranho, não era para terem tantos assim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Se encontramos essa quantidade agora, devemos ficar um tempo sem vê-los. - Diz, sentado em uma rocha, com seu capacete em"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "mãos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Será que encontraremos mais adiante também?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Das últimas vezes encontramos mais deles na ponte subindo o rio, não aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Ei homens! Sei que a batalha de hoje foi difícil, mas pela quantidade de inimigos encontrados hoje, amanhã pode ser mais fácil"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "de atravessar a ponte! Voltem ao descanso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É estranho tudo isso de monstros? Minha vila é lá longe no norte e apareceram vários. Eles eram quase iguais a esses, só não"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "tinham machucados..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Todos os demônios vêm do Oeste, mas não é raro vermos alguns por aqui também, sua vila ter sido atacada ainda é um mistério"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "para nós. O Ethan acredita que"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "os demônios tentam vir para cá porque são atraídos pela forte magia da mina de cristais."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não é só o Ethan, o Mago Mestre também acha isso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Você disse que não estavam machucados... - Menciona para Kyuk - Monstros são parecidos, tenho a impressão de já ter enfrentado"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "esses aqui antes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Por um momento senti algo estranho na floresta... Era na direção de onde os Fienders vieram. O que era isso?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os capitães olham para Kyuk confusos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O que foi?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Kyuk... Nós não sentimos nada."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Na manhã seguinte, o grupo está subindo o rio em direção ao vilarejo. Não demora muito até que chegam em uma ponte pequena de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "madeira que auxilia na travessia desse mesmo rio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Estamos chegando, não é muito longe depois daqui. Só temos um problema..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "A distância entre a ponte e o rio é considerável, mesmo Gunir caindo de uma altura dessas não conseguiria subir de volta sem o"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "auxílio de uma corda. O rio em si não está muito alto e sua correnteza estaria quase imóvel se não houvesse um pequeno grupo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "pisando na água."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Como previmos, não sobraram muitos. Aprendizes, acham que conseguem trazêlos aqui para cima como das outras vezes?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz 2",
+        "image": "",
+        "text": "Claro, vamos com um de cada vez. Magia de levitação é mais complexa do que parece. Assim, um dos monstros começa a flutuar e"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz 2",
+        "image": "",
+        "text": "os outros logo se agitam tentando segurálo, arranhando-o. Um deles se afasta um pouco do grupo apreensivo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Por favor, sejam rápidos, não queremos que eles fujam."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz 1",
+        "image": "",
+        "text": "Pode deixar!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk olha para baixo e tem a sensação de estarem o observando, então recua um pouco."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Alguns de vocês têm arcos, por que não atiram daqui?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "E contaminar o rio com o sangue desses bichos? O vilarejo que estamos indo depende da água desse rio para sobreviver. -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Explica, observando os soldados acertando"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "o primeiro monstro que subiu."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Certo, próximo! Tentem pegar aquele ali mais afastado. Ao ouvir isso, o demônio em questão se agita e volta a ficar junto do"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "grupo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Hã?! Tá bom, tanto faz quem será o próximo. Assim que o próximo monstro é erguido, o demônio que antes estava agitado sai em"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "disparada na mesma direção da correnteza. Encorajando o restante do grupo a fazer o mesmo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Deixa comigo! Vou tentar pegá-los. - Avisa, saindo em disparada tentando acompanhar os fugitivos, beirando a parte de cima do"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "rio."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O homem apesar de ágil, não consegue acompanhar o primeiro inimigo que correu primeiro e mal está acompanhando os outros dois"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "que o seguiram."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Droga, desse jeito não vou conseguir pará-los. - Pensa, se forçando a correr mais rápido. - É, não vai dar certo... E se"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "continuar assim vou perder até esses dois. - Pensa, focando sua atenção nos inimigos mais próximos. Assim, Sian pula e"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "aterrissa em cima dos dois alvos, fincando suas lâminas em suas costas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Tsk! Se fosse o Shin... Arf... Arf... - Comenta baixo, vendo seu objetivo principal tendo êxito na fuga."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Um momento depois, Lycia se aproxima do lugar onde Sian estava antes de saltar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Eei Sian! - Grita da beira do rio. - Arf... Arf... Conseguiu? Pegou eles?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Só esses dois... Arf... - Responde, retirando suas espadas dos corpos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não se preocupe, ele não deve ir longe, na volta podemos pegá-lo! Agora volte, precisamos seguir. Os outros já foram na"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "frente."
+    }
+]

@@ -1,0 +1,1010 @@
+[
+    {
+        "type": "chapter_title",
+        "title": "Capítulo 2 – Fim da Linha",
+        "image": "Assets/cap02-03 titulo.png",
+        "text": ""
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Em uma fortaleza de madeira, acabara de anoitecer. Há um círculo mágico no chão com tamanho suficiente para comportar um grupo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "grande de pessoas, em cada um dos lados, dois círculos menores e acima um círculo do mesmo tamanho que os laterais, com linhas"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "que conectam entre eles e os conectam ao maior. Na região abaixo, um corredor largo, porém não muito comprido. Todos esses"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "símbolos no chão, apesar de estarem dentro da fortaleza, se localizam em um lugar a parte do restante da estrutura, como uma"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "sacada grande. Poucos segundos depois, no círculo de cima, o corpo de Kyuk aparece com uma cicatriz contornando o pescoço. E"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "alguém se aproxima de seu corpo."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Em um campo de treinamento, dentro da fortaleza."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Não acredito nisso, outro garoto morto..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Senhor, lembre-se que nem todos têm a chance de lutar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Do que está falando? Vamos revivê-lo!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hum... Acha que esse merece? Sabe que sou a favor de expandirmos o recrutamento, mas não podemos reviver qualquer um, o Mago"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Mestre pode não querer e..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Temos uma guerra pela frente, precisamos de toda ajuda possível."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Mas senhor, se me permite, não acho prudente termos um aliado a mais, apenas porque o senhor simpatizou."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Lycia, não simpatizei com ninguém, além do mais, se temos a chance de ajudar alguém, devemos ajudar!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Agora leve o corpo desse rapaz ao Mago Mestre."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Certo."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "No pátio principal do forte, na base de uma escadaria que leva a uma biblioteca, o Mago Mestre se encontra junto de alguns"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "aprendizes em sua volta. O Mago se depara com Lycia se aproximando com o corpo morto nos braços."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Hum? Não farei isso! - Comenta, passando por ela."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hã?!!! E por que não? - Questiona, acompanhando-o."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Porque não quero. - Comenta sem tirar sua atenção de seus aprendizes. - Como eu dizia, hoje é o dia de reforçar a barreira da"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Capital, estou de partida, conto com a ajuda de vocês com a barreira protetora desse forte."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Mas o capitão Gyuder que me mandou aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Aquele velho não sabe o está fazendo! Temos uma guerra pela frente, não podemos ficar revivendo qualquer um, precisamos ser"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "mais seletivos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Senhor... Se temos a chance de ajudar alguém, devemos ajudar! Mago Mestre coça sua barba por poucos segundos, em silêncio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Quanta baboseira! Não vou fazer isso e pronto!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Como pode ser tão egoísta? Você é o único no mundo poderoso o bastante para conseguir fazer isso!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "E o que você entende de magia pra falar uma coisa dessas? Você é uma guerreira."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os aprendizes seguram o riso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Se eu fosse detentora de tanto poder eu ajudaria!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os aprendizes começam a rir de Lycia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Isso não tem necessariamente a ver com ter muito ou pouco poder!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "Ué, não tem? - Questiona, sussurrando em dúvida ao outro."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Então...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Então que esse garoto não tem sorte, simples assim. Não sei por que o trouxe aqui, sabe que é o Kairos quem lida com isso. -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Adverte, apontado para uma cabana ao lado direito da escadaria. - Agora leve-o daqui e deixe junto dos outros corpos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Certo... - Responde, decepcionada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não sei do que estavam rindo, espero que não tenham problemas com a barreira dessa vez."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "D-Desculpe senhor, vamos fazer o nosso melhor."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Hunf... Aguardo o dia em que teremos mais magos de verdade nesse mundo. É muito trabalho apenas para mim e Kairos."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Entrando na cabana, Kairos está de costas para Lycia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Senhor Kairos... outro corpo..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Certo, certo... Deixe-o ali, depois vejo. Lycia deixa o corpo, conforme solicitado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Senhor Kairos... não entendo como consegue fazer isso todos os dias..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Isso o que?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Isso... verificar todos os corpos que são enviados para nós e depois falar com o Mago Mestre... Não deve ser fácil ter que"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "decidir quem revive e quem continua morto..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Bom, é o meu trabalho."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Eu entendo, mas isso não te incomoda?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "A gente meio que se acostuma depois de um tempo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Você se acostumou?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Mais ou menos... Nem mesmo essa função é completamente ruim, tenho meus motivos para estar aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Entendi... Bom, se me permite, estou de saída!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Certo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ah senhor, uma última dúvida."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Fale."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Se nossa necessidade de mais pessoas para o exército é tão grande, por que não tentamos recrutar em vilarejos menores também?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "De novo com isso? Sei que o Mago Mestre é uma pessoa difícil de se lidar, mas as vezes, entendo ele..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Er... D-Desculpe! Não foi minha intenção."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Não se desculpe, até parece que você está falando um absurdo. Sabemos que não é bem assim, mas entenda que já temos problemas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "demais. E por mais que eu também queira, não é qualquer um que conseguimos reviver, tem condições especificas e..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "“E até hoje só uma pessoa foi revivida...”. Sim, já me contaram essa história."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Isso. E já faz um bom tempo. Desde então, tenho esperado o dia que a próxima pessoa chegasse para mim... Agora se me der"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "licença, preciso preparar os corpos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "A-Ah sim, claro. Com licença!"
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Algumas horas mais tarde, Lycia está chegando em seu dormitório, próximo ao campo de treinamento. Gyuder chega correndo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "preocupado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Ei Lycia!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ah, o que foi senhor?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Onde... Onde encontrou ele?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ele quem?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "O último corpo que me mostrou! Lembra?! Daquele jovem!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Calma capitão, o que aconteceu?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Onde o encontrou?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "N-No círculo mágico, onde mais seria?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Em qual deles?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hum... Acho que no do Norte."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Acha? Preciso da sua certeza... ou melhor, venha comigo!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "C-Capitão... Nunca te vi assim. - Comenta, acompanhando-o."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Mas deve ter sido isso mesmo, então... Bark deve tê-lo enviado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O Bark? Quer dizer que aquele garoto é..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Sim e você devia ter me dito antes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não foi por mal capitão, esqueci completamente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Eu também devia ter perguntado. Droga! Chegando no pátio principal da fortaleza, em frente a cabana de Kairos e na base da"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "escadaria que leva a biblioteca, alguns aprendizes de mago estão aglomerados em volta de alguém."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "...Senhor? O que pretende fazer?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz 2",
+        "image": "",
+        "text": "Não adianta, ele não vai responder, está concentrado."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ao se aproximarem, Lycia percebe melhor a situação, e em silêncio, Kairos desenha um círculo mágico no chão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Senhor Kairos... O que está acontecendo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Como disseram, não adianta, ele está desenhando esse círculo há horas sem falar nada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Para quê?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Não sei, mas tenho minhas suspeitas, por isso te chamei."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Um dos aprendizes analisa melhor o desenho do círculo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "Espere um pouco... Acho que conheço esse círculo mágico."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O que foi? Que círculo é esse?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Confesso que também nunca vi um desse antes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "É um círculo único para conjurar a magia de..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Reviver."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "Como conseguiu desenhá-lo em tão pouco tempo? E sozinho?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Não me subestime garoto... Já estudo magia há muito tempo. - Adverte, terminando de desenhar e entra em sua cabana."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "Como esperado do senhor! Então se está fazendo o círculo, quer dizer que o Mago Mestre irá reviver alguém. Que oportunidade"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "única para aprender isso!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz 2",
+        "image": "",
+        "text": "Mas o Mago Mestre não foi pra capital? Como isso seria possível?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "É mesmo, como o senhor Kairos pretende reviver alguém sem o mestre? Não sei muito sobre essas magias complexas, mas tem um"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "tempo limite para reviver alguém, não é? E até o Mago Mestre voltar, já terão se passado dias eKairos sai da cabana carregando"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "Kyuk em seus braços."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Eu o farei!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendizes e Gyuder",
+        "image": "",
+        "text": "O senhor?!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O que foi pessoal? Isso é tão complicado assim?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Lycia, não entendo muito de magia, mas sei que só o Mago Mestre consegue reviver alguém."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kairos se aproxima e coloca Kyuk dentro do círculo com muito cuidado, assim que o corpo entra no círculo, todas as linhas"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "brilham intensamente e reduzem, deixando o círculo brilhando sutilmente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "Mais importante que isso, como pretende fazer isso? Podemos ajudá-lo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Não, é muito arriscado! E vocês não deviam estar ajudando os outros a reforçarem a barreira?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Aprendiz",
+        "image": "",
+        "text": "S-Sim, já estamos indo. E os aprendizes de mago seguem para o lado externo da fortaleza."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Tem uma coisa que não entendi. Por que ele? Havia tantos outros..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Porque... Esse é meu filho."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia e Gyuder",
+        "image": "",
+        "text": "Hã... é o quê?!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Então era ele quem você esteve esperando todo esse tempo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Sim... Foi uma tarefa cruel, confesso que por um lado estava ansioso para reavê-lo, mas por outro, não queria que fosse"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "dessa... forma."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Sabíamos que esperava por alguém do norte, mas nunca imaginei que seria seu filho..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Uhn... - Sente um nó na garganta. - Não sei nem o que dizer senhor... Sei que fiquei responsável por isso e..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Poderia começar se desculpando!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "M-Mas não tinha como saber... E faz anos que não conversamos sobre isso, eu tinha acabado de ser recrutada e vocês me passaram"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "essa tarefa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Isso não é desculpa, você está prestes a fazer seu teste pra ser promovida e ainda age dessa forma?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Está tudo bem... O importante é que já tomei minha decisão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Então vai mesmo... Revivê-lo? Kairos dá um longo suspiro."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Sim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Senhor, poderia explicar mais... sobre essa magia?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Sinceramente, não queria, mas devo uma explicação para evitar mais problemas... A magia de reviver, assim como qualquer outra,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "necessita de orbes ou símbolos mágicos para funcionar. Quem convoca a magia, unifica sua energia vital com o símbolo ou orbe."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "O que diferencia essa das outras... Bem..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O que foi?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "A diferença é que quanto mais complexa a magia, mais ela exige da energia vital do usuário. E nesse caso, estarei literalmente"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "transferindo anos de vida para ele. Lycia e Gyuder ficam quase sem palavras."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Então você vai... E não tem como você controlar quanto tempo vai transferir?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Como disse, é uma magia muito complexa, talvez algum Paladino da capital ou o Mago Mestre... Mas esse último é uma exceção,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "essa magia funciona diferente para ele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "E por que não podemos esperá-lo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Porque essa magia só funciona quando a alma ainda não saiu completamente do corpo da pessoa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "E quanto tempo temos?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Não sei, varia muito de um ser para o outro."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "E como sabe que ainda tem tempo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "O círculo ainda está um pouco ativo. Não tenho mais tempo a perder. -Diz, fechando"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "os olhos e colocando as duas mãos no círculo. Lycia tenta ir em direção à Kairos, mas é impedida por Gyuder que faz sinal"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "negativo com a cabeça. O desenho circular volta a brilhar intensamente, tomando para si a responsabilidade de iluminar a"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "noite. Após um tempo, Kairos abre os olhos que deram lugar a um brilho igual ao do círculo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Kyuk... Sinto muito que as coisas tenham ficado assim. - Lamenta, tocando delicadamente a cicatriz do filho, que também começa"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "a brilhar sutilmente. - Sei que não fui muito presente, mas quero que saiba que te mandei pro norte para te proteger... -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "Explica, com um risco de luz saindo de seus olhos e descendo através do rosto. - É mesmo, você cresceu tanto... Gostaria de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "poder vê-lo crescer ainda mais, saber o que aprendeu até agora, saber dos seus sonhos... É muito injusto, mas pelo menos estou"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "tendo a oportunidade de ser menos egoísta e dando a você uma segunda chance de escolher, de recomeçar... então deixarei as"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "coisas com você daqui pra frente... - Concluí, com um sorriso no rosto."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O brilho mágico vai se apagando lentamente, dando lugar a luz do sol vinda do horizonte. Está amanhecendo. Kyuk abre os olhos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "lentamente senta-se devagar com a mão na cabeça."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum...? Onde estou?"
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ao mesmo tempo, no mesmo círculo que Kyuk aparecera, surge um envelope fechado."
+    }
+]

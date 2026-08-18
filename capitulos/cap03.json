@@ -1,0 +1,1418 @@
+[
+    {
+        "type": "chapter_title",
+        "title": "Capítulo 3 – Sorte?",
+        "image": "Assets/cap02-03 titulo.png",
+        "text": ""
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Em uma arvore próxima da Fortaleza, um ninho de pássaros presencia o rachar de um ovo solitário. Kyuk abre os olhos lentamente"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "se senta devagar com a mão na cabeça."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum...? Onde estou? Gyuder e Lycia ainda estão sem reação. Kyuk lembra-se vagamente do que ocorreu e leva a mão ao próprio"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "pescoço rapidamente, preocupado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Argh! - Exclama surpreso, fechando os olhos, quando os abre nota estar em outro lugar, um quarto."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Calma, calma. Está tudo bem agora. Você está seguro."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O-O que... O que aconteceu? - Questiona-se, olhando em volta assustado. - Podia jurar que eu... Coff... Coff... Então... Então"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "eu sobrevivi? O que aconteceu com aquela mulher? - Pergunta, enquanto se recorda. - É mesmo!!! Yukia! Senhor Bark!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Acalme-se! Está tudo bem, não sei quem é essa Yukia, mas o Bark deve estar bem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E quem é você?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Você... Não se lembra do que aconteceu depois de morto?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Não, só lembro de... Espera aí, morto?! Eu morri?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não, quer dizer sim, mas passa bem. Kyuk continua olhando em dúvida."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Morri, mas passo bem?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Aah! Eu não entendo direito esse negócio de magia! - Exclama, com as mãos na cabeça, confusa. - Mas você está vivo e seguro"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "agora."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum... - Diz baixo. - Que sensação estranha é essa? - Pensa, olhando para suas mãos levantadas a sua frente. Em seguida toca"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "seu corpo com cuidado. Até que volta sua atenção para a mulher novamente. - E que lugar é esse?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Esta é a Fortaleza do Mago Mestre."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Quê?!!! Como vim parar aqui? Foi você quem salvou meu vilarejo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não, não sei nada sobre seu vilarejo... Olha, você foi enviado pra cá através de magia, provavelmente foi o senhor Bark."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E como minha cabeça está no lugar?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Magia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E como estou vivo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Magia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Você só sabe falar isso?! - Questiona. - Esse negócio de magia é bem conveniente, né? - Murmura."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ei! Não é tão simples assim! Você só está vivo porque teve muita sort..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Espera, você disse que estamos numa fortaleza."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sim. - Responde. - E não me interrompa. - Resmunga baixo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Então, aqui tem guerreiros?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Claro, eu inclusive sou uma."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Você?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Algum problema com isso?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "N-Não... É que você não parece uma guerreira."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Então você acordou. - Comenta, entrando no quarto."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sim e quem é você?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Eu sou Gyuder, um dos capitães do exército do Mago Mestre. E você...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Capitão? Que legal! Eu sou Kyuk e... Err... Sou um guerreiro!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hã? Um Guerreiro? - Pergunta, com olhar sarcástico."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É, algum problema?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Garoto, com todo respeito, mas você não me parece um guerreiro."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Mas eu sou e estou aqui para... para treinar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Nem sabe direito como veio parar aqui e age como se soubesse o que está fazendo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ué, magia! Isso é comum."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "E o que você entende de magia, se é um “guerreiro”?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Pode ter certeza... que não sei de nada. - Responde, com um sorriso no rosto e uma pequena gargalhada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Como pode ser tão confiante? - Pensa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "E como está seu pescoço? Dói?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Meu pescoço...? -Pergunta, levando a mão a cicatriz. - Ah! É mesmo, minha vila foi atacada por umas criaturas estranhas!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Hum... Imaginei, chamamos eles de Fienders, são demônios."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Esse ataque, mais cedo você falou de uma mulher."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "A Yukia?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não, você perguntou onde estava “aquela mulher”. Era alguém da sua vila?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "N-Não... - Responde, hesitando. - Como mencionei antes, minha vila foi atacada e..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "E...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu não sei, eles atacavam tudo que viam, mas tinha uma que parecia uma mulher e falava que achou o que estava procurando"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "quando lutava comigo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia e Gyuder",
+        "image": "",
+        "text": "Você diz que ela falava?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sim, mas no fim ela me matou, o que está acontecendo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Essa é a primeira vez que ouço falar de demônios inteligentes em atividade. Então o que o Mago Mestre me contou era verdade?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Fienders inteligentes? Os que encontramos já dão trabalho demais. Precisamos investigar melhor sobre isso capitão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Agora não podemos, o Mago Mestre está na capital."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "É mesmo, então o que faremos?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Mandarei alguém ir avisá-lo... De qualquer forma, estava preocupado com o Bark, então fui até o portal do norte, não estava"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "funcionando, mas encontrei isso. - Diz, pegando"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "uma carta. - Uma carta dele pra você Kyuk."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Do senhor Bark?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Bom, deve ser, não tem remetente, nem destinatário."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "“Remelente”? “Destinotário”?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Você é de longe mesmo, né? Quer dizer que não indica quem enviou e nem para quem é. - Explica, entregando a carta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Oh, eu sabia... Deixe-me ver! - Afirma, pegando a carta."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk olha para carta, seus olhos vão de um lado ao outro da folha rapidamente, olhava de cima a baixo empolgado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "E então...? O que diz?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Err... Eu não sei ler. Hehehe"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Aaah! Me dá isso aqui! - Exclama, pegando a carta de volta e começa a ler em voz alta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Carta",
+        "image": "",
+        "text": "[Saudações garoto, Se é você quem está lendo esta carta, agradeço aos céus, pois significa que alguém te deu"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "uma segunda chance... Estamos bem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "PS",
+        "image": "",
+        "text": "Se não for, peço humildemente que enterre está carta junto com o corpo do jovem que apareceu nesse mesmo portal. Avise"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "PS",
+        "image": "",
+        "text": "Kairos.]"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ufa! Que bom que estão bem, mas por que ele não falou quem era?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Para caso caísse em mãos erradas, não desse informações ao inimigo. Lycia segura um riso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Parece que ele também esqueceu que você não sabe ler."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E Kairos? Quem é esse?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Bom... Err... Isso é complicado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Era o seu pai."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Meu pai?!!! E por que “era”?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Err... Isso também é complicad..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Ele morreu para te salvar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "S-Senhor Gyuder... Que indelicado... -Sussurra, próxima ao capitão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "C-Como assim?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Ele deu o tempo de vida dele para você, usando magia. Foi assim que você reviveu."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk fica em silêncio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Só não entendo por que o Bark escreveu essa carta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ele quer que cuidemos dele?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Pensando bem, nada mais justo que honrarmos o sacrifício daquele homem... Você é um jovem de sort..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Onde ele foi enterrado? O meu... pai. Posso ver?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Claro. Lycia, leve o garoto. - Manda, olhando para Kyuk, intrigado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sim!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "E acho melhor já se acostumar, pois será a mentora dele daqui pra frente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hã?!!! Por que eu?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Considere como um pré-teste a sua promoção."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hunf... Está bom."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "E você, Kyuk. Seja bem-vindo ao exército do Mago Mestre, serei seu superior. Se precisar de algo, fale comigo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ooh, sério?!!! O-Obrigado senhor!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Agora preciso ir. E Lycia, escreva uma carta respondendo o Bark."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Certo. Também já estamos indo."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Lycia e Kyuk vão para fora da fortaleza. Logo ao saírem, o garoto nota que estão muito alto em comparação às planícies em"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "volta. Alguns passos à frente do portão principal, Kyuk olha para trás."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum? O que foi isso? - Se questiona."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Isso o quê?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah nada, deixa pra lá... -Diz, voltando sua atenção para frente. - Nossa, que alto! - Grita, enquanto olha pra todas as"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "direções possíveis, com a mão fazendo sombra acima das sobrancelhas. - A Yukia iria adorar essa vista!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ambos começam a descer por um caminho único, feito na grama. O caminho não é muito íngreme, o que atrapalha a descida são os"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "vários troncos de árvores fincados e alinhados em grupos no chão, formando inúmeras barreiras de madeira."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Quem é essa Yukia? Você comentou dela mais cedo também."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah, ela é filha do senhor Bark e minha amiga... O senhor Bark é alguém importante?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sim, ele fornece armas para nós."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É? E como ele traz até aqui?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Da mesma forma que você veio para cá, teletransporte."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E isso é mesmo possível?! Como?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Claro, são necessários dois círculos de magia, um no ponto de partida e o outro no ponto de chegada, mas ambos precisam ser"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "exatamente iguais."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E se duas pessoas tentarem usar ao mesmo tempo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sei lá, acho que o portal não funciona se isso acontecer."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os dois então chegam ao suposto cemitério que não é nada convencional. De início, Kyuk sentiu falta de uma entrada. Os túmulos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "não foram organizados de forma retilínea, muito pelo contrário, parece até que cavaram um buraco, jogaram o corpo e"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "enterraram. Os amontoados de terras nem mesmo tinham lápides para serem chamados de túmulos, o que combina bastante com a"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "falta de entrada. O único que era um tumulo propriamente dito, estava um uma pequena colina, separado dos demais."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Aquele lá é o tumulo dele?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sim..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Eles se aproximam da colina."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Seu pai era alguém muito especial, também sentimos muito pela sua perda."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sei que devia ter perguntado antes, mas são muitos... De onde vieram tantos?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "A maioria veio até nós igual você, pelos portais. Pois assim como o Bark, outras pessoas também nos ajudam e vez ou outra"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "acabam nos enviando corpos para o Mago Mestre poder reviver."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk olha para as próprias mãos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Reviver... Isso é mesmo possível? E se é possível, o que todos eles estão fazendo aqui? - Pergunta, notando que há ainda mais"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "montantes de terra ao redor e depois da colina."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Bem... Digamos que não é tão simples assim... Sabe, não é de hoje que enfrentamos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "os Fienders... Estamos perdendo muitos companheiros em batalha, nosso exército está diminuindo. E quanto mais o tempo passa,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "mais a necessidade de aumentarmos as nossas forças, mas para o Mago Mestre, não adianta reviver pessoas que não se mostram"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "aptas a lutar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu não entendi direito, mas quer dizer que estão todos aqui, por que alguém não achou eles necessários?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sim, vendo desse jeito... sim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Quem esse mago pensa que é?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Acalme-se Kyuk, não é hora para ficar bravo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Como não?! Lycia puxa Kyuk pela gola da camisa, olhando-o nos olhos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O Mago Mestre tem muitas coisas pra lidar! - Grita, mas logo desvia o olhar e o solta. - E... Eu também não entendo ele as"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "vezes... - Diz, chateada. - Além do mais, você devia estar grato por estar vivo!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah, é? E quantos foram revividos até agora, então? - Pergunta, se afastando um pouco."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ouvi dizer que você foi o segundo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O que...?! Isso não é justo! - Grita, se ajoelhando. P-Por que... por que eu tive uma segunda chance e eles não?! Não sabe"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "quem foi o outro?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu juro..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hã?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu juro aqui no tumulo do meu pai, que isso não vai ficar assim... Minha vila, todas essas pessoas... Eu juro que lutarei por"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "vocês! - Promete, ainda ajoelhado e olhando para seus punhos fechados."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ambos voltaram à fortaleza. Depois de um tempo, foram ao campo de treinamento."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Muito bem, como é seu primeiro dia, vamos com calma."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "C-Como assim meu primeiro dia? Eu já sou um guerreiro!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "É, estou sabendo... Agora escolhe alguma arma. Kyuk olhou em volta e viu desde armas de madeira à bem forjadas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "HÁ! - Exclamou, com um nó na garganta. - Eu só queria uma, morri usando um pedaço qualquer e aqui havia tantos... - Pensou,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "com lágrimas nos olhos, mas já enxugando o rosto com o braço."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Algum problema?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Nada, vou querer essa aqui. - Responde, pegando uma espada simples de madeira."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Certo, agora segure com as duas mãos, deixe os pés bem firmes no chão e faça movimentos de cima para baixo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ele segue passo a passo das instruções."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Certo, e agora?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Agora fique aí fazendo isso por um tempo. Se acostume com o peso da arma, pode até arriscar outros movimentos se quiser, só"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "não perca a postura."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Aonde você vai?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Escrever a carta ao Bark."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu... achei que iríamos lutar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Essa é a primeira vez que segura uma arma e já quer lutar?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Como sabe que é a primeira?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Você está muito tenso. Agora pratique, estarei logo ali, pode chamar se precisar. - Comenta, se virando para sair."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ei, Lycia!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O que foi?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Obrigado... por tudo!"
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Dois dias depois. Kyuk e Lycia estão lutando no campo de treinamento, devidamente equipados."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Arf... Arf..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Isso é muito estranho."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O quê?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hoje faz três dias que começou seu treinamento, mas sempre parece ser seu primeiro dia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Do que você tá falando? - Pergunta, atacando sua adversária com sua espada de uma mão. Lycia interrompe o ataque, acertando a"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "espada do oponente, lançando-a pra longe."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "É disso que estou falando, você não atacou de qualquer jeito, mas tem algo estranho."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Droga! - Diz, indo buscar sua arma."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Será que é a arma? - Pensa. - Tem certeza de que não quer tentar com outra espada? Temos espadas de outros tipos também."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Certo, vou tentar! Mesma conclusão do caso anterior."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Mas o que?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hum... Eu não entendo. Quem sabe uma Bastarda. - Menciona, indo em direção as armas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Me chamou de quê? Bastarda é você!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Estou falando da espada, espada Bastarda. - Explica, procurando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E o que é isso?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "É essa aqui. - Fala, tirando a arma de sua bainha. - Como pode ver, ela não é pequena como uma espada de uma mão, mas também"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "não tem tamanho suficiente para ser uma de duas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E pra que eu vou querer uma espada assim?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Veja, essa espada é muito versátil, além do seu peso mediano, ela também pode ser usada tanto com uma quanto com as duas mãos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Que legal, isso parece bom."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Ei garoto, não queria atrapalhar seu treino, mas chegou outra carta para você."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah, Senhor Gyuder, obrigado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Estou vendo que aprendeu boas maneiras também."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hunf, duvido muito... Quando ele age assim é porque quer alguma coisa. Provavelmente lutar contra o senhor."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Comigo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Tsk! Isso não é bem verdade, senhor. Bem, talvez seja."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Mas garoto, sua tutora é um dos melhores espadachins que temos aqui. Acho que nem mesmo eu posso vencê-la nessa modalidade."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não é bem assim senhor, me sinto lisonjeada. - Agradece, corando um pouco."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sério?! - Questiona, olhando para Lycia e logo se voltando para Gyuder. - Então como você é capitão e ela não?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "A hora dela vai chegar. Eu sou capitão, porque não basta apenas força ou habilidade para subir na hierarquia, experiência"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "também é igualmente importante."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Entendo, entendo. – Afirma, intrigado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Kyuk, o que acha de aproveitar a pausa pra treinar sua leitura com a carta?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É, pode ser!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Então está ensinando-o a ler também?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Pediu para que cuidasse dele... estou cuidando. Kyuk pega a carta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Carta",
+        "image": "",
+        "text": "[Saudações, Parece que ao menos uma coisa deu certo, mas sentimos muito pela sua perda... seu pai era"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "um grande homem! Como havia dito na carta anterior, estamos bem, mas por conta do ocorrido tivemos que sair do vilarejo. Se"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "mencionou meu nome, devem ter te contado, então mudar de vilarejo foi a melhor opção, pois ainda tenho muito trabalho a fazer"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "e como sabe, minha filha está me ajudando como de costume. [Escrito com a letra de Bark] Esperamos encontrá-lo em breve. Se"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "cuide! [Escrito com a letra de Yukia] Bark e Yukia]"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Certo, em apenas três dias, você evoluiu bem sua leitura. Parabéns!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Mesmo assim... não entendi quase nada. - Diz, sem jeito."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não se preocupe, sua leitura evoluiu mais que sua habilidade com a espada. Lycia e Gyuder riem juntos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hora sua...!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Agora deixe-me ler novamente para você. Então..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É, vi que tinha o nome do senhor Bark e da Yukia. Então aqui tá escrito diferente, porque foi a Yukia que escreveu? Não sabia"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "que ela sabia escrever."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Acho que você que nunca se interessou por isso mesmo. De repente, um guerreiro surge."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guerreiro",
+        "image": "",
+        "text": "Senhor Gyuder! Desculpe interromper, mas precisamos conversar."
+    }
+]
