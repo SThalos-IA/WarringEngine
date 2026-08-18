@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Warring Converter</title>
+
+    <link rel="stylesheet" href="conversor.css">
+</head>
+
+<body>
+
+<div id="app">
+
+    <h1>Warring Converter</h1>
+
+    <p>Converta capítulos para o formato do Warring Engine.</p>
+
+   <input type="file" id="arquivo" accept=".txt">
+
+<button id="converter">
+    Converter
+</button>
+
+<button id="baixar" disabled>
+    Baixar cap01.json
+</button>
+
+<div id="status">
+    Aguardando arquivo...
+</div>
+
+<script src="config.js"></script>
+<script src="personagens.js"></script>
+<script src="regras.js"></script>
+<script src="conversor.js"></script>
+
+</body>
+</html>
