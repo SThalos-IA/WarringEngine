@@ -1,0 +1,1184 @@
+[
+    {
+        "type": "chapter_title",
+        "title": "Capítulo 4 - Cristais",
+        "image": "Assets/cap04-09 titulo.png",
+        "text": ""
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os quatro estão correndo em direção ao pátio principal, Gyuder um pouco mais a frente, os outros estão seguindo-o."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Qual é a emergência?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guerreiro",
+        "image": "",
+        "text": "Um demônio branco apareceu na frente de batalha do oeste... querendo conversar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Como assim?! - Questiona, mas se lembra do que Kyuk contou sobre seu vilarejo. - Err... quer dizer... E o Mago Mestre?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guerreiro",
+        "image": "",
+        "text": "Ainda não voltou da capital."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Droga, não podemos deixar esse lugar assim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guerreiro",
+        "image": "",
+        "text": "Calma senhor, só vim notificá-lo. Está tudo sob controle. O General está lá, lembra? Todos param de correr próximo aos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guerreiro",
+        "image": "",
+        "text": "círculos de teletransporte."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Err... Lycia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O que foi?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Por que não disse antes? Me preocupou atoa! Eu vim correndo até aqui e... - Discute, em segundo plano com o guerreiro"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "mensageiro, enquanto aponta para os círculos mágicos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Guerreiro",
+        "image": "",
+        "text": "Desculpe! Desculpe! - Exclama, em segundo plano."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Aqui é uma fortaleza, certo? Mas não vi muitos guerreiros além de você e o senhor Gyuder."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "A maioria estão em missão... Temos oito capitães ao todo, por segurança, deixam pelo menos um capitão e a maioria dos magos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "para protegerem nosso quartel general."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah é? E que tipo de missão eles fazem?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Alguns caçam Fienders, outros exploram, essas coisas..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Bem lembrado Lycia... Estive pensando nisso desde que começou seu treinamento aqui Kyuk."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Nisso...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Já que estamos aqui, o que acha de levarmos ele para o leste, Lycia?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Hum... Parece uma boa ideia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Por quê? O que tem lá?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Acho que você vai gostar, você pode ficar mais forte lá."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sério?! Então vamos agora!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Calma jovem, lá não é um lugar qualquer, você não usará armas comuns."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Jura?! Que maneiro! Vamos logo!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Certo, vamos nos preparar antes."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Horas depois, acompanhados de dois aprendizes de magos e carregando os devidos equipamentos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O que são todos esses círculos no chão? - Pergunta, se aproximando do círculo onde Gyuder está próximo, o da direita."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "São os círculos de teletransporte que te falei, esse que vamos entrar é o do leste. Aquele lá em cima é o do norte, onde te"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "encontrei. Lá do outro lado é o do oeste, onde"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "o general se encontra na frente de batalha. E esse maior aqui no meio nos leva para a capital."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Nossa eles são enormes, esse aqui já cabe várias pessoas, aquele do meio então mais ainda..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Ele nem se perguntou da região Sul? Será que entendeu que é aqui? Ou não entende de regiões? - Pensa, intrigado. Lycia e Kyuk"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "entram no círculo de teletransporte."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O senhor cuida das coisas por aqui, senhor?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Sempre cuidei, não se preocupe. Assim, os aprendizes de magos tocam suas mãos no círculo para ativar a magia de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "teletransporte. Aos poucos o corpo de ambos se ilumina e logo se tornam uma quantidade incontável de goticulas de energia"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "branca que se espalham sutilmente para cima. Ao chegarem na região Leste, o garoto se depara com uma grandiosa e magnifica"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "mina de cristais."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Uou! O que é isso? Está brilhando em todo lugar que olho."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Aqui é a Mina de Cristais."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk se atenta mais ao redor e nota incontáveis trabalhadores subindo e descendo, indo de um lado ao outro com picaretas,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "capacetes, luvas e outros aparatos de mineradores. Entre tantas pessoas, pouco antes da entrada da gruta, há alguns soldados"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "com vestimenta familiares para Kyuk. Dentre os soldados, há dois que se destacam. Um por ter cabelo curto e branco, outro por"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "ser alto, loiro e ter o cabelo bagunçado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Capitão Loiro",
+        "image": "",
+        "text": "Lycia, o que faz aqui?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Capitão Cabelo branco",
+        "image": "",
+        "text": "Trouxe outro minerador? Esse é um tanto jovem, não? Estamos mais desesperados do que imaginei."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ethan. Sian. - Diz, olhando para o loiro e o de cabelo branco, respectivamente. - Esse é o Kyuk, é uma longa história, mas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "passaremos um tempo por aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O-Oi! P-Prazer! - Exclama, batendo continência."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "E de quem foi a ideia de trazer uma criança para trabalhar aqui?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Já disse que é uma longa história, o capitão Gyuder nos mandou aqui. Então não precisa se preocupar, eu estou responsável por"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "ele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Veja Ethan, uma ajuda a mais não faz mal."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "É mesmo, só estão vocês dois aqui hoje? Onde está o Gunir?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Ficou sabendo sobre o Oeste? Precisávamos mandar alguém por precaução. Então mandei ele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É... Você mandou em outro capitão?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Não é bem assim garoto. A Lycia te contou que nosso general é responsável por liderar o Oeste pelo menos?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sim!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Então, de certa forma ele me deixou responsável por esse lugar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Oh! Então você é o segundo guerreiro mais forte do..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Claro que não, ele não vence nem de mim desarmado. - Comenta, rindo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Comentário desnecessário Sian! - Fala, ficando bravo, mas mantendo a compostura."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ué, então por que você é o líder?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Lembra que o capitão explicou mais cedo que não basta força? O capitão Ethan é"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "um ótimo exemplo disso. E não quer dizer que ele seja mais experiente que os outros capitães, mas ele é bem inteligente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Obrigado Lycia, faço o meu melhor. E... Vejo que trouxe uma das réplicas que criei."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hã?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Está falando da espada do Kyuk? Falei que não havia necessidade de trazê-la, mas"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "ele insistiu."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah! Essa aqui é a espada... - Diz, relutante. - Bem, o nome dela é meio..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Bastarda."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "I-Isso, você deve conhecer melhor que eu..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Bom, essa em especial sim, fui eu quem a criou."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Você?! Sério?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "É, não exatamente, quem a criou foi um grande ferreiro chamado Bark, mas a ideia foi minha."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O senhor Bark...? Ah! Agora me lembrei! Você foi uma vez lá no vilarejo..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Estava intrigado com a criação dessa espada, me ajudaria muito em batalha. Infelizmente a primeira não deu muito certo, então"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "a deixei na fortaleza e... Espera, você também é do norte?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sim! Então era isso que foi fazer lá... - Comenta, intrigado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Entendo, chegou a ir pessoalmente para pedir que forjassem essa espada. - Comenta"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sim, mas como disse, só vi ele uma vez. -Explica, olhando para Sian. - Só lembrei"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "do senhor agora. - Fala, voltando sua atenção para Ethan."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "E como estão as coisas por lá?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Então..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "É uma longa história. - Diz, interrompendo-o."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Aconteceu algo por lá, né?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "C-Como sabe?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Essa cicatriz no seu pescoço, não é normal alguém da sua idade ter uma cicatriz como essa... Aquela região é bem remota."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Bom, já conversamos bastante..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "A vila foi atacada por demônios e... não pude fazer nada. - Explica e aperta os punhos se sentindo frustrado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan e Sian",
+        "image": "",
+        "text": "Demônios?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sim, apesar de tudo, Bark está bem e assim que o portal do norte voltar a funcionar, mandaremos ajuda."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Espera, o que houve com os demônios?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Olha, precisamos mesmo ir, o Kyuk precisa treinar. Você sabe muito bem que estamos sem muito tempo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É aqui que ficarei mais forte?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E é aqui que lutarei com armas diferentes?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Aqui, pega. - Diz, entregando uma picareta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Quê?!!! O que é isso?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sua arma."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E como vou lutar com isso? - Diz, pegando a ferramenta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O capitão Gyuder não disse que você lutaria, disse que usaria armas diferentes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Por onde começo? Isso vai mesmo me deixar mais forte?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Claro, você vai ganhar força física e resistência aqui. E algo ainda mais importante, trabalho em equipe. Sinceramente, devia"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "ter te trazido aqui antes de te ensinar qualquer outra coisa antes. Esse lugar te dará uma base do que irá enfrentar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Considerando que o garoto os ajudará, você ficará com a gente na segurança?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sim, espero poder ajudá-los! Mas a maior parte precisarei guiá-lo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Nossa melhor espadachim? Mas é claro! Aposto que depois disso, será questão de tempo para virar capitã."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Espero que sim! Obrigada pela confiança. Vamos Kyuk! - Chama, se afastando da dupla."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O jovem segue sua tutora."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Um ataque ao norte... - Pensa, preocupado."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Em algum lugar um pouco mais adentro da caverna."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Certo, trouxe apenas o necessário, certo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sim, o resto deixei na estalagem fora da caverna, mas... não deveria ter alguém"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "nos mostrando o lugar? Acho que estamos perdidos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Pensa que não sei onde estamos? Treinei aqui por anos, praticamente todos os soldados e capitães na verdade."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Então todos aqui vão ser soldados em breve?! Que legal!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não exatamente, alguns só querem ficar por aqui mesmo. A frente de batalha é muito perigosa e aqui aparecem Fienders com menos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "frequência."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E por onde eu começo? - Pergunta, já com a picareta em mãos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Simples, você vai limpar essa região da caverna quebrando esses cristais, eles servem para..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Certo! -Exclama, interrompendo-a."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O garoto começa a bater nos cristais compulsivamente, porém são poucas e pequenas as lascas que saem da rocha bruta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Isso... vai levar mais tempo do que pensei."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Pode apostar que vai. - Diz, em seguida de um riso sutil. - Se quer um conselho, não faça de qualquer jeito. Preste atenção"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "nessas rochas, há partes mais frágeis, como"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "um ponto fraco. Cabe a você encontrar o ponto fraco e acertá-lo com a força necessária."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum... Vou tentar!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "É muito importante que preserve o máximo que puder, pois são componentes muito importantes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eles valem muito dinheiro?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sim, mas não é por isso que são valiosos. Agora comece de novo, com mais foco. Ficaremos aqui o dia todo..."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "À noite, retornam as estalagens que se localizam em uma clareira na floresta que cerca a região. Entre as estalagens e a"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "caverna, há um caminho curto a se seguir. Algumas fogueiras são acesas e mineradores as cercam com comidas e bebidas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Minerador",
+        "image": "",
+        "text": "Ah, mais um dia sem muitos resultados... - Diz, comendo um pedaço de carne."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Um outro minerador finaliza um copo grande de bebida."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Minerador 2",
+        "image": "",
+        "text": "Sim, mas estamos melhorando com o tempo. -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Minerador",
+        "image": "",
+        "text": "Tempo? Isso é algo que temos cada vez menos. Os ataques por aqui estão aumentando, imagina nos outros lugares..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O jovem está atento com a conversa entre os dois."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Isso é verdade Lycia?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "É, de certa forma... E aquele ataque na sua aldeia também foi bem preocupante, não queria informar o capitão Ethan agora. Ele"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "já tem muita coisa para se preocupar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Preocupar? Me preocupa esconderem informações de mim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Aah! S-Senhor Ethan!! O-O que você o ouviu?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Não muito, acabei de chegar. Quero conversar com vocês. - Explica, encarando sério."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "S-Senhor..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Então... O que está acontecendo? Por que estão aqui?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Direto ao ponto, hein? -Pergunta, sorrindo sem jeito. - Acontece que... nem sei por onde começar..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Minha vila foi atacada por uma demônio branca que falava."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "O quê?! Então o ataque no Oeste está sendo o segundo? Precisamos marcar uma reunião de emergência!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Senhor Ethan, se me permite. O Mago Mestre já foi informado de tudo, não há muito o que fazer no momento, apenas aguardá-lo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "retornar da Capital."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Um silêncio completo entre eles só não surgiu, por conta das outras conversas em volta e pelo queimar da lenha da fogueira. O"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "capitão tomou um tempo para pensar, seu dedo indicador dobrado e encostando no queixo demonstrava isso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Hum... Certo, vamos aguardar, ele sabe o que faz... E esse ataque recente deve tomar mais do tempo dele na capital. - Comenta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "- Pensando bem, o rei saber o que está acontecendo também me preocupa. - Pensa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Droga... parece que estamos perdendo tempo aqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não diga isso, esse trabalho é tão importante quanto à frente de batalha."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah é? E por quê?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Esses cristais, eles servem para fazer orbes mágicos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Mesmo?! Por que não disse antes? - Questiona, olhando para Lycia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Tentei, você que não me deixou terminar de falar!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Legal! Mas..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "O que foi?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "para que eles servem mesmo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Se chegou aqui, certamente já conhece os círculos mágicos, certo? Kyuk confirma com a cabeça."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Assim como os círculos, os orbes são a outra forma que os magos encontraram de canalizar sua magia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Acho que entendi... Canalizar...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Quer dizer que eles colocam sua energia nos orbes para poderem usar magia. Igual os círculos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Essas coisas magicas... Nunca vi nada parecido. O capitão Gyuder disse que meu pai usou magia. Ele era um mago?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Um dos melhores, ele e o Mago Mestre eram os únicos reconhecidos por todos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sério?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Espera... Não me diga que... Esse é o filho do Kairos?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Disse que era uma longa história..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Então ele deve ter alguma magia!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Tem razão, só fui pensar nisso quando chegamos aqui... O capitão me mandou cuidar dele e estou cuidando, como um guerreiro."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Seria de grande ajuda se também fosse tão bom quanto o pai."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Sim, mas nem todos nasceram para usar magia. E agora que comentou... Kyuk, você nunca sentiu nada de diferente? Você é filho"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "de um mago incrível."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum... Acho que não, como é a sensação?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Tá perguntando para pessoa errada, não faço parte do grupo mágico. -Explica, erguendo os ombros. - Quando voltarmos, podemos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "te testar, considerando que você é filho de Kairos, pode resultar em algo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Será?! - Grita, empolgado. - Não, espera. - Diz, dando tapas leves no rosto com ambas as mãos. - Tenho que me focar no treino"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "de agora!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "E nos seus estudos também, não é porque está aqui que ficará sem estudar – Notifica, pegando um livro da bagagem."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ah, tem isso também... - Reclama, desanimado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Agora vamos descansar, amanhã será outro longo dia e..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk simplesmente se deita e dorme onde está. Ethan fica olhando para Kyuk, intrigado."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ethan está em seus aposentos, sentado à mesa lendo um livro iluminado por uma lamparina. Não só no livro, mas na mesa há"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "papeis com símbolos mágicos. Ele olha para a luz, reflexivo."
+    }
+]

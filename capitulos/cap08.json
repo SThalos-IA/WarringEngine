@@ -1,0 +1,1196 @@
+[
+    {
+        "type": "chapter_title",
+        "title": "Capítulo 8 – Magia",
+        "image": "Assets/cap04-09 titulo.png",
+        "text": ""
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Dentro da biblioteca, Mago Mestre entra como se fosse sua casa, desce a escadaria de poucos degraus da entrada com"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "naturalidade. Kyuk assim que adentra fica desnorteado sem saber para onde olhar exatamente. São muitas estantes de livros,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "tantas que não se vê as paredes. Há algumas escadas de madeira cumpridas apoiadas em pontos mais altos. Os únicos lugares que"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "não têm estantes são o centro da biblioteca com carteiras desorganizadas de frente para uma lousa de madeira com papeis"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "pendurados. A porta de entrada e uma passagem que se localiza entre duas estantes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Esse lugar é maior por dentro..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Todos costumam dizer isso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Lycia já veio aqui pegar alguns livros para mim. Nunca quis entrar, não achei que gostaria daqui."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Mesmo assim você não me parece tão interessado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu... Estou confuso, isso tudo está acontecendo tão... Há algumas horas eu era um guerreiro em missão e... Eu nem era um"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "guerreiro de verdade, não me sentia um."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "E o que é um guerreiro de verdade? Até onde vi, você não pode ser considerado nem mago."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk fica em silêncio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não entenda errado, de todo modo você é uma raridade."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O garoto não olha para falar com o Mago."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Não te perdoei ainda, tem tanta coisa acontecendo... -Comenta, levando as mãos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "a cabeça."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Pode estar confuso devido a toda essa mudança, mas preciso te ensinar magia e conhecer do que você é capaz. Você é do"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "interior, mas sabe ler, certo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sim... Lycia me ensinou."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "De novo com isso? Não é como se fossem parar de se ver."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Espero me interessar mais por magia..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Você só não está conseguindo focar aqui onde realmente está... Veja, mesmo estudando por séculos, sinto que estamos só no"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "começo. De alguma forma, as possibilidades parecem ser infinitas! Isso não te empolga?! É para isso que essa fortaleza foi"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "criada, para proteger esse lugar sagrado de conhecimento!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Começo? Então toda a magia que comecei a sentir desse lugar pode ficar ainda mais forte?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Você ainda não viu os limites do que somos capazes... Espera... Você consegue sentir magia nas coisas também?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sim, desde que acordei aqui no primeiro dia... Só não entendia o que era... Assim que voltei à fortaleza, pela primeira vez"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "senti magia de verdade vinda de você."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "E agora depois do teste?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Depois que quebrei aquela coisa estou sentindo essa tal barreira, mas é estranho,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "a mesma coisa que sinto fluindo dentro de mim é o que sinto dela."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não vejo ela forte assim desde que eu mesmo a criei há muitos anos... Os aprendizes ficaram muito melhores do que imaginei,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "isso é bom... Embora eu duvide"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "um pouco dessa melhora repentina."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O que quer dizer?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Hum... Acho que você a fortaleceu sem perceber, chegou a encostar nela?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Deixa-me lembrar... Uma vez, quando fui... Você sabe... Não quero falar sobre isso!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Está me ouvindo? Acabei de dizer que... Ah! Esquece... E mesmo o contato com a magia da barreira não foi suficiente para você?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Interessante."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Não te entendo, podia ter revivido tantos..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Ouça bem, magia é muito mais complicada do que parece! Tive que descobrir tudo praticamente sozinho! Então façamos um acordo,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "se me deixar estudá-lo e você aprender mais sobre magia, explicarei o que quiser. Com seu conhecimento atual, não entenderia"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "direito o que tenho a dizer."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Tá me chamando de burro?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não, mas depois dessa reação estou cogitando em começar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Tem como me dar um tempo para pensar?! para começar, outro dia minha vila foi atacada por Fienders e..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Fui informado... Não sei se te explicaram, mas eles são atraídos por magia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E o que isso tem a ver...? Espera... Isso quer dizer que..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Sua vila deve estar mais segura agora sem você por perto emanando energia inconsciente."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk fica sem reação."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Então... fui o culpado pelo ataque?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não vejo assim, quem atacou sua vila foram eles, não você."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Só que foi por causa da minha..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Aconselho não pensar dessa forma. Se fosse assim, de quem seria a culpa"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "dos ataques deles? A mina de cristais? - Pergunta, enquanto retira dois papeis da lousa para ler. Novamente Kyuk não sabe o"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "que dizer, se sente ainda mais incomodado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Vendo sua situação atual, mesmo não usando magia na época, parece que emanava de algum jeito... Alguns Fienders sentem mais"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "que outros."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Agora lembrei... Noite passada os magos usaram magia e um dos Fienders tentaram pegar o orbe."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Essa habilidade sensorial deve ter ligação com a inteligência deles... - Comenta, buscando rapidamente um pergaminho para"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "anotar. - Isso explicaria como conseguiram te achar, tinha uma que até falava, certo? - Questiona, olhando para Kyuk."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E como esses magos não perceberam isso?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não sei, devia estar adormecida dentro de você. Me diga, qual foi seu primeiro contato com magia?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Aqui, quando vi seus aprendizes... Não, foi quando fui revivido."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Meus alunos comentaram que sua cicatriz brilhou, isso quer dizer que nem o contato com a magia de Kairos resolveu também?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Interessante... Parece que estávamos destinados a nos encontrar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E para isso tive que morrer?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Hum... Também não entendo essa situação por completo, garoto... Sabe, é provável que você tenha nascido assim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Assim...? Com magia?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Sim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Tá me zoando? Como isso é possível? Quem usa magia sem orbes ou círculos?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Aparentemente você."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Um momento, mais cedo você me atacou sem usar nada também!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Aquilo? Não, eu uso os orbes que ficam dentro das minhas vestes. Naquele momento usei o orbe que você destruiu logo depois no"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "teste."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Isso tudo pode ser um engano... Me falaram que esses orbes ficam fracos com o tempo de uso. Esse que você me deu devia"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "estar... Mago Mestre começa a refletir, tentando se lembrar de algo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Feiticeiro, é isso que você é daqui para frente!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Quê?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Apenas aceite, você usa magia, acredite em mim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E de onde veio esse nome?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Queria dar um nome para as magias que conjuramos, estava pensando em “feitiços” e como você pode usar sem depender de nada,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "achei conveniente. Ou melhor, para não misturar, vamos chamar apenas o que você faz desse jeito."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Feitiço... E o que isso quer dizer?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Em linguagem antiga significa “não natural”."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Agora tá me chamando de estranho?!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "A porta principal da biblioteca se abre e Gyuder entra."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Senhor Gyuder! - Exclama, fazendo reverência."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "O que foi? Espero que seja importante."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Com licença Mago Mestre, não pude deixar de ouvir a conversa, peço desculpas, mas preciso falar com ele. Não conversamos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "direito desde que chegou, ele era meu subordinado a pouco."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Continue..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O capitão não se move muito, se limita a ficar na parte de cima da escadaria."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Escute Kyuk... há alguns anos era eu quem estava no seu lugar. Esse homem me deu uma segunda chance, da mesma forma que seu"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "pai fez com você."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O-O queGyuder: Você me acha corajoso por proteger esse lugar sozinho... Isso é porque sei qual é aquela sensação. Te conheço a"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "pouco tempo, mas tenho certeza de que você não é o mesmo de antes daquilo ter acontecido."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Senhor..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Lembre-se de todo esse sentimento de completa impotência, de ter a certeza de que nunca mais poderá proteger alguém... Kyuk"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "serra seus punhos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Isso não foi verdade, certo? Estamos aqui para provar isso... Nós dois sabemos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "o quão desesperador é isso. E é por isso que me senti na obrigação de guiá-lo, você precisa ficar mais forte para nunca mais"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "passar por aquilo Kyuk! Lycia pediu para que estude e eu ordeno que lute! Fique mais forte fazendo o que nasceu para fazer!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Não faça o sacrifício de Kairos ser em vão! Kyuk surpreso, fica em silêncio por um momento, pensativo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "S... S-Sim senhor!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Ele é melhor com as palavras do que imaginei. – Pensa. - Agora... dada"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "essas explicações, vamos seguir comKyuk",
+        "image": "",
+        "text": "Parece que te devo desculpas!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Quando o Mago olha para ele, está fazendo reverência em sua direção. Mago Mestre fica surpreso, enquanto Kyuk desfaz a"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "postura."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Você... é uma pessoa melhor do que imaginava. - Concluí, constrangido."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Isso não foi nada... Vamos, agora que Gyuder conseguiu te animar, temos que começar com seus estudos... - Conclui, olhando"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "para Gyuder e afirma com a cabeça."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Senhor... Só mais uma coisa, quando será a próxima reunião com os capitães que não estiveram presentes na última?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Em alguns dias, ainda não decidi quando. Ando mais ocupado do que nunca."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "No espaço entre as estantes da parte inferior da biblioteca, há uma passagem que dá acesso a uma escadaria em espiral que"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "desce. O jovem e o Mago seguem esse caminho. Logo abaixo, há uma sala grande proporcional a biblioteca logo acima em espaço,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "porém, não se vê coisas como prateleiras e livros. A sala grande e espaçosa está ocupada por cristais, orbes e símbolos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "mágicos completos e incompletos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Aqui é a sala de testes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Uou! Tem muito espaço, mas até as paredes estão rabiscadas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Enquanto lá em cima estudamos a teoria, aqui embaixo focamos em magia prática. Claro que para você tudo que está aqui não"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "serve..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O Mago para de falar, ao ver Kyuk quebrando outro orbe tentando usar sua energia, enquanto pisa em um círculo, desmanchando"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "parte dele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eita! - Exclama, olhando para os pedaços de orbe em mãos. - Isso me lembra da mina de cristais... – Pensa, sorrindo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Ei... O que pensa que está fazendo?! Ainda não entendeu que isso não funciona com você?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Desculpa, mas é só um orbe!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "O círculo mágico também! - Notifica, apontando para o desenho agora incompleto."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Além do mais, você não me ensinou nada sobre magia teórica ainda. Por que estamos aqui?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Err... Digamos que com você deve ser melhor começar pela prática."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hum... E por onde começo...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Essencialmente, alguns humanos têm magia e outros não. Nós que podemos utilizá-la temos a necessidade de algo para canalizar"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "essa energia vital... Com"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "o tempo percebi que algumas coisas canalizavam melhor do que outras."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Está me dizendo que é possível usar magia direto em qualquer coisa?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não recomendo, a maioria das vezes o objeto rejeita e se destrói. Os círculos por exemplo funcionam bem, pois são feitos do pó"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "de cristal mágico."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Oh! E esses desenhos diferentes representam magias diferentes?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Exatamente, é como se ao usar os círculos escrevêssemos a magia e no orbe canalizasse para conjurá-la."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E como o orbe funciona? No círculo você sabe qual magia vai usar, já que tá escrito."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Os orbes são usados por usuários de magia mais avançados. Para poder conjurar qualquer magia, precisamos ter conhecimento"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "profundo sobre ela e mentalizála. Os círculos são naturalmente mais fáceis, já os orbes são uma questão deKyuk: “Tentativa e"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "erro...”, li isso uma vez, agora faz mais sentido."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Falando nisso... escrevi a maior parte desses livros, quais você leu?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Tinha um chamado “conceitos básicos de magia”, só usei para aprender a ler, não prestei muita atenção."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Esse foi um dos primeiros, demorou para perceber que meu conhecimento precisava ser passado adiante... No começo fazia"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "anotações só para mim."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Quando percebi, já tinha alguns seguidores. A maioria desses jovens que estão aqui são decentes dessas pessoas..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Quantos anos o senhor tem afinal?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Muitos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Isso não ajuda muito... - Comenta, inconformado. - Podemos...? - Diz, apontando para a sala, com as mãos abertas, como se"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "apresentasse o ambiente para o senhor."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Claro... Primeiro você precisa sentir essa energia dentro de você e mentalizá-la. Vamos partir do princípio de que você teria"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "um orbe e só precisa liberar essa energia vital interior. Kyuk fecha os olhos e aproxima as mãos, deixando um espaço entre"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "elas, como se estivesse segurando um orbe invisível cuidadosamente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Você diz energia vital... Isso quer dizer que tem um limite para usar?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Tem sim, assim como um guerreiro se cansa após vários movimentos prolongados, nós também cansamos porque usamos energia"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "interna e em algum momento ela se esgota, com você não deve ser diferente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Certo... - Afirma, enquanto se concentra. - Não estou com problemas para sentir, mas não sei o que pensar exatamente e... Para"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "de falar, pois sente que criou um orbe distorcido de energia brilhante entre suas mãos. Mago mestre não sabe o que dizer."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Isso... Essa é minha magia?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Parece ser sua energia pura, sem criar nada a partir dela. Como disse, não está pensando em magia alguma, certo? Provavelmente"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "está fazendo fluir para suas mãos com intensidade. Agora tente mentalizar algo que queira criar."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk volta a se concentrar e aos poucos a bola de energia cria formas elementais inconsistentes. Vento, terra, água e fogo,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "respectivamente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E não é que eu tô conseguindo! Olha isso que incrível!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Está instável, mas conseguiu algum foco, deve ter aprendido com Lycia. - Pensa. - Hum... Consegue reduzir isso?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Reduzir como? - Pergunta, olhando para o Mago que está com quatro orbes flutuando em volta de si e fazendo exatamente o mesmo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "que ele. Dentre os quatro, apenas um brilha laranja avermelhado representando a magia conjurada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Hein?! - Exclama, desfazendo sua magia involuntariamente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Assim... - Fala, aproximando as mãos até elas se juntarem e o fogo se reduz até sumir no processo. - A partir disso, você pode"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "aumentar ou diminuir o tamanho, claro que isso vai demandar mais ou menos de energia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Isso é mesmo incrível!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não, você é incrível jovem! Nunca vi nada parecido com isso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Eu... O quão grande podemos fazer isso?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Tenho usado métodos mais avançados envolvendo leitura de magia para tentar conjurá-la mais forte, só que... Não é muito"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "eficiente ainda. Não sei como posso te ajudar com isso... Acho que se ler magia funcionasse com você, já teria conseguido"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "algo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Então é só ler que ela funciona? Não parece tão difícil."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não é isso que estou dizendo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E quando vou aprender as magias que vi os outros fazendo? Agora que estou fazendo isso também, magia de levitar não parece tão"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "difícil, mas não sei se posso dizer"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "o mesmo da “Chamar alguma coisa”."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "“Chamar atenção”, sempre achei esse nome péssimo... Como disse antes, Fienders são atraídos por magia. Então usei isso a nosso"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "favor criando essa... Não há nada demais, apenas uma quantidade inofensiva de energia que preenche o que você desejar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Funciona com a maioria deles."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E acha que terei dificuldades com essas?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Com você é diferente. Gyuder tinha razão, você nasceu para fazer isso."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Enquanto para você é como respirar, nós precisamos estudar e nos concentrar muito!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sério? Quero tentar de novo! - Avisa, estendendo seus braços para a sala."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Espere, não!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O garoto aponta suas mãos para a sala e conjura uma grande chama inconstante que preenche o lugar. No processo, uma grande"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "quantidade de papeis colados na parede do fundo da sala são incinerados. Na parede, onde os papeis cobriam, há um símbolo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "grande igual aos quatro de teletransporte, desenhado na parede."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Uou!!! Quer dizer... N-Não foi por mal! E-Eu... Veja, estão inteiros pelo menos! - Diz, apontando para alguns orbes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Isso... - Reage, perplexo. - Precisamos nos reunir com urgência. - Pensa, impressionado."
+    }
+]

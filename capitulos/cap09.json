@@ -1,0 +1,938 @@
+[
+    {
+        "type": "chapter_title",
+        "title": "Capítulo 9 – Reunião",
+        "image": "Assets/cap04-09 titulo.png",
+        "text": ""
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Em algum lugar no oeste, se aproxima correndo desesperado, um demônio. Este se aproxima de uma mulher humanoide com traços"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "demoníacos. O monstro para repentinamente e emite uma sequência de grunhidos estranhos, característicos de sua espécie, com"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "exceção do fato de parecer assustado. A única coisa que soa como uma palavra é “Nyari”."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI.png",
+        "text": "O quê?! Então aquele garoto está vivo?! Como?! Será que foi o... Não... Não deve ter sido... Ele foi na direção daquela"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI.png",
+        "text": "energia forte. – Comenta, observando o horizonte a sua frente. - E o garoto estava para lá... - Pensa, olhando para o"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI.png",
+        "text": "horizonte a sua esquerda. - Onde o encontrou? Demônio responde com mais grunhidos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI.png",
+        "text": "Interessante... Ele era uma presa melhor do que esperava. Talvez possa me ensinar algumas coisas."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk está visitando o tumulo de seu pai, mas para um pouco antes de subir a colina, devido a presença do Mago Mestre que"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "chegou antes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Seu pai dizia que quando podemos ajudar alguém, temos a obrigação de fazê-lo. Uma vez Lycia me disse isso também, enquanto te"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "carregava... Tenho certeza de que ela ouviu isso dele..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Senhor..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Quando ele se foi, não pude nem voltar para vê-lo, além da barreira tive negócios importantes a tratar com o rei... Sempre fui"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "péssimo para essas coisas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Com barreiras?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O mago se vira para o jovem, revelando em sua face olheiras indiscretas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Com amizades. - Responde incomodado de cima da colina."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O senhor não dormiu?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Como poderia depois de descobrir sobre você?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "É mesmo! Você viu que incrível que foram aquelas chamas e...!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Aquilo incinerou papeis muito importantes que estavam lá embaixo na parede!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Err... Tem isso também e os orbes..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Os papeis eram mais importantes, acredite... Aqui não é lugar para falar dessas coisas... Vamos, logo começará a reunião. -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Conclui, tocando na lápide."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O Mago e Kyuk retornam a fortaleza e quando estão para subir a escada da biblioteca, o círculo mágico da direita se ilumina e"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "surgem três capitães nele. Lycia, Sian e Ethan."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Lycia! Então também vai participar? - Comenta, observando a chegada de Sian e Ethan logo atrás. - O capitão Gunir não veio?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Alguém precisa ficar para proteger a mina."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Ele já participou da primeira reunião, não precisa estar aqui hoje."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Gyuder se aproxima."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Também não participei da primeira, me mandaram para o oeste junto com o..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O círculo da esquerda se ilumina e desta vez surgem dois homens de armaduras semelhantes aos dos outros capitães, com destaque"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "a armadura do homem negro, alto e careca que tem uma armadura destacada sutilmente por alguns detalhes em dourado. O outro não"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "é muito mais alto que Sian, e tem um cabelo longo e preto. O que o destaca do homem que anda a sua frente por não ter cabelo e"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "com Sian que tem cabelo branco e curto. Neste momento, todos os capitães presentes fazem reverência ao homem mais alto que se"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "aproxima acompanhado pelo outro capitão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Capitães do leste",
+        "image": "",
+        "text": "General! Bem-vindo a fortaleza!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Então esse é... -Comenta para si. - E essa espada em suas costas? Nunca vi uma assim. O que é aquilo fixado nela? Um orbe? -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Pensa, reparando na pedra centralizada"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "no chappe da espada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Ei Kyuk, esse é o nosso general, demonstre respeito..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Bem, eu... O G-General...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "De certa forma ele não é mais um soldado, esqueceu? Ele responde para mim agora."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "General",
+        "image": "",
+        "text": "Respeitoso como sempre, Eliphas."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não venha com sarcasmo para cima de mim, Holkes! Vejo que trouxe Shin com você dessa vez..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E esse outro é o Shin que mencionaram? Está desarmado? Que estranho. - Reflete consigo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Podem entrar, hoje a reunião pode nos levar a algum lugar."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Chegando à biblioteca, todos se acomodam em uma mesa de banquete que ficou no lugar das carteiras e lousa que formavam a"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "pequena sala de aula do Mago."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Como estive na outra reunião e sou responsável pelo oeste, vim para dizer que até o momento não tivemos novos ataques de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Fienders inteligentes por lá."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Como todos sabem, há alguns dias fomos atacados por um Fiender inteligente... Porém, esse não foi o primeiro ataque. Esse"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "jovem teve sua vila atacada dias antes desse ocorrido. Ele é filho de Kairos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "E por que não fomos avisados disso?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "É uma longa história, o importante é que esse é o motivo da urgência dessa reunião."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "O fato é que em pouco tempo apareceram duas criaturas acima da média do que viemos enfrentando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Exatamente, então por ordem, Kyuk explique melhor sobre essa Fiender."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ela disse que seu nome era... Lembrando agora, ela não disse."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "E como era? Do que foi capaz?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Bem... Antes de enfrentá-la, passei por casas completamente destruídas. Estava acompanhada de outros Fienders, não lembro"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "deles direito."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Tudo bem, prossiga com ela."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ela consegue esticar o braço e acertar as coisas com muita força."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Esticar? O braço dela aumentava de tamanho?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Sim e parecia estar atrás de alguma coisa... Depois que o Mago Mestre me explicou, entendo que fui eu quem a atraiu para lá."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes e Shin",
+        "image": "",
+        "text": "Você?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Disse que ele era filho de Kairos, lembra? Esse garoto pode usar magia sem depender de orbes ou símbolos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Todos, exceto Kyuk e o Mago",
+        "image": "",
+        "text": "O quê?!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "I-Isso é mesmo possível?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Se acalmem, voltemos aos ataques... Parece que o primeiro foi apenas por capricho deles... Já o segundo deve ter algum"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "objetivo específico. Descobriram algo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Infelizmente não... O único que poderia nos dizer isso é o próprio Han. E como foi dito na outra reunião, acabou fugindo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Han...?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "O demônio que nos atacou, disse que se chamava assim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Hum... Talvez essa Fiender saiba de algo também. Devem estar planejando algo juntos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Esse Han... estava sozinho?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Estava sim... Agora que falou, isso é muito estranho."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Talvez não quisesse baixas... Isso é um sinal que estava mesmo atrás de algo... Agora, por que essa dúvida, Kyuk?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "E-Eu... Só estava lembrando que um dos Fienders que atacaram a vila, também estava na missão da ponte."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Mesmo? Bom, pelo tempo que o norte foi atacado e essa missão, deve ter dado tempo dele se misturar com outros por aí..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "N-Não me diga que é um daqueles que correu Kyuk!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "S-Sim, foi o primeiro deles se não me engano. Por que o senhor está tão..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Droga! Não consegui alcançá-lo, eles são muito rápidos..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Não mais que o Han, pode ter certeza..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Er... para você estar dizendo isso, acredito. -Comenta, surpreso. - Só deixei um escapar, mas..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Não se preocupe, já aconteceu!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Entendo... Pelo que li do relatório dessa missão, um dos Fienders ficou apreensivo por conta da magia dos aprendizes... Só que"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "agora com essa informação... - Conclui, olhando para Kyuk."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O quê? Por que estão preocupados?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Meu palpite é que esse fugitivo te reconheceu e foi informar os outros... No geral não seria problema..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Não seria problema se não houvesse esses monstros inteligentes! A essa altura já devem saber que foi revivido."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Isso não é um problema! Ninguém sabe que Kyuk usa magia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Lycia tem razão, ainda temos muito conhecimento a nosso favor. O inimigo pode ter descoberto que conseguimos reviver, mas há"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "muito o que não sabem sobre nós."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Espera... E se o Han estivesse atrás de informações? Ele não parava de olhar em volta... O que estava procurando?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Tem razão senhor, não tínhamos nada a oferecer, nem usamos magia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Não usamos... Talvez minha espada poderia tê-los atraído de novo..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Talvez. Não lembro a última vez que um Fiender foi em sua direção para atacá-lo. Nem mesmo Han ousou... Mago Mestre se mostra"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "pensativo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Lá no oeste vocês lutam para proteger a cidade e o círculo de teletransporte... Caso contrário, não conseguiriam mais voltar"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "para cá e nem nós poderíamos prestar reforços."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Está dizendo que o objetivo do inimigo era destruir o círculo?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Talvez, algum Fiender já chegou até Skar para ver o círculo funcionando?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Te garanto que não, as sentinelas nunca relataram nada."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Então diria que estava tentando descobrir como nos movemos tão rápido..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Como? Nunca nos viram usando essa magia."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Parece que também nos observam sem nos atacar, há um tempo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Lycia levanta a mão e todos olham para ela."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Err... Estive pensando na relação dos Fienders com cicatrizes que brilhavam com a cicatriz do Kyuk brilhar também... O que"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "poderia ser isso Mago Mestre?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Hum... A cicatriz dele brilhou, porque sua magia procurava meios de sair... Agora, Fienders não inteligentes...? Acho pouco"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "provável que seja o mesmo caso. para se usar magia é preciso de intelecto desenvolvido, até para eles."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "Tem outra coisa, havia muitos deles, mais que o normal dessa vez."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Isso é mesmo estranho."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Seria possível existirem outros que usam magia? - Comenta para si, pensativo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Já encontrou algum que usasse magia?!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Sim, há muito tempo. O rei demônio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O-O quê?!!! Eles já são fortes demais mesmo sem magia... O quão forte ele era?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não consegui derrotá-lo e..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Hunf... Quando pensei que essa conversa fosse para algum lugar, voltamos a histórias antigas..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Não menospreze a história. - Adverte, sério."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Hum... Acho que já passou da hora de reagirmos, caro Eliphas. Já temos alvos, direção... Só precisamos da equipe."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Direção? Eles fugiram."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "De Skar tenho certeza de que não passaram e segundo o relatório do Sian, não estão nem perto da mina de cristais. Então só nos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "resta investigar além da linha de frente do Oeste."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Sim... É arriscado, mas devo concordar. Quem se voluntaria? Ethan, Sian e Shin levantam a mão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Certo, alguém mais? Acredito que mais um seria uma equipe ideal..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Um momento. Sian, respeito sua proatividade. Mas pode deixar o reconhecimento com Shin."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Sian",
+        "image": "personagens/SIAN.png",
+        "text": "S-Sim, senhor... - Responde, incomodado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Que tal você Gyuder?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "Eu? Mas senhor, quem cuidará daqui quando sair?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "A barreira foi recém reforçada. Esse lugar está mais bem protegido do que pensa. - Explica, colocando a mão no ombro de Kyuk."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Certo, mesmo assim essa equipe precisa de mais um para garantir... Hum..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Acho que todos do oeste levantariam a mão se estivessem aqui, então vou escolher mais um deles para ir com vocês. Assim nenhum"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "lado ficaria desfalcado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Senhor Et... Quer dizer, Ethan pode contar conosco!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Certo, deixarei Gunir comandar as coisas enquanto estiver fora."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Holkes",
+        "image": "",
+        "text": "Por falar nisso, acho que todos aqui concordam que você deve liderar essa equipe de reconhecimento."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Claro, aceito com prazer general Holkes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "Só tomem cuidado, já expliquei o risco de se aproximar demais daquela região."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Em algum lugar no oeste, Nyari está em cima de uma colina e outro demônio bípede se aproxima."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI.png",
+        "text": "Conseguiu alguma coisa irmãozinho?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Nada... Você podia ter ido comigo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI.png",
+        "text": "Teria adorado, mas você também sentiu aquela energia estranha vindo de outro lugar, né?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "É... Talvez eu quem deveria ter ido contigo. O que encontrou lá?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI.png",
+        "text": "Nada demais, foi um pouco decepcionante. -Responde. - Se eu contar, ele pode acabar querendo a minha presa. - Pensa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Se está falando de lutar, não me arrependi. Onde fui tinham oponentes muito interessantes, então preferi não me arriscar. -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Comenta, lembrando-se da silhueta de Holkes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI.png",
+        "text": "Que pena... Será que o Norio conseguiu algo pelo menos? Ele já deveria ter voltado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Sempre com pressa... Ao contrário de nós, Norio foi na frente evitando conflitos, ele é o mais inteligente entre nós, não deve"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "ter morrido."
+    }
+]

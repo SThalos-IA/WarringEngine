@@ -1,0 +1,1406 @@
+[
+    {
+        "type": "chapter_title",
+        "title": "Capítulo 16 – Guerra III",
+        "image": "Assets/WARRING MAPA.png",
+        "text": ""
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ethan e Kyuk correm lado a lado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Eliphas nos deixou mais recuados para eliminarmos os Fienders restantes. Seria"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "um problema se eles se juntassem aos outros da cidade. Aquela magia deve tê-los atrasado um pouco."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "O Sr. Gunir e Sian foram mandados para o círculo mais próximo da linha de frente. Queria estar com eles."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "É perigoso demais, os aprendizes estão suando desde que essa guerra começou... Sentir o poder do rei Fiender deve ser"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "assustador."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Vocês não conseguem mesmo sentir, né?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Não é hora de falar sobre isso."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os quatro capitães seguem enfrentando o rei Fiender Yama."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Droga, o Han disse que viu o Holkes, mas até agora nada dele... Sei que está economizando energia, mas não sei quanto tempo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "vamos conseguir lidar com esse monstro. E ainda preciso acabar com ele... - Pensa, olhando para Han. Por um breve momento"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Loknar percebe que alguém está se aproximando ao longe e olha para Fylk que também notou a presença."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O rei demônio acerta Loknar que tenta se proteger, formando um “X” com suas foices, mas a diferença de força é grande demais e"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "o capitão novamente não conseguiu segurar suas armas que foram jogadas para longe."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "E agora? O que vai fazer? Fugir? - Pergunta, ironizando."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Nesse momento um sorriso sutil se abre no rosto de Loknar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Heh. De onde tirou isso? Você é louco?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Rei Demônio",
+        "image": "",
+        "text": "Como é?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Um guerreiro de verdade luta com o que tem, independente das circunstâncias! - Diz, erguendo seus punhos fechados e ficando em"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "posição de combate corporal."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "Isso... É sério? Está mesmo querendo me enfrentar assim?!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Um sorriso de insanidade toma lugar do anterior."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Eu sou louco... não burro. Ao terminar de dizer isso, uma lança atinge o peito do demônio. Mesmo não perfurando muito, ela"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "finca um pouco."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "O quê?! De onde veio isso? Pai- Rei! Permita-me-!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "Huh...?! Só isso? Você estava me distraindo, mas isso não é... Logo atrás de Loknar, correndo com seu martelo em mãos, Fylk"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "acerta a base da lança, fazendo-a penetrar e atravessar completamente o corpo do rei monstro."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "Argh!!! Isso... Foi interessante, masNeste instante, Brankio interrompe as palavras com uma voadora de dois pés na ferida"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "causada por seus companheiros."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Acho que isso serve por enquanto, valeu. - Agradece. - E não é que fazer planos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "as vezes funciona mesmo. - Pensa, tendo a imagem de Ethan em mente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "Essa lança é mesmo muito forte!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Já ouvi sobre sua resistência, mas isso é impressionante... Yama enfurecido acerta um tapa em Fylk que está mais próximo,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "afundando-o no chão."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Brankio tenta se afastar, mas o rei demônio usa seu orbe para causar um grande impacto de energia que acaba afastando os"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "capitães de perto dele. Brankio e Loknar são jogados próximos de Gunir. Shin e Fylk foram lançados para lugares distintos,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Fylk está inconsciente. Han se esquiva por pouco e se aproxima rapidamente de seu pai."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "Ei, pegue aquela coisa que me acertou há pouco... -Ordena, olhando para Han."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Tsk. Em um instante ele... Ele não nos considera mais uma ameaça, nem se preocupa mais com sua guarda. - Confirma, olhando"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Yama e seu filho de mais longe do que gostaria. Han rapidamente obedece a seu pai e em um piscar de olhos busca e entrega a"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "lança de Gunir para Yama."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
+        "image": "",
+        "text": "Agora pode ir atrás dos seus, já brinquei um pouco com eles... - Diz, encarando Gunir."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O capitão desarmado dá um passo para trás, sem saber direito a intenção do inimigo. Até que sente seu peito ser atravessado"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "pela sua própria arma."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Capitães",
+        "image": "",
+        "text": "GUNIR!!! - Gritam, olhando na direção do capitão de armadura perfurada. Gunir está espantado, parece não ter entendido o que"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Capitães",
+        "image": "",
+        "text": "aconteceu, até que tosse sangue e se ajoelha abruptamente e ofegando."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Enquanto Shin olha para trás, Han se aproxima e lhe acerta um chute na costela, arremessando-o para a direita do campo de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "batalha. A reação de Loknar e Brankio foi correr, com certa dificuldade, na direção do capitão ajoelhado. Brankio e Loknar se"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "aproximam de Gunir."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "Eiii Gun!!! Aguente firme!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Brankio, se levarmos para o círculo mais próximo ele ainda pode sobreviver."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Não... Não há tempo... Escutem, eu tenho uma missão para vocês dois. Cof! Cof! Cof! Loknar e Brankio o encaram preocupados."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "Escutem! Tem um cara lá atrás, em... Cof! Em Skar... os inimigos estão... se acumulando de novo, são muitos... Argh! Ele"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gunir",
+        "image": "",
+        "text": "consegue reviver os que já... matamos... Gunir para de falar."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Os dois capitães entreolham-se. De repente Brankio e Loknar começam a correr para a retaguarda. Brankio carrega Gunir abaixo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "do braço que lhe resta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Então o plano é simples, chegamos logo no portal que trouxe ele até aqui, recuperamos seu braço e descemos a porrada naquele"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "mago monstro."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "E o Shin?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Ah ele se vira..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "E... o Fylk? Fylk está caído no chão, imóvel."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Er... Não podemos fazer nada... - Afirma, lacrimejando um pouco, mas logo limpa o rosto. - Aquele monstro podia ter nos jogado"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "para mais perto desse portal, droga! - Reclama, correndo um pouco mais rápido."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk e Ethan avistam as três aliadas que vieram pelo círculo intermediário, enfrentando um Fiender gigante cada uma."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Arf... Arf..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "É melhor poupar energia, daqui para frente precisará muito dela. Elisa tem o Fiender gigante do meio completamente emaranhado"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "em suas raízes. Em seguida conjura mais duas raízes de cada lado, prendendo um braço do gigante da direita e outro à esquerda."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "É melhor vocês duas descansarem um pouco, eu posso cuidar deles sozinha!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O monstro da direita se desvencilha da raiz e parte para golpeá-la. Magda arremessa cristais afiados que penetram no braço da"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "criatura. Eles são iluminados pela magia e o braço contaminado pela luz se move para cima e para baixo. Nenhum dos Fienders"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "parece entender o que está acontecendo. Ethan e Kyuk também não. Até que o punho brilhante atinge o rosto do próprio dono que"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "tomba no chão."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Pois eu acho que não é hora de descansar. - Responde, jogando inúmeros cristais no outro gigante que também se soltou."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Desta vez os cristais se espalharam por todo o corpo. O monstro não soube o que fazer, parou seu movimento de tentar atacar a"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "mulher loira e tentou atacar a mais jovem. Agnes estava prestes a receber um ataque no rosto, mas não parecia preocupada. O"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "punho do inimigo parou pouco antes de atingi-la e já se virou para o rosto do aliado ainda preso às raízes de Elisa. O outro"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "braço do monstro acompanhou logo em seguida do primeiro. E assim ficaram alternando entre si, golpeando o próprio aliado até"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "parar de se mover."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "A cabeça é o melhor lugar para se mirar... - Diz, calmamente."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "A senhorita Magda está calma, mas parece diferente..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Que mulher assustadora."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Senhora Magda agradecemos a ajuda, mas se continuar assim o cristal de seu"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "cajado vaiMagda",
+        "image": "",
+        "text": "Me diga minha jovem... Por que estamos aqui?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "Magda, a garota sabe muito bemMagda: EU QUERO NOSSA FLORESTA LIVRE! - Grita, observando o Fiender levantandose. - Livre de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "todo esse sangue amaldiçoado! - Exclama, apontando o cajado na direção dele. -Livre de animais com medo de sair dela! -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "Suplica, vendo o monstro sendo golpeado diversas vezes. - Livre para manter suas raízes firmes no chão, receber vento, sol e"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "chuva... É por isso que estamos aqui! - Conclui, ficando em um repentino silêncio."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O único Fiender vivo continuava dominado pelos cristais dela. O Capitão e o jovem se aproximam devagar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "S-Senhorita Magda... Eu nunca vi os cristais sendo usados desse jeito."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Não é muito diferente de como eles reagem na nossa floresta, querido. - Explica, sorrindo calorosamente e suando um pouco."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ele olha para o céu ainda nublado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Preciso me apressar, em breve não serei mais tão útil..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Desculpe por não conseguir impedir a chuva, querido."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Han está parado esperando seu oponente que se aproxima. Shin caminha em direção ao demônio com suas adagas em mãos, sua"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "expressão é quase neutra, se não fosse um leve sorriso de empolgação."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Monstros comuns não são o bastante... Aquele monstro que você chama de “pai” está completamente fora do meu alcance, mas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "você... -Fala, parando de andar. - Você não tem medo de mim, não é? - Pergunta, segurando sua lâmina próximo à garganta de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Han."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Hunf... Por que eu deveria ter medo de alguém que não conseguiria me acertar mesmo dessa distância? Quem se pôs em perigo foi"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "você. - Comenta, encarando Shin com uma expressão calma. - Venha. -Diz, se afastando. - Tente me acertar aqui novamente. -"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Desafia, apontando para a linha de corte marcada pela lâmina que tocou sua garganta."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Shin avança para bem próximo de Han, já atacando com uma das lâminas, o alvo desvia. Sem perder tempo a outra lâmina da"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "continuidade ao ataque na nova posição do inimigo, novamente o ataque não acerta. Uma sequência de ataques velozes começa,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "quase não é possível ver os braços do capitão. Han desvia com pouca dificuldade, até que Shin se afasta."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Os movimentos estão mais lentos... Deve estar cansado por causa do pai. - Pensa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Eu deveria te agradecer, estava ficando entediado. Não havia sentido lutar contra meus aliados só por diversão... mas quem"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "sabe o que teria acontecido se você não surgisse..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Está dizendo que lutaria com seus próprios aliados?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Talvez algum deles teria que morrer... O que seria um saco, pois sobraria mais trabalho para mim."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Hum... Isso me lembra alguém. - Comenta, lembrando-se de Nyari arremessando Fienders menores na direção da barreira do orbe"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "negro. - Aquela maluca. - Pensa."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Preciso ganhar algum tempo... Não posso aparentar cansaço. - Pensa. Han desaparece do campo de visão de Shin, reaparecendo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "muito próximo do seu lado, tentando acertar sua garra."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "O que-?!!! - Exclama, desviando por pouco do ataque e se afastando novamente. -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "A movimentação é muito rápida, mas o ataque em si eu consigo ver agora... O ponto forte dele são mesmo as pernas. - Pensa. Han"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "desaparece novamente, pelo chão, poeiras são lançadas de um lado ao outro, se aproximando de forma irregular."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Droga! Não consigo disputar resistência... Preciso acabar logo com isso! - Pensa, apreensivo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "O que foi? Você parou de falar... E mesmo eu falando você não consegue saber onde estou, não é? Se soubesse já teria avançado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Ele é rápido demais, se quisesse poderia ter nos matado mais cedo. Talvez Gunir e Fylk aguentariam um ataque surpresa desse"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "monst... Hum? - Pergunta, sentindo um desconforto. - Acho que aquele chute quebrou uma costela... -Pensa, preocupado e suando"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "um pouco. - Será que meu corpo está esfriando por eu estar... parado?!!! - Analisa, indignado. Han acerta um chute no meio do"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "tronco de Shin, o capitão é lançado para longe. Han acompanha o corpo do oponente e acerta outro chute lateral."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Eu... Argh!!! Não consigo... reagir!!!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "Você está ficando cansado, né? Ou está com... medo? Ainda no ar Shin finca suas lâminas no chão, seu corpo se arrasta por"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Han",
+        "image": "",
+        "text": "poucos metros no chão, até a inercia. Assim que consegue parar, se mantém encolhido de joelho e vomita sangue."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Eu juro... Cof! Cof! Cof! - Tosse um pouco de sangue. - Que vou te matar! Han sente algo estranho embaixo de seus pés, olha"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "para eles com atenção e nota um corte superficial em cada um."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "Eu me enganei... Arf! Meu corpo nunca ferveu de ódio. - Conclui, encarando friamente e mantendo suas armas em posição de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Shin",
+        "image": "",
+        "text": "combate. Han não está olhando para Shin, sua atenção está em um pequeno grupo espalhado de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Fienders menores se aproximando, vindo da direção da cidade Skar."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ethan, Kyuk e as bruxas estão voando por um longo caminho de corpos mortos caídos. Entre os vários corpos de demônios, havia"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "humanos guerreiros, o que restava do exército."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Pensei ter visto mais inimigos nessa região mais cedo. - Comenta. Olha com pouco mais de atenção para os corpos de seus"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "aliados."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Acho que não somos mais capitães... Vocês chegaram muito longe, senhores."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O lamento precede um respeitoso silêncio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Capitães de quê? Nunca fomos capitães de nada... A maioria aqui sempre fez o que quis... O General Holkes é um monstro, mas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "nunca conseguiu nos organizar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Loknar? E Brankio? O que estão fazendo aqui? E o Gunir, ele está vivo?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "Depende, vão parar de falar e me deixar colocar nesse negócio aí? - Reclama, tentando apontar na direção do círculo com seu"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "braço quebrado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Ai! Você não parece nada bem também. - Comenta, enquanto observa o corpo de Gunir ser colocado no círculo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Vamos logo então! Brux- Senhoritas, poderiam ajudar com isso?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "As três afirmam com a cabeça."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "E quem são elas? - Pergunta, apontando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "O que aconteceu com ele? Como ficou desse jeito?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Acha que o senhor Gunir ficará bem?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Se chegaram a tempo, a ferida irá cicatrizar, mas não acho que acordará logo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O capitão desaparece no círculo. Loknar está com uma das mãos no queixo, reflexivo."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Não parecem aprendizes do Eliphas... Nem se vestem com aqueles sobretudos de capuz. Tipo esse moleque aí também..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Brankio",
+        "image": "",
+        "text": "Oh! Veja Loknar, ele se veste estranho, por baixo tem armadura. - Fala, puxando o sobretudo um pouco para o lado."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Ué... Qual é a sua? Ethan, desde quando vocês recrutam crian... Para de falar, ao notar a cicatriz entre as vestes e a"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "armadura."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Espera um pouco, você é Kyuk!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Kyuk fica em silêncio, evitando contato visual."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Esse garoto é estranho igual o pai, agora faz sentido. Kyuk foca sua atenção em Loknar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Meu pai não era estranho!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "As três também se mostram incomodadas com a presença de Loknar."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Não liguem para ele... Ele é estranho também."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Loknar",
+        "image": "personagens/LOKNAR.png",
+        "text": "Ser estranho é normal, melhor que fingir ser normal... até! -Informa, pouco"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "antes de desaparecer junto de Brankio."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Apesar do que ele falou, deve ser o primeiro que não olha estranho ao nos conhecer."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "Tsc. Deve ser impressão... Todos eles ainda têm esse olhar de reprovação, mesmo já tendo ajudado. - Diz, olhando para Magda,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "pedindo afirmação."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Vocês viram aquela lança? Deve ter vindo da nossa floresta... Aquele homem... Gunir, certo capitão, Ethan?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Ethan",
+        "image": "",
+        "text": "Sim, ele comenta que gostaria de conhecer a Hygge um dia. Elas entreolham-se."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Elisa",
+        "image": "personagens/ELISA II.png",
+        "text": "Está vendo? Todos eles querem, principalmente aquele rei maldito da capital!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Nem o rei demônio parece se interessar tanto."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Agnes",
+        "image": "",
+        "text": "Mas Elisa, se o rei Fiender chegar na caverna de cristal, é só questão de tempo até querer dominar todo o resto."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Seria um prazer recebê-lo. Espero que sobreviva... -Comenta, rancorosamente. Kyuk parece intrigado ouvindo a conversa, mas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Magda",
+        "image": "",
+        "text": "Ethan desvia sua atenção tocando em seu ombro."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Ethan acena com a cabeça e olha na direção da frente de batalha."
+    },
+    {
+        "type": "scene_break",
+        "speaker": "",
+        "image": "",
+        "text": "..."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "Não entendo, disse que “lidaria” comigo, mas sinto que posso te matar a qualquer momento. Lycia encara por um breve momento."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "E por que não tenta?"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "Preciso saber onde está um garoto, sei que ele está no seu exército."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Garoto? -Pergunta, lembrando-se de Kyuk. - O que quer com ele?!"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "Uh, você parece conhecer... Preciso torturá-lo, até me ensinar como reviver e se mover tão rápido! Nem meu irmão é rápido"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "assim, deve ter algum truque com magia... Isso será muito útil para nós. E aquele desgraçado mentiu para mim, usava magia, mas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "não usou durante nossa luta. Será que reviveu mais forte? Isso pode ser um problema... Tantas perguntas, estou começando a me"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "irritar, acho que vou te matar logo... Até que foi fácil, aquele humano patético daquele dia não respondeu nenhuma das minhas"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "perguntas, mas você ajudou bem mais, esperava menos de você."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Atacá-la com raiva não vai adiantar... Certo, senhor Gyuder...? - Lembra, sentindo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "um nó na garganta. - O que aprendi até agora? Ela não se aproxima... Sempre ataca por baixo da terra com as mãos, mas quando"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "vai me golpear diretamente usa os braços inteiros... E tem outro detalhe... Lycia lembra-se de Sian cortando os dedos dela,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "enquanto estava suspenso no ar. A capitã vira as costas e corre na direção contrária de Nyari."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "Hã? Entendi, vai pedir reforços para o humano que me acertou mais cedo... Pois saiba que isso não vai se repetir, porque te"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "matarei aqui e agora."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Lycia segue se afastando."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "Não me ignore, maldita!!! - Grita, esticando seus braços na direção da humana."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Nyari olha para trás e percebe o ataque bem mais próximo do que o esperado. A capitã para de correr, se volta para o poderoso"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "ataque duplo, deflete com precisão um e esquiva-se por pouco do outro, tendo seu rosto cortado pouco abaixo dos olhos. A"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "demônio tenta trazer seus braços de volta, mas hesita, surpresa com algo. Lycia amputou seu pulso esticado. Nyari se enfurece"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "completamente e traz seu braço amputado rapidamente para o tamanho original, mas sem perder tempo lança-o novamente na humana"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "numa velocidade ainda maior que a anterior. Neste momento Lycia já está correndo na direção dela o mais rápido que pode e"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "conseguiu se esquivar com facilidade, como se estivesse esperando o golpe, que outrora parecia uma lança afiada e agora lembra"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "mais um chicote muito poderoso."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Se eu for acertada por isso, minha armadura vai amassar e esmagar meu corpo. - Pensa, pouco antes de acertar outro golpe em"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "cheio."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "O braço de Nyari é amputado na região do cotovelo. Nesse momento, a capitã nota que sua oponente perdeu o controle sobre seu"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "próprio braço. Instintivamente não para de correr em sua direção nem por um segundo, até que finalmente chega frente à frente."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Nyari volta a si, arrega-la os olhos por não ter percebido quando ou como aquela mulher havia se aproximado tanto. Sua única"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "reação foi tentar atrair para si o único braço que lhe restou, mas lembra-se porque não o fez antes. Seu outro braço esticado"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "está preso ao solo, a parte de trás de sua mão foi fixada ao chão por uma espada curta. E junto ao solo onde estão seu braço e"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "suas outras partes amputadas, sua cabeça faz companhia. Pois a espada longa decapitou a demônio com tamanha precisão, que seu"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "crânio seguiu consciente por alguns instantes."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "Oh?! O-O que foi isso? - Foram as últimas palavras da cabeça decepada jogada ao chão. Lycia está muito ofegante, leva um dos"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "joelhos ao chão e apoia o antebraço no outro. De cabeça baixa, o cabelo da capitã se solta. Ela só percebeu que ganhou, pelo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "som opaco do corpo e cabeça caindo, porque não consegue mais encarar aquele monstro, seus sentidos estão difusos. Tudo o que"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "consegue fazer é pensar em Gyuder e... Ela ouve passos curtos e abafados que param repentinamente. Ao fazer um esforço para"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "levantar a cabeça, sente a visão turva. Mas aos poucos as silhuetas que observa tomam forma. É Ethan segurando Kyuk, que se"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Nyari",
+        "image": "personagens/NYARI II.png",
+        "text": "debate desesperadamente tentando alcançá-la."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "Aqui... Não é lugar para vingança pessoal, Kyuk! Lembre-se disso... -Aconselha, notando que ele está cada vez mais agitado,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "ainda tentando se soltar do capitão, que também se mostra aflito."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "A capitã sente um frio na espinha, junto de uma presença atrás de si... Não consegue se virar, agora sente seu corpo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "paralisado não mais de cansaço, mas de medo. Yama está furioso, está segurando seu orbe negro e pronto para golpeá-la com ele."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Lycia!!! Sai logo daí!!! Eii Ethan seu desgraçado, me ajuda a salvá-la!!! Se não fizermos nadaYama encara brevemente o garoto"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "e ataca seu alvo a queima roupa."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "Uma quantidade considerável de sangue se espalha pelo chão... E fazendo companhia para todo esse sangue, tomba a mão do rei"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "demônio, amputada. Sem entender direito, ele olha para o lado, se deparando com Holkes segurando sua espada com as duas mãos,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "finalizando o movimento do corte. Mesmo surpreso, o rei rapidamente posiciona a outra mão para acertar o general. E novamente"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "tem seu ataque frustrado, por uma rajada de vento, capaz de afastá-lo para longe dali. Ethan e Kyuk estão sem palavras, estão"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "tentando processar a chegada de Holkes, seguido de Agnes e Eliphas, que estão em posição de conjuração, o orbe do mago acaba"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "de quebrar. Agnes demonstra bastante cansaço. Ela olha para a mão amputada, quase que por instinto. E arregala os olhos ao"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "perceber que o orbe negro está escapando da palma e rolando para o solo. Há um silêncio e apreensão de todos que perceberam"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "depois dela. O poder do orbe se manifesta como antes, uma rajada poderosa é disparada em todas as direções. E uma cúpula em"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "volta de si é retomada, lembrando um globo de plasma, só que avermelhado ao invés de tons de azul e roxo. Novamente, todos em"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "volta são jogados para longe em diferentes direções. Agnes age como pode para salvar Kyuk e Ethan com suas rajadas de vento"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "",
+        "text": "precisas, mas seu orbe também se quebra, ao mesmo tempo que fica inconsciente após tanto esforço."
+    }
+]
