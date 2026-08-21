@@ -297,13 +297,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Eu sei, porque não é em qualquer lugar que se encontra a madeira certa para se fazer"
+        "text": "Eu sei, porque não é em qualquer lugar que se encontra a madeira certa para se fazer uma espada. E lembra a última vez que"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "personagens/NARRAÇÃO.png",
-        "text": "uma espada. E lembra a última vez que levamos qualquer pedaço de madeira para o seu pai? Ele simplesmente usou de lenha!!!"
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "levamos qualquer pedaço de madeira para o seu pai? Ele simplesmente usou de lenha!!!"
     },
     {
         "type": "dialogue",
@@ -375,13 +375,7 @@
         "type": "dialogue",
         "speaker": "Yukia",
         "image": "personagens/YUKIA.png",
-        "text": "Você é muito insistente, ele não vai te dar uma arma de verdade. Aqui nem caçamos"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "personagens/NARRAÇÃO.png",
-        "text": "os animais, porque são poucos."
+        "text": "Você é muito insistente, ele não vai te dar uma arma de verdade. Aqui nem caçamos os animais, porque são poucos."
     },
     {
         "type": "dialogue",
@@ -411,7 +405,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "pessoal do vilarejo e ninguém sequer o viu. E os dois adentram mais ainda a floresta."
+        "text": "pessoal do vilarejo e ninguém sequer o viu."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "E os dois adentram mais ainda a floresta."
     },
     {
         "type": "scene_break",
@@ -458,13 +458,13 @@
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
+        "image": "personagens/NYARI I.png",
         "text": "Não tenham pressa meus queridos, deve ter pra todos... Mas se não tiver não tem problema. – Sorri empolgada. – Só tentem não"
     },
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
+        "image": "personagens/NYARI I.png",
         "text": "matar tão rápido."
     },
     {
@@ -488,31 +488,37 @@
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
+        "image": "personagens/NYARI I.png",
         "text": "Boa ideia jogá-los aí dentro, é sempre bom guardar um pouco pra mais tarde. E por falar nisso, acho que seria uma boa abrir"
     },
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
-        "text": "esses “pacotes” de humanos, não? – Diz, apontando para uma das casas. Em seguida, estica seu braço e bate na parede da casa,"
+        "image": "personagens/NYARI I.png",
+        "text": "esses “pacotes” de humanos, não? – Diz, apontando para uma das casas."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Em seguida, estica seu braço e bate na parede da casa, como se fosse um chicote, e a parte ao meio na horizontal e mata a"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "família que estava se escondendo lá dentro. Ao terminar a ação, a demonia tem seu braço de volta no lugar, porém, vermelho"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "sangue."
     },
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
-        "text": "como se fosse um chicote, e a parte ao meio na horizontal e mata a família que estava se escondendo lá dentro. Ao terminar a"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Demonia Branca",
-        "image": "",
-        "text": "ação, a demonia tem seu braço de volta no lugar, porém, vermelho sangue."
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Demonia Branca",
-        "image": "",
+        "image": "personagens/NYARI I.png",
         "text": "Hum... Será que é aqui que vamos encontrar? – Se pergunta, lambendo o sangue em sua mão."
     },
     {
@@ -567,13 +573,7 @@
         "type": "dialogue",
         "speaker": "Yukia",
         "image": "personagens/YUKIA.png",
-        "text": "Acha que isso vai ajudar? Nosso vilarejo pode estar sendo atacado. –Diz, começando"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "personagens/NARRAÇÃO.png",
-        "text": "a correr junto."
+        "text": "Acha que isso vai ajudar? Nosso vilarejo pode estar sendo atacado. –Diz, começando a correr junto."
     },
     {
         "type": "dialogue",
@@ -621,19 +621,25 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Eu sabia, alguma coisa está destruindo a vila. – Comenta, indignado. Kyuk e Yukia acabam de sair da floresta e se encontram"
+        "text": "Eu sabia, alguma coisa está destruindo a vila. – Comenta, indignado."
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "com um dos demônios, Yukia tenta se esconder atrás de uma das paredes destruídas e trazer o garoto consigo, tentando puxá-lo"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk e Yukia acabam de sair da floresta e se encontram com um dos demônios, Yukia tenta se esconder atrás de uma das paredes"
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "pela camisa, mas o jovem vai em direção ao monstro, que estava de costas pra ele, sem hesitar."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "destruídas e trazer o garoto consigo, tentando puxá-lo pela camisa, mas o jovem vai em direção ao monstro, que estava de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "costas pra ele, sem hesitar."
     },
     {
         "type": "dialogue",
@@ -681,19 +687,19 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "correndo pra cima do inimigo novamente. E quando os dois vão trocar golpes, um homem grande com uma barba proporcional ao seu"
+        "text": "correndo pra cima do inimigo novamente."
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "corpo e aparentemente forte, aparece de costas para Kyuk, conseguindo tampar sua vista, e de frente para seu inimigo,"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "E quando os dois vão trocar golpes, um homem grande com uma barba proporcional ao seu corpo e aparentemente forte, aparece de"
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "acertando-lhe dois machados que carrega consigo."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "costas para Kyuk, conseguindo tampar sua vista, e de frente para seu inimigo, acertando-lhe dois machados que carrega consigo."
     },
     {
         "type": "narration",
@@ -813,13 +819,19 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Precisamos sair daqui! Neste mesmo momento, o garoto percebe pela expressão amedrontada do senhor que abriu"
+        "text": "Precisamos sair daqui!"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
         "image": "personagens/NARRAÇÃO.png",
-        "text": "a porta para eles, que havia algo atrás dele. Este era um dos demônios."
+        "text": "Neste mesmo momento, o garoto percebe pela expressão amedrontada do senhor que abriu a porta para eles, que havia algo atrás"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "dele. Este era um dos demônios."
     },
     {
         "type": "dialogue",
@@ -843,7 +855,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Não, aqui não é seguro! Todos olham assustados para ele."
+        "text": "Não, aqui não é seguro!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Todos olham assustados para ele."
     },
     {
         "type": "dialogue",
@@ -855,7 +873,13 @@
         "type": "dialogue",
         "speaker": "Yukia",
         "image": "personagens/YUKIA.png",
-        "text": "É, nós precisamos pensar com calma agora. Batem na porta do celeiro."
+        "text": "É, nós precisamos pensar com calma agora."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Batem na porta do celeiro."
     },
     {
         "type": "dialogue",
@@ -867,7 +891,13 @@
         "type": "dialogue",
         "speaker": "Ancião",
         "image": "",
-        "text": "N-Não estou mesmo, mas precisamos dar um jeito nisso, como isso foi acontecer? Batem na porta novamente."
+        "text": "N-Não estou mesmo, mas precisamos dar um jeito nisso, como isso foi acontecer?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Batem na porta novamente."
     },
     {
         "type": "dialogue",
@@ -903,7 +933,13 @@
         "type": "dialogue",
         "speaker": "Yukia",
         "image": "personagens/YUKIA.png",
-        "text": "Mas isso não tem a ver com você tem a ver com... Batem novamente na porta já bem danificada."
+        "text": "Mas isso não tem a ver com você tem a ver com..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Batem novamente na porta já bem danificada."
     },
     {
         "type": "dialogue",
@@ -939,12 +975,18 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Eu... Não posso ser golpeado na cabeça, ele é muito forte! – Pensa, preocupado. – Você... Você deve estar sozinho porqu..."
+        "text": "Eu... Não posso ser golpeado na cabeça, ele é muito forte! – Pensa, preocupado. –"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Você... Você deve estar sozinho porqu..."
     },
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
+        "image": "personagens/NYARI I.png",
         "text": "“...porque o ‘grandalhão’ deve estar derrotando os outros”. Deve estar pensando assim."
     },
     {
@@ -956,13 +998,13 @@
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
+        "image": "personagens/NYARI I.png",
         "text": "Você é muito ingênuo, aquele cara do machado está enfrentando sim meus outros dois bichinhos, mas não acho que eles vão"
     },
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
+        "image": "personagens/NYARI I.png",
         "text": "perdoá-lo por ter matado um de seus irmãos."
     },
     {
@@ -974,14 +1016,20 @@
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
-        "text": "Hum... – Diz, percebendo com mais atenção o olhar dele. – Interessante. – Pensa, abrindo um sorriso sutil."
+        "image": "personagens/NYARI I.png",
+        "text": "Hum... – Diz, percebendo com mais atenção o olhar dele. – Interessante. –"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
         "image": "personagens/NARRAÇÃO.png",
-        "text": "Em seguida olha para a porta do celeiro e levanta seu braço lentamente, o jovem fica ainda mais em guarda."
+        "text": "Pensa, abrindo um sorriso sutil. Em seguida olha para a porta do celeiro e levanta seu braço lentamente, o jovem fica ainda"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "mais em guarda."
     },
     {
         "type": "dialogue",
@@ -998,19 +1046,19 @@
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
-        "text": "Você faz muitas perguntas. – Notifica, esticando seu braço em direção ao celeiro. Porém, Kyuk acerta o braço dela com sua"
+        "image": "personagens/NYARI I.png",
+        "text": "Você faz muitas perguntas. – Notifica, esticando seu braço em direção ao celeiro."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Porém, Kyuk acerta o braço dela com sua arma, fazendo-o bater no chão e desviar seu alvo para o chão rapidamente."
     },
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
-        "text": "arma, fazendo-o bater no chão e desviar seu alvo para o chão rapidamente."
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Demonia Branca",
-        "image": "",
+        "image": "personagens/NYARI I.png",
         "text": "Mas o que...?"
     },
     {
@@ -1028,14 +1076,14 @@
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
-        "text": "Acho que encontrei o que estava procurando... E assim, o jovem parte em direção a ela sem exitar e sem notar que a chuva"
+        "image": "personagens/NYARI I.png",
+        "text": "Acho que encontrei o que estava procurando..."
     },
     {
-        "type": "dialogue",
-        "speaker": "Demonia Branca",
-        "image": "",
-        "text": "aumentou um pouco mais."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "E assim, o jovem parte em direção a ela sem exitar e sem notar que a chuva aumentou um pouco mais."
     },
     {
         "type": "scene_break",
@@ -1088,31 +1136,31 @@
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
+        "image": "personagens/NYARI I.png",
         "text": "É... - Comenta insatisfeita – Eu esperava mais, pensei mesmo que havia encontrado. Mas que desperdício... - Diz, colocando a"
     },
     {
         "type": "dialogue",
         "speaker": "Demonia Branca",
-        "image": "",
-        "text": "mão no rosto de Kyuk com certa ternura. - Até que era bonitinho. E a estaca de madeira, fincada no chão, quebra ao meio, por"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Demonia Branca",
-        "image": "",
-        "text": "conta do peso exercido na parte superior."
+        "image": "personagens/NYARI I.png",
+        "text": "mão no rosto de Kyuk com certa ternura. - Até que era bonitinho."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
         "image": "personagens/NARRAÇÃO.png",
-        "text": "A chuva já havia parado nesse momento, faixas de luz solar passam por entre as nuvens, uma quantidade incontável de gotículas"
+        "text": "E a estaca de madeira, fincada no chão, quebra ao meio, por conta do peso exercido na parte superior. A chuva já havia parado"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
         "image": "personagens/NARRAÇÃO.png",
-        "text": "de energia branca sobe em direção ao céu e desaparecem no meio do caminho."
+        "text": "nesse momento, faixas de luz solar passam por entre as nuvens, uma quantidade incontável de gotículas de energia branca sobe"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "em direção ao céu e desaparecem no meio do caminho."
     }
 ]

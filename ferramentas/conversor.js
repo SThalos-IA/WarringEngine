@@ -1,323 +1,371 @@
 //==================================================
+
 // WARRING CONVERTER
+
 // PARTE 1 — CONFIGURAÇÃO
+
 //==================================================
 
 const CONFIG = {
 
-    //--------------------------------------------------
-    // PROJETO
-    //--------------------------------------------------
+    //--------------------------------------------------
 
-    nomeJogo: "Warring",
+    // PROJETO
 
-    versao: "1.0",
+    //--------------------------------------------------
 
-    //--------------------------------------------------
-    // TEXTO
-    //--------------------------------------------------
+    nomeJogo: "Warring",
 
-    caracteresLinha: 42,
+    versao: "1.0",
 
-    maxLinhas: 3,
+    //--------------------------------------------------
 
-    //--------------------------------------------------
-    // ARQUIVOS
-    //--------------------------------------------------
+    // TEXTO
 
-    extensaoEntrada: ".txt",
+    //--------------------------------------------------
 
-    extensaoSaida: ".json",
+    caracteresLinha: 42,
 
-    encoding: "UTF-8",
+    maxLinhas: 3,
 
-    //--------------------------------------------------
-    // PASTAS
-    //--------------------------------------------------
+    //--------------------------------------------------
 
-    pastaImagens: "personagens/",
+    // ARQUIVOS
 
-    pastaTransicoes: "transicoes/",
+    //--------------------------------------------------
 
-    //--------------------------------------------------
-    // INTERFACE
-    //--------------------------------------------------
+    extensaoEntrada: ".txt",
 
-    limparConsoleAoConverter: true,
+    extensaoSaida: ".json",
 
-    mostrarMensagensConsole: true
+    encoding: "UTF-8",
+
+    //--------------------------------------------------
+
+    // PASTAS
+
+    //--------------------------------------------------
+
+    pastaImagens: "personagens/",
+
+    pastaTransicoes: "transicoes/",
+
+    //--------------------------------------------------
+
+    // INTERFACE
+
+    //--------------------------------------------------
+
+    limparConsoleAoConverter: true,
+
+    mostrarMensagensConsole: true
 
 };
 
 //==================================================
+
 // WARRING CONVERTER
+
 // PARTE 2 — NORMALIZADOR DE TEXTO
+
 //==================================================
 
 class NormalizadorTexto {
 
-    constructor() {
+    constructor() {
 
-    }
+    }
 
-    //--------------------------------------------------
-    // NORMALIZAR
-    //--------------------------------------------------
+    //--------------------------------------------------
 
-    normalizar(texto) {
+    // NORMALIZAR
 
-        texto = this.normalizarQuebras(texto);
+    //--------------------------------------------------
 
-        texto = this.removerCaracteresInvisiveis(texto);
+    normalizar(texto) {
 
-        texto = this.normalizarEspacos(texto);
+        texto = this.normalizarQuebras(texto);
 
-        texto = this.normalizarReticencias(texto);
+        texto = this.removerCaracteresInvisiveis(texto);
 
-        return texto.trim();
+        texto = this.normalizarEspacos(texto);
 
-    }
+        texto = this.normalizarReticencias(texto);
 
-    //--------------------------------------------------
-    // NORMALIZAR QUEBRAS DE LINHA
-    //--------------------------------------------------
+        return texto.trim();
 
-    normalizarQuebras(texto) {
+    }
 
-        return texto
+    //--------------------------------------------------
 
-            .replace(/\r\n/g, "\n")
+    // NORMALIZAR QUEBRAS DE LINHA
 
-            .replace(/\r/g, "\n");
+    //--------------------------------------------------
 
-    }
+    normalizarQuebras(texto) {
 
-    //--------------------------------------------------
-    // REMOVER CARACTERES INVISÍVEIS
-    //--------------------------------------------------
+        return texto
 
-    removerCaracteresInvisiveis(texto) {
+            .replace(/\r\n/g, "\n")
 
-        return texto
+            .replace(/\r/g, "\n");
 
-            .replace(/\uFEFF/g, "")
+    }
 
-            .replace(/\u200B/g, "")
+    //--------------------------------------------------
 
-            .replace(/\u200C/g, "")
+    // REMOVER CARACTERES INVISÍVEIS
 
-            .replace(/\u200D/g, "")
+    //--------------------------------------------------
 
-            .replace(/\u00A0/g, " ");
+    removerCaracteresInvisiveis(texto) {
 
-    }
+        return texto
 
-    //--------------------------------------------------
-    // NORMALIZAR ESPAÇOS
-    //--------------------------------------------------
+            .replace(/\uFEFF/g, "")
 
-    normalizarEspacos(texto) {
+            .replace(/\u200B/g, "")
 
-        return texto
+            .replace(/\u200C/g, "")
 
-            .replace(/[ \t]+/g, " ")
+            .replace(/\u200D/g, "")
 
-            .replace(/ +([,.;!?])/g, "$1")
+            .replace(/\u00A0/g, " ");
 
-            .replace(/\n[ \t]+/g, "\n")
+    }
 
-            .replace(/\n{3,}/g, "\n\n");
+    //--------------------------------------------------
 
-    }
+    // NORMALIZAR ESPAÇOS
 
-    //--------------------------------------------------
-    // NORMALIZAR RETICÊNCIAS
-    //--------------------------------------------------
+    //--------------------------------------------------
 
-    normalizarReticencias(texto) {
+    normalizarEspacos(texto) {
 
-        return texto
+        return texto
 
-            .replace(/\.{4,}/g, "...");
+            .replace(/[ \t]+/g, " ")
 
-    }
+            .replace(/ +([,.;!?])/g, "$1")
+
+            .replace(/\n[ \t]+/g, "\n")
+
+            .replace(/\n{3,}/g, "\n\n");
+
+    }
+
+    //--------------------------------------------------
+
+    // NORMALIZAR RETICÊNCIAS
+
+    //--------------------------------------------------
+
+    normalizarReticencias(texto) {
+
+        return texto
+
+            .replace(/\.{4,}/g, "...");
+
+    }
 
 }
 
 //==================================================
+
 // WARRING CONVERTER
+
 // PARTE 3 — COMPOSITOR DE CAIXAS
+
 //==================================================
 
 class CompositorCaixa {
 
-    constructor() {
+    constructor() {
 
-        this.caracteresLinha =
+        this.caracteresLinha =
 
-            CONFIG.caracteresLinha;
+            CONFIG.caracteresLinha;
 
-        this.maxLinhas =
+        this.maxLinhas =
 
-            CONFIG.maxLinhas;
+            CONFIG.maxLinhas;
 
-        this.maxCaracteres =
+        this.maxCaracteres =
 
-            this.caracteresLinha *
+            this.caracteresLinha *
 
-            this.maxLinhas;
+            this.maxLinhas;
 
-    }
+    }
 
-    //--------------------------------------------------
-    // DIVIDIR TEXTO
-    //--------------------------------------------------
+    //--------------------------------------------------
 
-    dividir(texto) {
+    // DIVIDIR TEXTO
 
-        if (!texto) {
+    //--------------------------------------------------
 
-            return [];
+    dividir(texto) {
 
-        }
+        if (!texto) {
 
-        texto = texto
+            return [];
 
-            .replace(/\s+/g, " ")
+        }
 
-            .trim();
+        texto = texto
 
-        if (texto === "") {
+            .replace(/\s+/g, " ")
 
-            return [];
+            .trim();
 
-        }
+        if (texto === "") {
 
-        //------------------------------------------
-        // Se o texto cabe em uma caixa
-        //------------------------------------------
+            return [];
 
-        if (
+        }
 
-            texto.length <=
+        //------------------------------------------
 
-            this.maxCaracteres
+        // Se o texto cabe em uma caixa
 
-        ) {
+        //------------------------------------------
 
-            return [texto];
+        if (
 
-        }
+            texto.length <=
 
-        //------------------------------------------
-        // Separar palavras
-        //------------------------------------------
+            this.maxCaracteres
 
-        const palavras =
+        ) {
 
-            texto.split(" ");
+            return [texto];
 
-        const caixas = [];
+        }
 
-        let caixaAtual = "";
+        //------------------------------------------
 
-        //------------------------------------------
-        // Montar caixas
-        //------------------------------------------
+        // Separar palavras
 
-        for (
+        //------------------------------------------
 
-            const palavra of palavras
+        const palavras =
 
-        ) {
+            texto.split(" ");
 
-            const tentativa =
+        const caixas = [];
 
-                caixaAtual === ""
+        let caixaAtual = "";
 
-                    ? palavra
+        //------------------------------------------
 
-                    : caixaAtual +
+        // Montar caixas
 
-                      " " +
+        //------------------------------------------
 
-                      palavra;
+        for (
 
-            //--------------------------------------
-            // Ainda cabe na caixa
-            //--------------------------------------
+            const palavra of palavras
 
-            if (
+        ) {
 
-                tentativa.length <=
+            const tentativa =
 
-                this.maxCaracteres
+                caixaAtual === ""
 
-            ) {
+                    ? palavra
 
-                caixaAtual =
+                    : caixaAtual +
 
-                    tentativa;
+                      " " +
 
-                continue;
+                      palavra;
 
-            }
+            //--------------------------------------
 
-            //--------------------------------------
-            // Salvar caixa atual
-            //--------------------------------------
+            // Ainda cabe na caixa
 
-            if (
+            //--------------------------------------
 
-                caixaAtual !== ""
+            if (
 
-            ) {
+                tentativa.length <=
 
-                caixas.push(
+                this.maxCaracteres
 
-                    caixaAtual
+            ) {
 
-                );
+                caixaAtual =
 
-            }
+                    tentativa;
 
-            //--------------------------------------
-            // Começar nova caixa
-            //--------------------------------------
+                continue;
 
-            caixaAtual =
+            }
 
-                palavra;
+            //--------------------------------------
 
-        }
+            // Salvar caixa atual
 
-        //------------------------------------------
-        // Salvar última caixa
-        //------------------------------------------
+            //--------------------------------------
 
-        if (
+            if (
 
-            caixaAtual !== ""
+                caixaAtual !== ""
 
-        ) {
+            ) {
 
-            caixas.push(
+                caixas.push(
 
-                caixaAtual
+                    caixaAtual
 
-            );
+                );
 
-        }
+            }
 
-        return caixas;
+            //--------------------------------------
 
-    }
+            // Começar nova caixa
+
+            //--------------------------------------
+
+            caixaAtual =
+
+                palavra;
+
+        }
+
+        //------------------------------------------
+
+        // Salvar última caixa
+
+        //------------------------------------------
+
+        if (
+
+            caixaAtual !== ""
+
+        ) {
+
+            caixas.push(
+
+                caixaAtual
+
+            );
+
+        }
+
+        return caixas;
+
+    }
 
 }
 
 //==================================================
+
 // WARRING CONVERTER
+
 // PARTE 4 — PERSONAGENS E IMAGENS
+
 //==================================================
 
 const PERSONAGENS = {
@@ -327,51 +375,52 @@ const PERSONAGENS = {
     //--------------------------------------------------
 
     "KYUK": {
+        imagem: "KYUK.png",
 
-        imagem: "KYUK.png"
-
+        imagemApartirCapitulo: {
+            15: "KYUK FEITICEIRO.png",
+            10: "KYUK ARMADURA.png"
+        }
     },
 
     "YUKIA": {
-
         imagem: "YUKIA.png"
-
     },
 
     "BARK": {
-
         imagem: "BARK.png"
-
     },
 
     "GYUDER": {
-
         imagem: "GYUDER.png"
-
     },
 
     "LYCIA": {
-
         imagem: "LYCIA.png"
-
     },
 
     "LOKNAR": {
-
         imagem: "LOKNAR.png"
-
     },
 
     "NORIO": {
-
         imagem: "NORIO.png"
-
     },
 
     "SIAN": {
-
         imagem: "SIAN.png"
+    },
 
+    //--------------------------------------------------
+    // HAN
+    //--------------------------------------------------
+
+    "HAN": {
+        imagem: "HAN.png",
+
+        imagemApartirCapitulo: {
+            10: "HAN II.png"
+        }
     },
 
     //--------------------------------------------------
@@ -379,15 +428,11 @@ const PERSONAGENS = {
     //--------------------------------------------------
 
     "ELIPHAS": {
-
         imagem: "ELIPHAS.png"
-
     },
 
     "MAGO MESTRE": {
-
         imagem: "ELIPHAS.png"
-
     },
 
     //--------------------------------------------------
@@ -395,15 +440,11 @@ const PERSONAGENS = {
     //--------------------------------------------------
 
     "NYARI": {
-
         imagem: "NYARI.png",
 
         imagemApartirCapitulo: {
-
-            14: "NYARI II.png"
-
+            10: "NYARI II.png"
         }
-
     },
 
     //--------------------------------------------------
@@ -411,214 +452,252 @@ const PERSONAGENS = {
     //--------------------------------------------------
 
     "ELISA": {
-
         imagem: "ELISA.png",
 
         imagemApartirCapitulo: {
-
             14: "ELISA II.png"
-
         }
+    },
 
+    //--------------------------------------------------
+    // DEMONIA BRANCA
+    //--------------------------------------------------
+
+    "DEMONIA BRANCA": {
+        imagem: "NYARI I.png"
+    },
+
+    //--------------------------------------------------
+    // PALADINOS
+    //--------------------------------------------------
+
+    "ALEXANDER": {
+        imagem: "PALADINOS.png"
+    },
+
+    "ROLAND": {
+        imagem: "PALADINOS.png"
+    },
+
+    "HOLAND": {
+        imagem: "PALADINOS.png"
     }
 
 };
 
 
+
 //==================================================
+
 // RESOLVER IMAGEM DO PERSONAGEM
+
 //==================================================
 
 function resolverImagemPersonagem(
 
-    nome,
+    nome,
 
-    capitulo
+    capitulo
 
 ) {
 
-    if (!nome) {
+    if (!nome) {
 
-        return "";
+        return "";
 
-    }
+    }
 
-    //------------------------------------------
-    // Normalizar nome
-    //------------------------------------------
+    //------------------------------------------
 
-    const nomeNormalizado =
+    // Normalizar nome
 
-        nome
+    //------------------------------------------
 
-            .normalize("NFD")
+    const nomeNormalizado =
 
-            .replace(
+        nome
 
-                /[\u0300-\u036f]/g,
+            .normalize("NFD")
 
-                ""
+            .replace(
 
-            )
+                /[\u0300-\u036f]/g,
 
-            .trim()
+                ""
 
-            .toUpperCase();
+            )
 
-    //------------------------------------------
-    // Narrador nunca possui imagem
-    //------------------------------------------
+            .trim()
 
-    if (
+            .toUpperCase();
 
-        nomeNormalizado ===
+    //------------------------------------------
 
-        "NARRADOR"
+    // Narrador nunca possui imagem
 
-    ) {
+    //------------------------------------------
 
-        return "";
+    if (
 
-    }
+        nomeNormalizado ===
 
-    //------------------------------------------
-    // Procurar personagem
-    //------------------------------------------
+        "NARRADOR"
 
-    const personagem =
+    ) {
 
-        PERSONAGENS[
+        return "";
 
-            nomeNormalizado
+    }
 
-        ];
+    //------------------------------------------
 
-    //------------------------------------------
-    // Personagem não cadastrado
-    //------------------------------------------
+    // Procurar personagem
 
-    if (!personagem) {
+    //------------------------------------------
 
-        console.warn(
+    const personagem =
 
-            "Personagem sem imagem cadastrada:",
+        PERSONAGENS[
 
-            nome
+            nomeNormalizado
 
-        );
+        ];
 
-        return "";
+    //------------------------------------------
 
-    }
+    // Personagem não cadastrado
 
-    //------------------------------------------
-    // Converter capítulo
-    //------------------------------------------
+    //------------------------------------------
 
-    const numeroCapitulo =
+    if (!personagem) {
 
-        parseInt(
+        console.warn(
 
-            String(capitulo)
+            "Personagem sem imagem cadastrada:",
 
-                .replace(
+            nome
 
-                    /[^0-9]/g,
+        );
 
-                    ""
+        return "";
 
-                ),
+    }
 
-            10
+    //------------------------------------------
 
-        ) || 0;
+    // Converter capítulo
 
-    //------------------------------------------
-    // Verificar imagem específica
-    // a partir de determinado capítulo
-    //------------------------------------------
+    //------------------------------------------
 
-    if (
+    const numeroCapitulo =
 
-        personagem.imagemApartirCapitulo
+        parseInt(
 
-    ) {
+            String(capitulo)
 
-        const capitulos =
+                .replace(
 
-            Object.keys(
+                    /[^0-9]/g,
 
-                personagem
+                    ""
 
-                    .imagemApartirCapitulo
+                ),
 
-            )
+            10
 
-                .map(
+        ) || 0;
 
-                    numero =>
+    //------------------------------------------
 
-                        parseInt(
+    // Verificar imagem específica
 
-                            numero,
+    // a partir de determinado capítulo
 
-                            10
+    //------------------------------------------
 
-                        )
+    if (
 
-                )
+        personagem.imagemApartirCapitulo
 
-                .sort(
+    ) {
 
-                    (a, b) =>
+        const capitulos =
 
-                        b - a
+            Object.keys(
 
-                );
+                personagem
 
-        for (
+                    .imagemApartirCapitulo
 
-            const inicio of capitulos
+            )
 
-        ) {
+                .map(
 
-            if (
+                    numero =>
 
-                numeroCapitulo >=
+                        parseInt(
 
-                inicio
+                            numero,
 
-            ) {
+                            10
 
-                return (
+                        )
 
-                    CONFIG.pastaImagens +
+                )
 
-                    personagem
+                .sort(
 
-                        .imagemApartirCapitulo
+                    (a, b) =>
 
-                        [inicio]
+                        b - a
 
-                );
+                );
 
-            }
+        for (
 
-        }
+            const inicio of capitulos
 
-    }
+        ) {
 
-    //------------------------------------------
-    // Imagem padrão
-    //------------------------------------------
+            if (
 
-    return (
+                numeroCapitulo >=
 
-        CONFIG.pastaImagens +
+                inicio
 
-        personagem.imagem
+            ) {
 
-    );
+                return (
+
+                    CONFIG.pastaImagens +
+
+                    personagem
+
+                        .imagemApartirCapitulo
+
+                        [inicio]
+
+                );
+
+            }
+
+        }
+
+    }
+
+    //------------------------------------------
+
+    // Imagem padrão
+
+    //------------------------------------------
+
+    return (
+
+        CONFIG.pastaImagens +
+
+        personagem.imagem
+
+    );
 
 }
 
@@ -634,11 +713,9 @@ class Parser {
         this.conv = conversor;
 
         this.compositor =
-
             new CompositorCaixa();
 
         this.reset();
-
     }
 
     //--------------------------------------------------
@@ -648,7 +725,6 @@ class Parser {
     reset() {
 
         this.story = [];
-
     }
 
     //--------------------------------------------------
@@ -656,834 +732,608 @@ class Parser {
     //--------------------------------------------------
 
     interpretar(
-
         texto,
-
         capitulo
-
     ) {
 
         this.reset();
 
         //------------------------------------------
-        // Normalizar quebras de linha
+        // NORMALIZAR QUEBRAS DE LINHA
         //------------------------------------------
 
         texto = texto
-
             .replace(/\r\n/g, "\n")
-
             .replace(/\r/g, "\n");
 
         //------------------------------------------
-        // Separar linhas
+        // SEPARAR LINHAS
+        //
+        // IMPORTANTE:
+        // NÃO juntar todas as linhas em um bloco.
+        //
+        // Precisamos manter as linhas porque uma
+        // fala pode continuar na linha seguinte e
+        // uma narração pode começar logo depois.
         //------------------------------------------
 
-        const linhas = texto
+        const linhas =
+            texto.split("\n");
 
-            .split("\n")
+        //------------------------------------------
+        // REMOVER ESPAÇOS EXCESSIVOS DAS LINHAS
+        //------------------------------------------
 
-            .map(
-
-                linha => linha.trim()
-
+        const linhasLimpas =
+            linhas.map(
+                linha =>
+                    linha
+                        .trim()
             );
-
-                //------------------------------------------
-        // PROCESSAR LINHAS
-        //------------------------------------------
 
         let i = 0;
 
-//------------------------------------------
-// IGNORAR TÍTULO GERAL DO JOGO
-//------------------------------------------
-
-if (
-
-    linhas[i] &&
-
-    linhas[i].trim().toLowerCase() === "warring"
-
-) {
-
-    i++;
-
-}
-
-//------------------------------------------
-// IGNORAR LINHAS VAZIAS
-//------------------------------------------
-
-while (
-
-    i < linhas.length &&
-
-    linhas[i] === ""
-
-) {
-
-    i++;
-
-}
-
-//------------------------------------------
-// TÍTULO DO CAPÍTULO
-//------------------------------------------
-
-if (
-
-    i < linhas.length &&
-
-    this.ehTituloCapitulo(
-
-        linhas[i]
-
-    )
-
-) {
-
-    const tituloCapitulo =
-
-        linhas[i];
-
-    console.log(
-
-        "CRIANDO CHAPTER_TITLE:",
-
-        tituloCapitulo
-
-    );
-
-    this.adicionarTituloCapitulo(
-
-        tituloCapitulo,
-
-        capitulo
-
-    );
-
-    i++;
-
-}
-
-//------------------------------------------
-// IGNORAR LINHAS VAZIAS APÓS O TÍTULO
-//------------------------------------------
-
-while (
-
-    i < linhas.length &&
-
-    linhas[i] === ""
-
-) {
-
-    i++;
-
-}
-
-//------------------------------------------
-// PROCESSAMENTO PRINCIPAL
-//------------------------------------------
-
-while (
-
-    i < linhas.length
-
-) {
-
-    const linha = linhas[i];
-
-    //--------------------------------------
-    // Ignorar linhas vazias
-    //--------------------------------------
-
-    if (
-
-        linha === ""
-
-    ) {
-
-        i++;
-
-        continue;
-
-    }
-
-    //--------------------------------------
-    // TRANSIÇÃO
-    //--------------------------------------
-
-    if (
-
-        this.ehTransicao(
-
-            linha
-
-        )
-
-    ) {
-
-        this.adicionarTransicao();
-
-        i++;
-
-        continue;
-
-    }
-
-    //--------------------------------------
-    // VERIFICAR FALA
-    //--------------------------------------
-
-    const fala =
-
-        this.identificarFala(
-
-            linha
-
-        );
-
-    //--------------------------------------
-    // FALA DE PERSONAGEM
-    //--------------------------------------
-
-    if (fala) {
-
-        const speaker =
-
-            fala.speaker;
-
-        const partes = [];
-
-        if (
-
-            fala.texto !== ""
-
-        ) {
-
-            partes.push(
-
-                fala.texto
-
-            );
-
-        }
-
-        i++;
+        //------------------------------------------
+        // IGNORAR "WARRING"
+        //------------------------------------------
 
         while (
-
-            i < linhas.length
-
+            i < linhasLimpas.length &&
+            linhasLimpas[i] === ""
         ) {
 
-            const proximaLinha =
+            i++;
+        }
 
-                linhas[i];
+        if (
+            i < linhasLimpas.length &&
+            linhasLimpas[i]
+                .toLowerCase() === "warring"
+        ) {
+
+            i++;
+        }
+
+        //------------------------------------------
+        // PROCESSAR O TEXTO
+        //------------------------------------------
+
+        while (
+            i < linhasLimpas.length
+        ) {
+
+            //--------------------------------------
+            // LINHA ATUAL
+            //--------------------------------------
+
+            const linha =
+                linhasLimpas[i];
+
+            //--------------------------------------
+            // LINHA VAZIA
+            //--------------------------------------
 
             if (
-
-                proximaLinha === ""
-
+                linha === ""
             ) {
 
                 i++;
 
-                break;
-
+                continue;
             }
 
-            if (
-
-                this.identificarFala(
-
-                    proximaLinha
-
-                )
-
-            ) {
-
-                break;
-
-            }
+            //--------------------------------------
+            // TRANSIÇÃO "..."
+            //--------------------------------------
 
             if (
-
                 this.ehTransicao(
-
-                    proximaLinha
-
+                    linha
                 )
-
             ) {
 
-                break;
+                this.adicionarTransicao();
 
+                i++;
+
+                continue;
             }
 
-            if (
+            //--------------------------------------
+            // TÍTULO DE CAPÍTULO
+            //--------------------------------------
 
+            if (
                 this.ehTituloCapitulo(
-
-                    proximaLinha
-
+                    linha
                 )
-
             ) {
 
-                break;
+                this.adicionarTituloCapitulo(
+                    linha,
+                    capitulo
+                );
 
+                i++;
+
+                continue;
             }
+
+            //--------------------------------------
+            // VERIFICAR SE É FALA
+            //--------------------------------------
+
+            const fala =
+                this.identificarFala(
+                    linha
+                );
+
+            //--------------------------------------
+            // SE FOR FALA
+            //--------------------------------------
 
             if (
-
-                this.pareceNarracao(
-
-                    proximaLinha
-
-                )
-
+                fala
             ) {
 
-                break;
+                const partes = [
+                    fala.texto
+                ];
 
+                i++;
+
+                //----------------------------------
+                // CONTINUAR LENDO AS LINHAS DA FALA
+                //----------------------------------
+
+                while (
+                    i < linhasLimpas.length
+                ) {
+
+                    const proximaLinha =
+                        linhasLimpas[i];
+
+                    //--------------------------------
+                    // LINHA VAZIA:
+                    // termina a fala
+                    //--------------------------------
+
+                    if (
+                        proximaLinha === ""
+                    ) {
+
+                        break;
+                    }
+
+                    //--------------------------------
+                    // TRANSIÇÃO:
+                    // termina a fala
+                    //--------------------------------
+
+                    if (
+                        this.ehTransicao(
+                            proximaLinha
+                        )
+                    ) {
+
+                        break;
+                    }
+
+                    //--------------------------------
+                    // NOVA FALA:
+                    // termina a fala atual
+                    //--------------------------------
+
+                    const novaFala =
+                        this.identificarFala(
+                            proximaLinha
+                        );
+
+                    if (
+                        novaFala
+                    ) {
+
+                        break;
+                    }
+
+                    //--------------------------------
+                    // SE A LINHA COMEÇA COM LETRA
+                    // MINÚSCULA, É CONTINUAÇÃO
+                    // DA FALA.
+                    //--------------------------------
+
+                    if (
+                        this.ehContinuacaoDeFala(
+                            proximaLinha
+                        )
+                    ) {
+
+                        partes.push(
+                            proximaLinha
+                        );
+
+                        i++;
+
+                        continue;
+                    }
+
+                    //--------------------------------
+                    // LINHA COMEÇANDO COM MAIÚSCULA:
+                    //
+                    // consideramos que começou
+                    // uma nova narração.
+                    //--------------------------------
+
+                    break;
+                }
+
+                //----------------------------------
+                // ADICIONAR FALA
+                //----------------------------------
+
+                this.adicionarDialogo(
+                    fala.speaker,
+                    partes,
+                    capitulo
+                );
+
+                continue;
             }
 
-            partes.push(
+            //--------------------------------------
+            // NARRAÇÃO
+            //--------------------------------------
 
-                proximaLinha
-
-            );
+            const partesNarracao = [
+                linha
+            ];
 
             i++;
 
+            //--------------------------------------
+            // CONTINUAR NARRAÇÃO
+            //--------------------------------------
+
+            while (
+                i < linhasLimpas.length
+            ) {
+
+                const proximaLinha =
+                    linhasLimpas[i];
+
+                //--------------------------------
+                // LINHA VAZIA:
+                // termina o parágrafo
+                //--------------------------------
+
+                if (
+                    proximaLinha === ""
+                ) {
+
+                    break;
+                }
+
+                //--------------------------------
+                // TRANSIÇÃO:
+                // termina narração
+                //--------------------------------
+
+                if (
+                    this.ehTransicao(
+                        proximaLinha
+                    )
+                ) {
+
+                    break;
+                }
+
+                //--------------------------------
+                // NOVA FALA:
+                // termina narração
+                //--------------------------------
+
+                const novaFala =
+                    this.identificarFala(
+                        proximaLinha
+                    );
+
+                if (
+                    novaFala
+                ) {
+
+                    break;
+                }
+
+                //--------------------------------
+                // CONTINUAÇÃO DA NARRAÇÃO
+                //--------------------------------
+
+                partesNarracao.push(
+                    proximaLinha
+                );
+
+                i++;
+            }
+
+            //--------------------------------------
+            // ADICIONAR NARRAÇÃO
+            //--------------------------------------
+
+            this.adicionarNarracao(
+                partesNarracao
+            );
         }
 
-        this.adicionarDialogo(
+        //------------------------------------------
+        // RETORNAR HISTÓRIA
+        //------------------------------------------
 
-            speaker,
-
-            partes,
-
-            capitulo
-
-        );
-
-        continue;
-
+        return this.story;
     }
 
-    //--------------------------------------
-    // NARRAÇÃO
-    //--------------------------------------
+    //--------------------------------------------------
+    // IDENTIFICAR TÍTULO
+    //--------------------------------------------------
 
-    const partesNarracao = [
-
+    ehTituloCapitulo(
         linha
-
-    ];
-
-    i++;
-
-    while (
-
-        i < linhas.length
-
     ) {
 
-        const proximaLinha =
-
-            linhas[i];
-
         if (
-
-            proximaLinha === ""
-
+            !linha
         ) {
 
-            i++;
-
-            break;
-
+            return false;
         }
 
-        if (
-
-            this.identificarFala(
-
-                proximaLinha
-
-            )
-
-        ) {
-
-            break;
-
-        }
-
-        if (
-
-            this.ehTransicao(
-
-                proximaLinha
-
-            )
-
-        ) {
-
-            break;
-
-        }
-
-        if (
-
-            this.ehTituloCapitulo(
-
-                proximaLinha
-
-            )
-
-        ) {
-
-            break;
-
-        }
-
-        partesNarracao.push(
-
-            proximaLinha
-
+        return /^cap[ií]tulo\s+\d+\b/i.test(
+            linha.trim()
         );
-
-        i++;
-
     }
 
-    this.adicionarNarracao(
+    //--------------------------------------------------
+    // ADICIONAR TÍTULO
+    //--------------------------------------------------
 
-        partesNarracao
+    adicionarTituloCapitulo(
+        titulo,
+        capitulo
+    ) {
 
-    );
+        const numero =
+            parseInt(
+                String(capitulo)
+                    .replace(
+                        /[^0-9]/g,
+                        ""
+                    ),
+                10
+            ) || 0;
 
-}
+        const imagensTitulos = {
 
-return this.story;
+    1:
+        "Assets/cap01 titulo.png",
 
+    2:
+        "Assets/cap02-03 titulo.png",
+
+    3:
+        "Assets/cap02-03 titulo.png",
+
+    4:
+        "Assets/cap04-09 titulo.png",
+
+    5:
+        "Assets/cap04-09 titulo.png",
+
+    6:
+        "Assets/cap04-09 titulo.png",
+
+    7:
+        "Assets/cap04-09 titulo.png",
+
+    8:
+        "Assets/cap04-09 titulo.png",
+
+    9:
+        "Assets/cap04-09 titulo.png",
+
+    10:
+        "Assets/cap10 titulo.png",
+
+    11:
+        "Assets/cap11-12 titulo.png",
+
+    12:
+        "Assets/cap11-12 titulo.png",
+
+    13:
+        "Assets/cap13 titulo.png",
+
+    14:
+        "Assets/WARRING MAPA.png",
+
+    15:
+        "Assets/WARRING MAPA.png",
+
+    16:
+        "Assets/WARRING MAPA.png",
+
+    17:
+        "Assets/WARRING MAPA.png",
+
+    18:
+        "Assets/WARRING MAPA.png",
+
+    19:
+        "Assets/WARRING MAPA.png"
+};
+
+        const imagem =
+            imagensTitulos[numero] || "";
+
+        this.story.push({
+
+            type:
+                "chapter_title",
+
+            title:
+                titulo.trim(),
+
+            image:
+                imagem,
+
+            text:
+                ""
+        });
     }
-
-//--------------------------------------------------
-// IDENTIFICAR TÍTULO DE CAPÍTULO
-//--------------------------------------------------
-
-ehTituloCapitulo(linha) {
-
-    if (!linha) {
-
-        return false;
-
-    }
-
-    const texto =
-
-        linha
-
-            .trim()
-
-            .toLowerCase();
-
-    return /^cap[ií]tulo\s+\d+\b/.test(
-
-        texto
-
-    );
-
-}
-
-
-//--------------------------------------------------
-// ADICIONAR TÍTULO DE CAPÍTULO
-//--------------------------------------------------
-
-adicionarTituloCapitulo(
-
-    titulo,
-
-    capitulo
-
-) {
-
-    const numero =
-
-        parseInt(
-
-            String(capitulo)
-
-                .replace(
-
-                    /[^0-9]/g,
-
-                    ""
-
-                ),
-
-            10
-
-        ) || 0;
-
-    //------------------------------------------
-    // Tabela de imagens dos títulos
-    //------------------------------------------
-
-    const imagensTitulos = {
-
-        1: "Assets/cap01 titulo.png",
-
-        2: "Assets/cap02-03 titulo.png",
-
-        3: "Assets/cap02-03 titulo.png",
-
-        4: "Assets/cap04-09 titulo.png",
-
-        5: "Assets/cap04-09 titulo.png",
-
-        6: "Assets/cap04-09 titulo.png",
-
-        7: "Assets/cap04-09 titulo.png",
-
-        8: "Assets/cap04-09 titulo.png",
-
-        9: "Assets/cap04-09 titulo.png",
-
-        10: "Assets/cap10 titulo.png",
-
-        11: "Assets/cap11-12 titulo.png",
-
-        12: "Assets/cap11-12 titulo.png",
-
-        13: "Assets/cap13 titulo.png",
-
-        14: "Assets/WARRING MAPA.png",
-
-        15: "Assets/WARRING MAPA.png",
-
-        16: "Assets/WARRING MAPA.png",
-
-        17: "Assets/WARRING MAPA.png",
-
-        18: "Assets/WARRING MAPA.png",
-
-        19: "Assets/WARRING MAPA.png"
-
-    };
-
-    //------------------------------------------
-    // Imagem do título
-    //------------------------------------------
-
-    const imagem =
-
-        imagensTitulos[numero]
-
-            ? imagensTitulos[numero]
-
-            : "";
-
-    //------------------------------------------
-    // DEBUG
-    //------------------------------------------
-
-    console.log(
-
-        "ADICIONANDO TÍTULO:",
-
-        titulo
-
-    );
-
-    console.log(
-
-        "NÚMERO DO CAPÍTULO:",
-
-        numero
-
-    );
-
-    console.log(
-
-        "IMAGEM DO TÍTULO:",
-
-        imagem
-
-    );
-
-    //------------------------------------------
-    // Adicionar cena
-    //------------------------------------------
-
-    const cenaTitulo = {
-
-        type: "chapter_title",
-
-        title: titulo.trim(),
-
-        image: imagem,
-
-        text: ""
-
-    };
-
-    console.log(
-
-        "CENA CHAPTER_TITLE CRIADA:",
-
-        cenaTitulo
-
-    );
-
-    this.story.push(
-
-        cenaTitulo
-
-    );
-
-}
 
     //--------------------------------------------------
     // IDENTIFICAR FALA
     //--------------------------------------------------
 
-    identificarFala(linha) {
-
-        const resultado =
-
-            linha.match(
-
-                /^\s*([^:]{1,60})\s*:\s*(.*)$/
-
-            );
-
-        if (!resultado) {
-
-            return null;
-
-        }
-
-        const nome =
-
-            resultado[1].trim();
-
-        //------------------------------------------
-        // Evitar interpretar frases comuns
-        // contendo ":" como personagem
-        //------------------------------------------
+    identificarFala(
+        linha
+    ) {
 
         if (
-
-            nome.length === 0
-
+            !linha
         ) {
 
             return null;
-
         }
 
         //------------------------------------------
-        // Ignorar Narrador como personagem
-        // ainda será tratado como narração
+        // Procurar:
+        //
+        // Nome:
+        // Texto
+        //------------------------------------------
+
+        const resultado =
+            linha.match(
+                /^\s*([^:\n]{1,60})\s*:\s*(.*)$/
+            );
+
+        if (
+            !resultado
+        ) {
+
+            return null;
+        }
+
+        const nome =
+            resultado[1].trim();
+
+        const texto =
+            resultado[2].trim();
+
+        if (
+            nome === ""
+        ) {
+
+            return null;
+        }
+
+        //------------------------------------------
+        // Normalizar nome
+        //------------------------------------------
+
+        const nomeNormalizado =
+            nome
+                .normalize("NFD")
+                .replace(
+                    /[\u0300-\u036f]/g,
+                    ""
+                )
+                .trim()
+                .toUpperCase();
+
+        //------------------------------------------
+        // NARRADOR
         //------------------------------------------
 
         if (
-
-            nome
-
-                .normalize("NFD")
-
-                .replace(
-
-                    /[\u0300-\u036f]/g,
-
-                    ""
-
-                )
-
-                .trim()
-
-                .toUpperCase()
-
-                === "NARRADOR"
-
+            nomeNormalizado ===
+            "NARRADOR"
         ) {
 
             return {
 
-                speaker: "Narrador",
+                speaker:
+                    "Narrador",
 
                 texto:
-
-                    resultado[2].trim()
-
+                    texto
             };
-
         }
+
+        //------------------------------------------
+        // FALA DE PERSONAGEM
+        //------------------------------------------
 
         return {
 
-            speaker: nome,
+            speaker:
+                nome,
 
             texto:
-
-                resultado[2].trim()
-
+                texto
         };
+    }
 
+    //--------------------------------------------------
+    // IDENTIFICAR CONTINUAÇÃO DE FALA
+    //--------------------------------------------------
+
+    ehContinuacaoDeFala(
+        linha
+    ) {
+
+        if (
+            !linha
+        ) {
+
+            return false;
+        }
+
+        //------------------------------------------
+        // Se começa com letra minúscula,
+        // consideramos continuação da fala.
+        //------------------------------------------
+
+        const primeiroCaractere =
+            linha.charAt(0);
+
+        return (
+            primeiroCaractere ===
+            primeiroCaractere.toLowerCase()
+        );
     }
 
     //--------------------------------------------------
     // IDENTIFICAR TRANSIÇÃO
     //--------------------------------------------------
 
-    ehTransicao(linha) {
-
-        return (
-
-            linha
-
-                .replace(/\s/g, "")
-
-                .match(/^\.+$/)
-
-        );
-
-    }
-
-    //--------------------------------------------------
-    // IDENTIFICAR POSSÍVEL NARRAÇÃO
-    //--------------------------------------------------
-
-    pareceNarracao(linha) {
-
-        //------------------------------------------
-        // Se começa com letra maiúscula e
-        // parece uma descrição de ação,
-        // tratar como narração
-        //------------------------------------------
-
-        const palavrasNarrativas = [
-
-            "ELE ",
-
-            "ELA ",
-
-            "OS ",
-
-            "AS ",
-
-            "O ",
-
-            "A ",
-
-            "UM ",
-
-            "UMA ",
-
-            "DO ",
-
-            "DA ",
-
-            "DOS ",
-
-            "DAS ",
-
-            "NO ",
-
-            "NA ",
-
-            "NOS ",
-
-            "NAS ",
-
-            "DEPOIS ",
-
-            "ENTÃO ",
-
-            "NOVAMENTE ",
-
-            "ENQUANTO ",
-
-            "QUANDO ",
-
-            "APÓS ",
-
-            "ANTES "
-
-        ];
-
-        const inicio =
-
-            linha
-
-                .normalize("NFD")
-
-                .replace(
-
-                    /[\u0300-\u036f]/g,
-
-                    ""
-
-                )
-
-                .toUpperCase();
-
-        for (
-
-            const palavra
-
-            of palavrasNarrativas
-
-        ) {
-
-            if (
-
-                inicio.startsWith(
-
-                    palavra
-
-                )
-
-            ) {
-
-                return true;
-
-            }
-
-        }
-
-        //------------------------------------------
-        // Frases que começam com nome próprio
-        // podem ser narração
-        //------------------------------------------
+    ehTransicao(
+        linha
+    ) {
 
         if (
-
-            /^[A-ZÁÉÍÓÚÀÂÊÔÃÕÇ][a-záéíóúàâêôãõç]+(\s+[a-záéíóúàâêôãõç]+)*\s+(faz|fica|olha|anda|corre|começa|começam|vai|vão|se|nota|observa|aparece|surge|avança|avançam|entra|entram|sai|saem|diz|grita|fala|comenta|pensa|respira|caminha|levanta|cai|caem|ataca|atacam|tenta|tentam)\b/
-
-                .test(linha)
-
+            !linha
         ) {
 
-            return true;
-
+            return false;
         }
 
-        //------------------------------------------
-        // Por padrão, considerar continuação
-        // da fala
-        //------------------------------------------
-
-        return false;
-
+        return (
+            linha
+                .replace(
+                    /\s/g,
+                    ""
+                ) === "..."
+        );
     }
 
     //--------------------------------------------------
@@ -1491,79 +1341,57 @@ adicionarTituloCapitulo(
     //--------------------------------------------------
 
     adicionarDialogo(
-
         speaker,
-
         partes,
-
         capitulo
-
     ) {
 
-        const texto = partes
-
-            .join(" ")
-
-            .replace(/\s+/g, " ")
-
-            .trim();
+        const texto =
+            partes
+                .join(" ")
+                .replace(
+                    /\s+/g,
+                    " "
+                )
+                .trim();
 
         if (
-
             texto === ""
-
         ) {
 
             return;
-
         }
 
         const caixas =
-
             this.compositor.dividir(
-
                 texto
-
             );
 
         const imagem =
-
             resolverImagemPersonagem(
-
                 speaker,
-
                 capitulo
-
             );
 
         for (
-
             const caixa of caixas
-
         ) {
 
             this.story.push({
 
                 type:
-
                     "dialogue",
 
                 speaker:
-
                     speaker,
 
                 image:
-
                     imagem,
 
                 text:
-
                     caixa
-
             });
-
         }
-
     }
 
     //--------------------------------------------------
@@ -1571,903 +1399,1035 @@ adicionarTituloCapitulo(
     //--------------------------------------------------
 
     adicionarNarracao(
-
         partes
-
     ) {
 
-        const texto = partes
-
-            .join(" ")
-
-            .replace(/\s+/g, " ")
-
-            .trim();
+        const texto =
+            partes
+                .join(" ")
+                .replace(
+                    /\s+/g,
+                    " "
+                )
+                .trim();
 
         if (
-
             texto === ""
-
         ) {
 
             return;
-
         }
 
         const caixas =
-
             this.compositor.dividir(
-
                 texto
-
             );
 
         for (
-
             const caixa of caixas
-
         ) {
 
             this.story.push({
 
                 type:
-
                     "narration",
 
                 speaker:
-
                     "Narrador",
 
                 image:
-
                     "personagens/NARRAÇÃO.png",
 
                 text:
-
                     caixa
-
             });
-
         }
-
     }
 
-    //--------------------------------------------------
-    // ADICIONAR TRANSIÇÃO
-    //--------------------------------------------------
 
-    adicionarTransicao() {
+//--------------------------------------------------
+// ADICIONAR TRANSIÇÃO
+//--------------------------------------------------
 
-        this.story.push({
+adicionarTransicao() {
 
-            type:
+    const numeroCapitulo =
+        parseInt(
+            String(this.conv.capituloAtual)
+                .replace(
+                    /[^0-9]/g,
+                    ""
+                ),
+            10
+        ) || 0;
 
-                "scene_break",
+    let arquivoTransicao = "";
 
-            speaker:
+    //------------------------------------------
+    // DEFINIR IMAGEM DA TRANSIÇÃO
+    //------------------------------------------
 
-                "",
+    if (numeroCapitulo >= 11 && numeroCapitulo <= 12) {
 
-            image:
+        arquivoTransicao =
+            "cap11-12.png";
 
-                "",
+    } else if (
+        numeroCapitulo >= 14 &&
+        numeroCapitulo <= 19
+    ) {
 
-            text:
+        arquivoTransicao =
+            "cap14-19.png";
 
-                "..."
+    } else if (numeroCapitulo > 0) {
 
-        });
+        arquivoTransicao =
+            "cap" +
+            String(numeroCapitulo)
+                .padStart(2, "0") +
+            ".png";
+    }
 
+    //------------------------------------------
+    // ADICIONAR CENA
+    //------------------------------------------
+
+    this.story.push({
+
+        type:
+            "scene_break",
+
+        speaker:
+            "",
+
+        image:
+            arquivoTransicao
+                ? CONFIG.pastaTransicoes +
+                  arquivoTransicao
+                : "",
+
+        text:
+            "..."
+    });
     }
 
 }
 
 //==================================================
+
 // WARRING CONVERTER
+
 // PARTE 6 — CONVERSOR PRINCIPAL
+
 //==================================================
 
 class Conversor {
 
-    constructor() {
+    constructor() {
 
-        this.normalizador =
+        this.normalizador =
 
-            new NormalizadorTexto();
+            new NormalizadorTexto();
 
-        this.parser =
+        this.parser =
 
-            new Parser(this);
+            new Parser(this);
 
-        this.story = [];
+        this.story = [];
 
-        this.arquivoAtual = null;
+        this.arquivoAtual = null;
 
-        this.capituloAtual = "";
+        this.capituloAtual = "";
 
-    }
+    }
 
-    //--------------------------------------------------
-    // LIMPAR STORY
-    //--------------------------------------------------
+    //--------------------------------------------------
 
-    limpar() {
+    // LIMPAR STORY
 
-        this.story = [];
+    //--------------------------------------------------
 
-    }
+    limpar() {
 
-    //--------------------------------------------------
-    // ADICIONAR CENA
-    //--------------------------------------------------
+        this.story = [];
 
-    adicionar(cena) {
+    }
 
-        this.story.push({
+    //--------------------------------------------------
 
-            ...cena,
+    // ADICIONAR CENA
 
-            id:
+    //--------------------------------------------------
 
-                this.story.length + 1
+    adicionar(cena) {
 
-        });
+        this.story.push({
 
-    }
+            ...cena,
 
-    //--------------------------------------------------
-    // RESOLVER IMAGEM
-    //--------------------------------------------------
+            id:
 
-    imagem(nome) {
+                this.story.length + 1
 
-        return resolverImagemPersonagem(
+        });
 
-            nome,
+    }
 
-            this.capituloAtual
+    //--------------------------------------------------
 
-        );
+    // RESOLVER IMAGEM
 
-    }
+    //--------------------------------------------------
 
-    //--------------------------------------------------
-    // CONVERTER ARQUIVO
-    //--------------------------------------------------
+    imagem(nome) {
 
-    async converterArquivo(
+        return resolverImagemPersonagem(
 
-        arquivo
+            nome,
 
-    ) {
+            this.capituloAtual
 
-        if (!arquivo) {
+        );
 
-            throw new Error(
+    }
 
-                "Nenhum arquivo selecionado."
+    //--------------------------------------------------
 
-            );
+    // CONVERTER ARQUIVO
 
-        }
+    //--------------------------------------------------
 
-        //------------------------------------------
-        // Verificar extensão
-        //------------------------------------------
+    async converterArquivo(
 
-        if (
+        arquivo
 
-            !arquivo.name
+    ) {
 
-                .toLowerCase()
+        if (!arquivo) {
 
-                .endsWith(
+            throw new Error(
 
-                    CONFIG.extensaoEntrada
+                "Nenhum arquivo selecionado."
 
-                )
+            );
 
-        ) {
+        }
 
-            throw new Error(
+        //------------------------------------------
 
-                "O arquivo selecionado não é um .txt."
+        // Verificar extensão
 
-            );
+        //------------------------------------------
 
-        }
+        if (
 
-        //------------------------------------------
-        // Guardar arquivo
-        //------------------------------------------
+            !arquivo.name
 
-        this.arquivoAtual =
+                .toLowerCase()
 
-            arquivo;
+                .endsWith(
 
-        //------------------------------------------
-        // Descobrir capítulo
-        //------------------------------------------
+                    CONFIG.extensaoEntrada
 
-        this.capituloAtual =
+                )
 
-            this.obterNumeroCapitulo(
+        ) {
 
-                arquivo.name
+            throw new Error(
 
-            );
+                "O arquivo selecionado não é um .txt."
 
-        //------------------------------------------
-        // Ler arquivo
-        //------------------------------------------
+            );
 
-        const textoOriginal =
+        }
 
-            await arquivo.text();
+        //------------------------------------------
 
-        //------------------------------------------
-        // Normalizar texto
-        //------------------------------------------
+        // Guardar arquivo
 
-        const textoNormalizado =
+        //------------------------------------------
 
-            this.normalizador.normalizar(
+        this.arquivoAtual =
 
-                textoOriginal
+            arquivo;
 
-            );
+        //------------------------------------------
 
-        //------------------------------------------
+        // Descobrir capítulo
+
+        //------------------------------------------
+
+        this.capituloAtual =
+
+            this.obterNumeroCapitulo(
+
+                arquivo.name
+
+            );
+
+        console.log(
+    "ARQUIVO:",
+    arquivo.name
+    );
+
+    console.log(
+    "CAPÍTULO DETECTADO:",
+    this.capituloAtual
+    );
+
+        //------------------------------------------
+
+        // Ler arquivo
+
+        //------------------------------------------
+
+        const textoOriginal =
+
+            await arquivo.text();
+
+        //------------------------------------------
+
+        // Normalizar texto
+
+        //------------------------------------------
+
+        const textoNormalizado =
+
+            this.normalizador.normalizar(
+
+                textoOriginal
+
+            );
+
+        //------------------------------------------
+
 // TESTE — TEXTO ENVIADO AO PARSER
-//------------------------------------------
-
-console.log(
-
-    "===================================="
-
-);
-
-console.log(
-
-    "TEXTO ENVIADO AO PARSER:"
-
-);
-
-console.log(
-
-    textoNormalizado
-
-);
-
-console.log(
-
-    "===================================="
-);
 
 //------------------------------------------
+
+console.log(
+
+    "===================================="
+
+);
+
+console.log(
+
+    "TEXTO ENVIADO AO PARSER:"
+
+);
+
+console.log(
+
+    textoNormalizado
+
+);
+
+console.log(
+
+    "===================================="
+
+);
+
+//------------------------------------------
+
 // Interpretar texto
+
 //------------------------------------------
 
 this.story = this.parser.interpretar(
 
-    textoNormalizado,
+    textoNormalizado,
 
-    this.capituloAtual
+    this.capituloAtual
 
 );
 
-//--------------------------------------------------
-// TÍTULO PRINCIPAL DO JOGO — APENAS CAPÍTULO 1
-//--------------------------------------------------
+//------------------------------------------
+// TÍTULO PRINCIPAL DO JOGO
+// APENAS CAPÍTULO 1
+//------------------------------------------
 
 if (
-
     this.capituloAtual === "1"
-
 ) {
 
     this.story.unshift({
 
-        type: "game_title",
+        type:
+            "game_title",
 
-        title: "Warring",
+        title:
+            "Warring",
 
         image:
-
             CONFIG.pastaImagens +
-
             "WARRING TITULO.png",
 
-        text: ""
-
+        text:
+            ""
     });
-
 }
 
-        //------------------------------------------
-        // Verificar resultado
-        //------------------------------------------
+        //------------------------------------------
 
-        if (
+        // Verificar resultado
 
-            this.story.length === 0
+        //------------------------------------------
 
-        ) {
+        if (
 
-            throw new Error(
+            this.story.length === 0
 
-                "Nenhuma cena foi encontrada no arquivo."
+        ) {
 
-            );
+            throw new Error(
 
-        }
+                "Nenhuma cena foi encontrada no arquivo."
 
-        //------------------------------------------
-        // Retornar resultado
-        //------------------------------------------
+            );
 
-        return this.story;
+        }
 
-    }
+        //------------------------------------------
 
-    //--------------------------------------------------
+        // Retornar resultado
+
+        //------------------------------------------
+
+        return this.story;
+
+    }
+
+    //--------------------------------------------------
     // OBTER NÚMERO DO CAPÍTULO
     //--------------------------------------------------
 
     obterNumeroCapitulo(
-
-        nomeArquivo
-
+    nomeArquivo
     ) {
 
-        const resultado =
-
-            nomeArquivo.match(
-
-                /cap(?:itulo)?[_-]?(\d+)/i
-
-            );
-
-        if (!resultado) {
-
-            return "0";
-
-        }
-
-        return String(
-
-            parseInt(
-
-                resultado[1],
-
-                10
-
-            )
-
-        );
-
+    if (!nomeArquivo) {
+        return "0";
     }
 
-    //--------------------------------------------------
-    // GERAR JSON
-    //--------------------------------------------------
-
-    gerarJSON() {
-
-        if (
-
-            this.story.length === 0
-
-        ) {
-
-            throw new Error(
-
-                "Nenhum capítulo foi convertido."
-
-            );
-
-        }
-
-        return JSON.stringify(
-
-            this.story,
-
-            null,
-
-            4
-
+    const resultado =
+        nomeArquivo.match(
+            /cap(?:itulo)?[\s_-]?(\d+)/i
         );
 
+    if (!resultado) {
+
+        console.warn(
+            "Não foi possível identificar o capítulo:",
+            nomeArquivo
+        );
+
+        return "0";
     }
 
-    //--------------------------------------------------
-    // BAIXAR JSON
-    //--------------------------------------------------
-
-    baixarJSON() {
-
-        const json =
-
-            this.gerarJSON();
-
-        //------------------------------------------
-        // Nome do arquivo
-        //------------------------------------------
-
-        let nomeArquivo =
-
-            "cap01.json";
-
-        if (
-
-            this.arquivoAtual
-
-        ) {
-
-            nomeArquivo =
-
-                this.arquivoAtual.name
-
-                    .replace(
-
-                        /\.txt$/i,
-
-                        ".json"
-
-                    );
-
-        }
-
-        //------------------------------------------
-        // Criar arquivo
-        //------------------------------------------
-
-        const blob =
-
-            new Blob(
-
-                [json],
-
-                {
-
-                    type:
-
-                        "application/json;charset=utf-8"
-
-                }
-
-            );
-
-        //------------------------------------------
-        // Criar URL
-        //------------------------------------------
-
-        const url =
-
-            URL.createObjectURL(
-
-                blob
-
-            );
-
-        //------------------------------------------
-        // Criar link
-        //------------------------------------------
-
-        const link =
-
-            document.createElement(
-
-                "a"
-
-            );
-
-        link.href =
-
-            url;
-
-        link.download =
-
-            nomeArquivo;
-
-        //------------------------------------------
-        // Executar download
-        //------------------------------------------
-
-        document.body.appendChild(
-
-            link
-
+    const numero =
+        parseInt(
+            resultado[1],
+            10
         );
 
-        link.click();
+    if (
+        Number.isNaN(numero)
+    ) {
 
-        //------------------------------------------
-        // Limpar
-        //------------------------------------------
-
-        document.body.removeChild(
-
-            link
-
+        console.warn(
+            "Número de capítulo inválido:",
+            nomeArquivo
         );
 
-        URL.revokeObjectURL(
-
-            url
-
-        );
-
+        return "0";
     }
+
+    return String(numero);
+}
+
+    //--------------------------------------------------
+
+    // GERAR JSON
+
+    //--------------------------------------------------
+
+    gerarJSON() {
+
+        if (
+
+            this.story.length === 0
+
+        ) {
+
+            throw new Error(
+
+                "Nenhum capítulo foi convertido."
+
+            );
+
+        }
+
+        return JSON.stringify(
+
+            this.story,
+
+            null,
+
+            4
+
+        );
+
+    }
+
+    //--------------------------------------------------
+
+    // BAIXAR JSON
+
+    //--------------------------------------------------
+
+    baixarJSON() {
+
+        const json =
+
+            this.gerarJSON();
+
+        //------------------------------------------
+
+        // Nome do arquivo
+
+        //------------------------------------------
+
+        let nomeArquivo =
+
+            "cap01.json";
+
+        if (
+
+            this.arquivoAtual
+
+        ) {
+
+            nomeArquivo =
+
+                this.arquivoAtual.name
+
+                    .replace(
+
+                        /\.txt$/i,
+
+                        ".json"
+
+                    );
+
+        }
+
+        //------------------------------------------
+
+        // Criar arquivo
+
+        //------------------------------------------
+
+        const blob =
+
+            new Blob(
+
+                [json],
+
+                {
+
+                    type:
+
+                        "application/json;charset=utf-8"
+
+                }
+
+            );
+
+        //------------------------------------------
+
+        // Criar URL
+
+        //------------------------------------------
+
+        const url =
+
+            URL.createObjectURL(
+
+                blob
+
+            );
+
+        //------------------------------------------
+
+        // Criar link
+
+        //------------------------------------------
+
+        const link =
+
+            document.createElement(
+
+                "a"
+
+            );
+
+        link.href =
+
+            url;
+
+        link.download =
+
+            nomeArquivo;
+
+        //------------------------------------------
+
+        // Executar download
+
+        //------------------------------------------
+
+        document.body.appendChild(
+
+            link
+
+        );
+
+        link.click();
+
+        //------------------------------------------
+
+        // Limpar
+
+        //------------------------------------------
+
+        document.body.removeChild(
+
+            link
+
+        );
+
+        URL.revokeObjectURL(
+
+            url
+
+        );
+
+    }
 
 }
 
 //==================================================
+
 // WARRING CONVERTER
+
 // PARTE 7 — INTERFACE
+
 //==================================================
 
 class App {
 
-    constructor() {
+    constructor() {
 
-        //------------------------------------------
-        // Elementos da interface
-        //------------------------------------------
+        //------------------------------------------
 
-        this.arquivo =
+        // Elementos da interface
 
-            document.getElementById(
+        //------------------------------------------
 
-                "arquivo"
+        this.arquivo =
 
-            );
+            document.getElementById(
 
-        this.botaoConverter =
+                "arquivo"
 
-            document.getElementById(
+            );
 
-                "converter"
+        this.botaoConverter =
 
-            );
+            document.getElementById(
 
-        this.botaoBaixar =
+                "converter"
 
-            document.getElementById(
+            );
 
-                "baixar"
+        this.botaoBaixar =
 
-            );
+            document.getElementById(
 
-        this.status =
+                "baixar"
 
-            document.getElementById(
+            );
 
-                "status"
+        this.status =
 
-            );
+            document.getElementById(
 
-        //------------------------------------------
-        // Criar conversor
-        //------------------------------------------
+                "status"
 
-        this.conversor =
+            );
 
-            new Conversor();
+        //------------------------------------------
 
-        //------------------------------------------
-        // Eventos
-        //------------------------------------------
+        // Criar conversor
 
-        this.configurarEventos();
+        //------------------------------------------
 
-    }
+        this.conversor =
 
-    //--------------------------------------------------
-    // CONFIGURAR EVENTOS
-    //--------------------------------------------------
+            new Conversor();
 
-    configurarEventos() {
+        //------------------------------------------
 
-        //------------------------------------------
-        // Selecionar arquivo
-        //------------------------------------------
+        // Eventos
 
-        this.arquivo.addEventListener(
+        //------------------------------------------
 
-            "change",
+        this.configurarEventos();
 
-            () => {
+    }
 
-                if (
+    //--------------------------------------------------
 
-                    this.arquivo.files.length === 0
+    // CONFIGURAR EVENTOS
 
-                ) {
+    //--------------------------------------------------
 
-                    this.status.textContent =
+    configurarEventos() {
 
-                        "Aguardando arquivo...";
+        //------------------------------------------
 
-                    return;
+        // Selecionar arquivo
 
-                }
+        //------------------------------------------
 
-                const arquivoSelecionado =
+        this.arquivo.addEventListener(
 
-                    this.arquivo.files[0];
+            "change",
 
-                this.status.textContent =
+            () => {
 
-                    "Arquivo selecionado: " +
+                if (
 
-                    arquivoSelecionado.name;
+                    this.arquivo.files.length === 0
 
-                this.botaoBaixar.disabled =
+                ) {
 
-                    true;
+                    this.status.textContent =
 
-            }
+                        "Aguardando arquivo...";
 
-        );
+                    return;
 
-        //------------------------------------------
-        // Converter
-        //------------------------------------------
+                }
 
-        this.botaoConverter.addEventListener(
+                const arquivoSelecionado =
 
-            "click",
+                    this.arquivo.files[0];
 
-            async () => {
+                this.status.textContent =
 
-                await this.converter();
+                    "Arquivo selecionado: " +
 
-            }
+                    arquivoSelecionado.name;
 
-        );
+                this.botaoBaixar.disabled =
 
-        //------------------------------------------
-        // Baixar JSON
-        //------------------------------------------
+                    true;
 
-        this.botaoBaixar.addEventListener(
+            }
 
-            "click",
+        );
 
-            () => {
+        //------------------------------------------
 
-                this.baixar();
+        // Converter
 
-            }
+        //------------------------------------------
 
-        );
+        this.botaoConverter.addEventListener(
 
-    }
+            "click",
 
-    //--------------------------------------------------
-    // CONVERTER
-    //--------------------------------------------------
+            async () => {
 
-    async converter() {
+                await this.converter();
 
-        //------------------------------------------
-        // Verificar arquivo
-        //------------------------------------------
+            }
 
-        if (
+        );
 
-            this.arquivo.files.length === 0
+        //------------------------------------------
 
-        ) {
+        // Baixar JSON
 
-            this.status.textContent =
+        //------------------------------------------
 
-                "Selecione um arquivo .txt primeiro.";
+        this.botaoBaixar.addEventListener(
 
-            return;
+            "click",
 
-        }
+            () => {
 
-        //------------------------------------------
-        // Obter arquivo
-        //------------------------------------------
+                this.baixar();
 
-        const arquivo =
+            }
 
-            this.arquivo.files[0];
+        );
 
-        //------------------------------------------
-        // Atualizar interface
-        //------------------------------------------
+    }
 
-        this.botaoConverter.disabled =
+    //--------------------------------------------------
 
-            true;
+    // CONVERTER
 
-        this.botaoBaixar.disabled =
+    //--------------------------------------------------
 
-            true;
+    async converter() {
 
-        this.status.textContent =
+        //------------------------------------------
 
-            "Convertendo...";
+        // Verificar arquivo
 
-        //------------------------------------------
-        // Limpar Console
-        //------------------------------------------
+        //------------------------------------------
 
-        if (
+        if (
 
-            CONFIG.limparConsoleAoConverter
+            this.arquivo.files.length === 0
 
-        ) {
+        ) {
 
-            console.clear();
+            this.status.textContent =
 
-        }
+                "Selecione um arquivo .txt primeiro.";
 
-        try {
+            return;
 
-            //--------------------------------------
-            // Converter
-            //--------------------------------------
+        }
 
-            const story =
+        //------------------------------------------
 
-                await this.conversor
+        // Obter arquivo
 
-                    .converterArquivo(
+        //------------------------------------------
 
-                        arquivo
+        const arquivo =
 
-                    );
+            this.arquivo.files[0];
 
-            //--------------------------------------
-            // Mostrar resultado
-            //--------------------------------------
+        //------------------------------------------
 
-            this.status.textContent =
+        // Atualizar interface
 
-                "Conversão concluída: " +
+        //------------------------------------------
 
-                story.length +
+        this.botaoConverter.disabled =
 
-                " cenas geradas.";
+            true;
 
-            //--------------------------------------
-            // Liberar download
-            //--------------------------------------
+        this.botaoBaixar.disabled =
 
-            this.botaoBaixar.disabled =
+            true;
 
-                false;
+        this.status.textContent =
 
-            //--------------------------------------
-            // Console
-            //--------------------------------------
+            "Convertendo...";
 
-            if (
+        //------------------------------------------
 
-                CONFIG.mostrarMensagensConsole
+        // Limpar Console
 
-            ) {
+        //------------------------------------------
 
-                console.log(
+        if (
 
-                    "Capítulo convertido:",
+            CONFIG.limparConsoleAoConverter
 
-                    arquivo.name
+        ) {
 
-                );
+            console.clear();
 
-                console.log(
+        }
 
-                    "Cenas geradas:",
+        try {
 
-                    story.length
+            //--------------------------------------
 
-                );
+            // Converter
 
-                console.log(
+            //--------------------------------------
 
-                    story
+            const story =
 
-                );
+                await this.conversor
 
-            }
+                    .converterArquivo(
 
-        }
+                        arquivo
 
-        catch (erro) {
+                    );
 
-            //--------------------------------------
-            // Mostrar erro
-            //--------------------------------------
+            //--------------------------------------
 
-            console.error(
+            // Mostrar resultado
 
-                "Erro durante a conversão:",
+            //--------------------------------------
 
-                erro
+            this.status.textContent =
 
-            );
+                "Conversão concluída: " +
 
-            this.status.textContent =
+                story.length +
 
-                "Erro: " +
+                " cenas geradas.";
 
-                erro.message;
+            //--------------------------------------
 
-        }
+            // Liberar download
 
-        finally {
+            //--------------------------------------
 
-            //--------------------------------------
-            // Liberar botão
-            //--------------------------------------
+            this.botaoBaixar.disabled =
 
-            this.botaoConverter.disabled =
+                false;
 
-                false;
+            //--------------------------------------
 
-        }
+            // Console
 
-    }
+            //--------------------------------------
 
-    //--------------------------------------------------
-    // BAIXAR
-    //--------------------------------------------------
+            if (
 
-    baixar() {
+                CONFIG.mostrarMensagensConsole
 
-        try {
+            ) {
 
-            this.conversor
+                console.log(
 
-                .baixarJSON();
+                    "Capítulo convertido:",
 
-            this.status.textContent =
+                    arquivo.name
 
-                "JSON baixado com sucesso.";
+                );
 
-        }
+                console.log(
 
-        catch (erro) {
+                    "Cenas geradas:",
 
-            console.error(
+                    story.length
 
-                "Erro ao baixar JSON:",
+                );
 
-                erro
+                console.log(
 
-            );
+                    story
 
-            this.status.textContent =
+                );
 
-                "Erro ao baixar JSON.";
+            }
 
-        }
+        }
 
-    }
+        catch (erro) {
+
+            //--------------------------------------
+
+            // Mostrar erro
+
+            //--------------------------------------
+
+            console.error(
+
+                "Erro durante a conversão:",
+
+                erro
+
+            );
+
+            this.status.textContent =
+
+                "Erro: " +
+
+                erro.message;
+
+        }
+
+        finally {
+
+            //--------------------------------------
+
+            // Liberar botão
+
+            //--------------------------------------
+
+            this.botaoConverter.disabled =
+
+                false;
+
+        }
+
+    }
+
+    //--------------------------------------------------
+
+    // BAIXAR
+
+    //--------------------------------------------------
+
+    baixar() {
+
+        try {
+
+            this.conversor
+
+                .baixarJSON();
+
+            this.status.textContent =
+
+                "JSON baixado com sucesso.";
+
+        }
+
+        catch (erro) {
+
+            console.error(
+
+                "Erro ao baixar JSON:",
+
+                erro
+
+            );
+
+            this.status.textContent =
+
+                "Erro ao baixar JSON.";
+
+        }
+
+    }
 
 }
 
 
+
 //==================================================
+
 // INICIAR APLICAÇÃO
+
 //==================================================
 
 document.addEventListener(
 
-    "DOMContentLoaded",
+    "DOMContentLoaded",
 
-    () => {
+    () => {
 
-        window.warringConverter =
+        window.warringConverter =
 
-            new App();
+            new App();
 
-    }
+    }
 
 );

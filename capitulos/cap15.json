@@ -8,13 +8,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Um Fiender grande é golpeado no peito e cai rapidamente ao chão. Fylk está pisando em seu tronco, como se estivesse no topo de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "uma colina. Contornando o corpo morto, dezenas de Fienders continuam avançando para retaguarda dos humanos."
     },
     {
@@ -26,7 +26,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Um dos corpos caiu devido aos ataques de Brankio e Loknar, o outro foi atacado por Shin."
     },
     {
@@ -39,13 +39,13 @@
         "type": "dialogue",
         "speaker": "Brankio",
         "image": "",
-        "text": "É... Veja. - Diz, apontando para frente. Algumas dezenas de Fienders grandes se aproxima, formando uma fortaleza ambulante."
+        "text": "É... Veja. - Diz, apontando para frente."
     },
     {
-        "type": "dialogue",
-        "speaker": "Brankio",
-        "image": "",
-        "text": "Brankio e Loknar se entre olham."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Algumas dezenas de Fienders grandes se aproxima, formando uma fortaleza ambulante. Brankio e Loknar se entre olham."
     },
     {
         "type": "dialogue",
@@ -80,13 +80,13 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Elisa e Agnes aparentam cansaço."
     },
     {
@@ -110,19 +110,19 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os grupos menores que se montaram ajudaram os guerreiros a poderem avançar um pouco pelo campo de batalha, mas a diferença de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "força entre demônios e humanos resultou na perda de metade dos soldados do general e alguns aprendizes gravemente feridos. Os"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "paladinos tiveram menos baixas, mas suas armaduras e escudos estão desgastados assim como seus corpos."
     },
     {
@@ -159,19 +159,19 @@
         "type": "dialogue",
         "speaker": "Holkes",
         "image": "",
-        "text": "Então eu terei que agir, não tem outro jeito... Não podemos contar com o... Chamas vindas de cima do conflito tomam conta do"
+        "text": "Então eu terei que agir, não tem outro jeito... Não podemos contar com o..."
     },
     {
-        "type": "dialogue",
-        "speaker": "Holkes",
-        "image": "",
-        "text": "campo novamente, as chamas se espalham carbonizando cada Fiender que toca. O fogo parece dançar, se espalha em curvas que"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Chamas vindas de cima do conflito tomam conta do campo novamente, as chamas se espalham carbonizando cada Fiender que toca. O"
     },
     {
-        "type": "dialogue",
-        "speaker": "Holkes",
-        "image": "",
-        "text": "atingem os demônios e evita os humanos."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "fogo parece dançar, se espalha em curvas que atingem os demônios e evita os humanos."
     },
     {
         "type": "dialogue",
@@ -212,13 +212,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O fogo faz uma espiral que se concentra na frente dos aprendizes, guerreiros e paladinos. A espiral diminui e as chamas se"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "dissipam, dando lugar a Kyuk com sua armadura leve, capa escura e capuz abaixado."
     },
     {
@@ -236,7 +236,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Elisa olha para o lado e percebe que Agnes está completamente empolgada e incrédula."
     },
     {
@@ -266,19 +266,19 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Holkes, Ethan, Kyuk, Elisa e Agnes foram ajudar seus aliados. Gunir fica para trás com os paladinos. Alguns guerreiros e"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "aprendizes do mago estão se curando e ajudando os sobreviventes."
     },
     {
@@ -290,7 +290,7 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Acho que já ajudamos o bastante. Se continuarmos assim, teremos baixas irreversíveis."
     },
     {
@@ -332,13 +332,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O capitão olha boa parte dos soldados no chão e alguns com dificuldades de ficar em pé. São poucos os que se mostram aptos"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "para avançar."
     },
     {
@@ -351,37 +351,37 @@
         "type": "dialogue",
         "speaker": "Gunir",
         "image": "",
-        "text": "cicatrizes brilhantes. E rapidamente os muros de Skar são tomados por diversos Fienders iguais o primeiro. Todos ficam"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Gunir",
-        "image": "",
-        "text": "assustados com a quantidade de monstros que surgiram."
+        "text": "cicatrizes brilhantes. E rapidamente os muros de Skar são tomados por diversos Fienders iguais o primeiro."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Uma gargalhada sádica pode ser ouvida de cima dos muros. Um demônio de pele esbranquiçada e marcas negras irregulares ao redor"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Todos ficam assustados com a quantidade de monstros que surgiram. Uma gargalhada sádica pode ser ouvida de cima dos muros. Um"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "dos olhos, está sentado lá. Ao contrário de Han e Nyari, ele usa roupas semelhantes aos aprendizes de Eliphas, porém surradas"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "demônio de pele esbranquiçada e marcas negras irregulares ao redor dos olhos, está sentado lá. Ao contrário de Han e Nyari,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "cores mais escuras."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "ele usa roupas semelhantes aos aprendizes de Eliphas, porém surradas cores mais escuras."
     },
     {
         "type": "dialogue",
         "speaker": "Yama",
         "image": "",
-        "text": "Esse tipo de energia... Finalmente apareceu, Norio. Norio chega."
+        "text": "Esse tipo de energia... Finalmente apareceu, Norio."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Norio chega."
     },
     {
         "type": "dialogue",
@@ -410,7 +410,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os Fienders avançam e acertam com facilidade soldados e paladinos que se diziam aptos."
     },
     {
@@ -432,45 +432,39 @@
         "text": "corte pouco precisos. - Não. Não é isso, estamos ficando cansados. Suportar tantos ataques é mais difícil do que parece."
     },
     {
-        "type": "dialogue",
-        "speaker": "Gunir",
-        "image": "",
-        "text": "Precisamos de reforços! - Pensa, enquanto avança para a frente da batalha, onde estão"
-    },
-    {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "os outros capitães."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Precisamos de reforços! - Pensa, enquanto avança para a frente da batalha, onde estão os outros capitães."
     },
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ethan, Sian e Kyuk estão enfrentando Fienders menores próximos ao portal de teletransporte mais próximo da linha de frente."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Logo a frente Elisa e Agnes lançam suas magias nos monstros maiores. Elisa usa seu cajado para trazer raízes do solo que"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "prendem as pernas e braços dos Fienders. Agnes por sua vez distrai os inimigos desviando de vários ataques, enquanto flutua em"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "volta deles. Suas rajadas de vento dispersam os Fienders menores que tentam avançar contra Elisa."
     },
     {
@@ -482,7 +476,7 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "O senhor não consegue ajudá-las? Aquele dia na floresta você matou dois desses facilmente."
     },
     {
@@ -518,13 +512,19 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "Disse que ela está enfrentando Nyari? Sian afirma com a cabeça."
+        "image": "personagens/KYUK FEITICEIRO.png",
+        "text": "Disse que ela está enfrentando Nyari?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Sian afirma com a cabeça."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Eu preciso ir..."
     },
     {
@@ -554,25 +554,25 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Isso não é um problema? Os inimigos podemO círculo de teletransporte brilha, interrompendo a conversa."
     },
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Brankio, Loknar, Shin e Fylk estão confrontando Yama. O rei demônio não percebe a presença de Shin, o capitão é rápido demais"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "para ser acompanhado com os olhos e logo sente diversos cortes em seus braços e pernas."
     },
     {
@@ -584,13 +584,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Brankio se aproxima do rei demônio de punhos cerrados e erguidos na altura do rosto. Um leve vento bate em seu moicano"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "esbranquiçado, o homem grande de pouca armadura encara o monstro gigante a sua frente. Brankio enche os pulmões de ar."
     },
     {
@@ -602,7 +602,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os outros capitães olham incrédulos."
     },
     {
@@ -615,7 +615,13 @@
         "type": "dialogue",
         "speaker": "Shin",
         "image": "",
-        "text": "Isso é coragem ou burrice? -Pergunta, olhando para Loknar e apontando para Brankio."
+        "text": "Isso é coragem ou burrice? -Pergunta, olhando para Loknar e apontando para"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Brankio."
     },
     {
         "type": "dialogue",
@@ -626,31 +632,31 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O rei encara Brankio de volta e abre um leve e breve sorriso. O monstro também cerra seu punho e posiciona seu braço esquerdo"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "para trás. A velocidade do movimento é lenta, Brankio não desfaz sua posição, continua encarando. Até que é acertado por um"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "soco e sua única reação é defender com um dos braços. Quando se dá conta, seu corpo foi lançando há vários metros do núcleo do"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "combate. Instintivamente os outros três capitães dão alguns passos para trás. O suor e a expressão em seus rostos eram"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "inevitáveis."
     },
     {
@@ -674,13 +680,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Brankio se levanta devagar ao longe e levanta os braços. Um deles na verdade, o outro está completamente inchado e quebrado ao"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "meio."
     },
     {
@@ -710,19 +716,19 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk, Ethan e Sian observam o portal brilhar e Gunir surgir dele."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Capitão, Gunir?!"
     },
     {
@@ -752,7 +758,7 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Eu percebi, mas não consigo fazer nada sobre isso."
     },
     {
@@ -765,18 +771,18 @@
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "O que aconteceu, Gunir?! Já temos problemas demais por aqui. Ei, aprendizes! Ergam seus orbes, todos vocês. Precisamos"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Ethan",
-        "image": "",
-        "text": "distraí-los! Gunir está aqui e logo tomará a frente da situação como de costume!"
+        "text": "O que aconteceu, Gunir?! Já temos problemas demais por aqui. Ei, aprendizes!"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Ergam seus orbes, todos vocês. Precisamos distraí-los! Gunir está aqui e logo tomará a frente da situação como de costume!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Diversos orbes começam a flutuar acima deles e a grande maioria dos monstros em volta são atraídos pela luz emitida."
     },
     {
@@ -794,20 +800,20 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "Por falar nisso, é a primeira vez que vejo o portal ficar ativo desse jeito. - Comenta, apontando para o círculo no chão. -"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "Isso é normal? Mais alguém viria com você senhor, Gunir?"
+        "image": "personagens/KYUK FEITICEIRO.png",
+        "text": "Por falar nisso, é a primeira vez que vejo o portal ficar ativo desse jeito. -"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Os três capitães olham rapidamente para o portal, preocupados. Gunir se mostra particularmente mais preocupado."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Comenta, apontando para o círculo no chão. - Isso é normal? Mais alguém viria com você senhor, Gunir? Os três capitães olham"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "rapidamente para o portal, preocupados. Gunir se mostra particularmente mais preocupado."
     },
     {
         "type": "dialogue",
@@ -842,7 +848,7 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Então só precisamos abrir caminho para o senhor avisar os outros capitães também?"
     },
     {
@@ -861,13 +867,13 @@
         "type": "dialogue",
         "speaker": "Sian",
         "image": "personagens/SIAN.png",
-        "text": "É claro, esse negócio de “magia” é muito... Kyuk lança suas chamas nos Fienders aglomerados, os monstros se espalham"
+        "text": "É claro, esse negócio de “magia” é muito..."
     },
     {
-        "type": "dialogue",
-        "speaker": "Sian",
-        "image": "personagens/SIAN.png",
-        "text": "rapidamente, grunhindo desesperados."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk lança suas chamas nos Fienders aglomerados, os monstros se espalham rapidamente, grunhindo desesperados."
     },
     {
         "type": "dialogue",
@@ -884,7 +890,7 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Abrindo caminho! E meu nome é Kyuk!"
     },
     {
@@ -914,7 +920,7 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Ei... Por que me chamou assim?"
     },
     {
@@ -932,14 +938,20 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "E-Então ele também... Gunir atravessa sua lança em três monstros em chamas com seu ataque perfurante e os arremessa em outros"
+        "image": "personagens/KYUK FEITICEIRO.png",
+        "text": "E-Então ele também..."
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "grupos que não foram atingidos por Kyuk."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Gunir atravessa sua lança em três monstros em chamas com seu ataque perfurante e os arremessa em outros grupos que não foram"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "atingidos por Kyuk."
     },
     {
         "type": "dialogue",
@@ -950,7 +962,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Sian tenta dar continuidade aos ataques de Gunir, mas sente que seu corpo não responde como deveria."
     },
     {
@@ -963,13 +975,13 @@
         "type": "dialogue",
         "speaker": "Sian",
         "image": "personagens/SIAN.png",
-        "text": "Argh... Pessoal, não queria atrapalhar... -Comenta, se aproximando e mancando. - Mas preciso de uma ajuda aqui."
+        "text": "Argh... Pessoal, não queria atrapalhar... -Comenta, se aproximando e mancando. -"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "A perna de Sian está ferida e sangrando."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mas preciso de uma ajuda aqui. A perna de Sian está ferida e sangrando."
     },
     {
         "type": "dialogue",
@@ -986,26 +998,26 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O capitão está paralisado."
     },
     {
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "E o portal?!!! Ele brilhou sozinho agora pouco!!! - Exclama, olhando na direção"
+        "text": "E o portal?!!! Ele brilhou sozinho agora pouco!!! - Exclama, olhando na direção do portal."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "do portal. Os outros acompanham o movimento de Ethan e se deparam com... nada. Não houve mudança alguma, exceto pelo portal"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Os outros acompanham o movimento de Ethan e se deparam com... nada. Não houve mudança alguma, exceto pelo portal não estar"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "não estar mais brilhando."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "mais brilhando."
     },
     {
         "type": "dialogue",
@@ -1034,13 +1046,13 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Er... Pessoal, precisamos ajudá-las. - Comenta, apontando para Agnes e Elisa que ainda lutam com os mesmos monstros maiores."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O capitão loiro olha para as duas."
     },
     {
@@ -1052,56 +1064,62 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Alguns momentos antes. Loknar olha discretamente para suas foices no chão, atrás de Yama. Shin cerca Yama, movimentando-se"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "rapidamente a sua volta. Han que observa a batalha de não muito longe dá um passo para frente."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
-        "text": "Pa... SenhorYama: Não ouse sair daí, insolente! -Grita. - Eu não preciso da sua ajuda. - Afirma, calmamente. Loknar habilmente"
+        "image": "personagens/HAN II.png",
+        "text": "Pa... SenhorYama: Não ouse sair daí, insolente! -Grita. - Eu não preciso da sua ajuda. - Afirma, calmamente."
     },
     {
-        "type": "dialogue",
-        "speaker": "Han",
-        "image": "",
-        "text": "apanha seu par de armas, mas para de se mover ao tocá-las. Yama está atrás dele, preparando o punho para o ataque."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Loknar habilmente apanha seu par de armas, mas para de se mover ao tocá-las. Yama está atrás dele, preparando o punho para o"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "ataque."
     },
     {
         "type": "dialogue",
         "speaker": "Yama",
         "image": "",
-        "text": "Não adianta ser rápido, se não pode fazer nada para impedir isso. - Comenta para Shin, com um sorriso focado em Loknar."
+        "text": "Não adianta ser rápido, se não pode fazer nada para impedir isso. - Comenta para"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "O rei Fiender interrompe seu movimento, após todos escutarem sons de corpos grandes caindo ao chão. São barulhos espaçados e"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Shin, com um sorriso focado em Loknar. O rei Fiender interrompe seu movimento, após todos escutarem sons de corpos grandes"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "graves, como se um gigante estivesse andando devagar. Ao olhar na direção do som característico, o que mais lhe chama atenção"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "caindo ao chão. São barulhos espaçados e graves, como se um gigante estivesse andando devagar. Ao olhar na direção do som"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "é Magda ainda flutuando alto em um céu carregado de nuvens escuras."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "característico, o que mais lhe chama atenção é Magda ainda flutuando alto em um céu carregado de nuvens escuras."
     },
     {
         "type": "dialogue",
@@ -1112,19 +1130,19 @@
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "Pai para onde está olhando?! Eles acabaram deNo horizonte, Holkes caminha em direção aos dois, atrás de si há uma quantidade"
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "considerável de Fienders grandes, todos ao chão, mortos."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "É-É ele, pai! Eliphas está vindo."
     },
     {
@@ -1142,44 +1160,44 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O rei demônio para de falar ao ver Magda descendo do céu e sumindo no horizonte da batalha. O Mago Mestre flutua sobre o campo"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "de batalha e, com um livro aberto a sua frente e braços quase totalmente levantados. Logo abaixo de si, os orbes que Ethan"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "pediu para que os aprendizes levitassem, erguem-se para cada vez mais próximo do mago."
     },
     {
         "type": "dialogue",
         "speaker": "Eliphas",
         "image": "personagens/ELIPHAS.png",
-        "text": "Eu sei que os tempos estão mudando. Está na hora de todos tentarmos algo novo. Isso vale para você também, Kyuk. Kyuk está"
+        "text": "Eu sei que os tempos estão mudando. Está na hora de todos tentarmos algo novo. Isso vale para você também, Kyuk."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk está olhando para o céu, o Mago está exatamente acima de seu grupo, onde Magda estava anteriormente."
     },
     {
         "type": "dialogue",
         "speaker": "Eliphas",
         "image": "personagens/ELIPHAS.png",
-        "text": "olhando para o céu, o Mago está exatamente acima de seu grupo, onde Magda estava anteriormente."
+        "text": "Você diz que quer ser um líder, Ethan, mas parece não conseguir se decidir."
     },
     {
-        "type": "dialogue",
-        "speaker": "Eliphas",
-        "image": "personagens/ELIPHAS.png",
-        "text": "Você diz que quer ser um líder, Ethan, mas parece não conseguir se decidir. Ethan está olhando para o céu, um sorriso de"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Eliphas",
-        "image": "personagens/ELIPHAS.png",
-        "text": "alívio e algumas lágrimas tomam seu rosto."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Ethan está olhando para o céu, um sorriso de alívio e algumas lágrimas tomam seu rosto."
     },
     {
         "type": "dialogue",
@@ -1190,43 +1208,43 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O grito parece ecoar pelo céu. O Mago Mestre conjura uma magia de raios roxos que conectam as nuvens com o solo, cada Fiender"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "ainda de pé é atingido pelo ataque, incluindo alguns próximos à antiga capital, Skar. A maioria dos monstros morrem"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "instantaneamente. Nenhum acerta os humanos. Visualmente cerca de oitenta porcento dos orbes usados na magia desintegram,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "deixando cair micro fragmentos luminosos do céu. Fragmentos que vão se dissipando antes de tocar o solo. Os restantes dos"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "orbes flutuando naturalmente para próximo de seus antigos donos."
     },
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Próximo dos portões de Skar, Norio olha para o céu admirado."
     },
     {
@@ -1245,42 +1263,36 @@
         "type": "dialogue",
         "speaker": "Norio",
         "image": "personagens/NORIO.png",
-        "text": "meus aliados reanimados por muito tempo... Talvez devesse tentar com meus inimigos. Aos pés dele, com exceção de Alexander, os"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Norio",
-        "image": "personagens/NORIO.png",
-        "text": "paladinos estão caídos."
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Norio",
-        "image": "personagens/NORIO.png",
-        "text": "Agora vão e avisem o rei sobre os portais que os humanos criaram –Ordena, para"
+        "text": "meus aliados reanimados por muito tempo... Talvez devesse tentar com meus inimigos."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "um dos grupos de Fienders menores."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Aos pés dele, com exceção de Alexander, os paladinos estão caídos."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "Agora vão e avisem o rei sobre os portais que os humanos criaram –Ordena, para um dos grupos de Fienders menores."
     },
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O Mago se aproxima de Ethan e Kyuk."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Eliphas! Estou preocupado com a Lycia!"
     },
     {
@@ -1328,7 +1340,7 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "É o que?! Isso é loucura!"
     },
     {
@@ -1352,14 +1364,14 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "Não farei nada que você mandar sem ver a Lycia antes!!! E... Onde está o senhor Gyuder? Ele deveria estar ajudando!"
+        "image": "personagens/KYUK FEITICEIRO.png",
+        "text": "Não farei nada que você mandar sem ver a Lycia antes!!! E... Onde está o senhor"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Os capitães se encaram, com pesar."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Gyuder? Ele deveria estar ajudando! Os capitães se encaram, com pesar."
     },
     {
         "type": "dialogue",
@@ -1383,19 +1395,19 @@
         "type": "dialogue",
         "speaker": "Eliphas",
         "image": "personagens/ELIPHAS.png",
-        "text": "Esperem aqui! - Manda, virando-se em direção ao horizonte de onde vieram os Fienders, ficando de costas para todos. - Kyuk,"
+        "text": "Esperem aqui! - Manda, virando-se em direção ao horizonte de onde vieram os"
     },
     {
-        "type": "dialogue",
-        "speaker": "Eliphas",
-        "image": "personagens/ELIPHAS.png",
-        "text": "eu... quero que saiba que não vou reviver mais ninguém, mas vou limpar o caminho para vocês seguirem. Em um instante o mago"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Fienders, ficando de costas para todos. - Kyuk, eu... quero que saiba que não vou reviver mais ninguém, mas vou limpar o"
     },
     {
-        "type": "dialogue",
-        "speaker": "Eliphas",
-        "image": "personagens/ELIPHAS.png",
-        "text": "parte voando impulsivamente para a frente da batalha."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "caminho para vocês seguirem. Em um instante o mago parte voando impulsivamente para a frente da batalha."
     },
     {
         "type": "dialogue",
@@ -1406,7 +1418,7 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Ooh! Ele é rápido! Mais rápido que a Agnes!"
     },
     {

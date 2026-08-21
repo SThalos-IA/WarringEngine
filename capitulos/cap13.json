@@ -8,37 +8,37 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Uma cidade repleta de casas de pedras incompletas, partes do telhado são cobertos por folhagens grandes e pedaços de madeira"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "enrolados com cordas. O chão é de pedra irregular e tão cinzento quanto qualquer casa. Algumas áreas parecem ruinas. Um pátio"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "amplo se destaca, não por livre de residências, este é tão monocromático quanto o resto do cenário, mas há um círculo de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "teletransporte desenhado no chão. E dele saem três paladinos observando em volta com armadura reluzentes e repletas de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "detalhes dourados. Holkes e Shin se aproximam deles."
     },
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Não vejo muitas pessoas por aqui, apenas guerreiros. - Diz, andando entre seus companheiros, um pouco mais a frente."
     },
     {
@@ -50,19 +50,19 @@
     {
         "type": "dialogue",
         "speaker": "Holand",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Hum... Sem contar a quantidade de pessoas que se mudaram daqui de Skar para capital. Faz sentido. - Conclui, retirando a mão"
     },
     {
         "type": "dialogue",
         "speaker": "Holand",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "de seu colar de cruz."
     },
     {
         "type": "dialogue",
         "speaker": "Roland",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Então é verdade, está cidade não tem mesmo uma barreira. - Comenta, guardando seu livro com a palavra “Holy” na capa."
     },
     {
@@ -80,7 +80,7 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Francamente, jamais falaria que esse lugar já foi a capital um dia."
     },
     {
@@ -98,31 +98,31 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Uma gargalhada alta interrompe a conversa. Não era de nenhum dos homens ali presentes. O grito vinha mais de longe. Os"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "paladinos olham por cima dos ombros de Holkes e Shin e avistam ao longe um homem negro e alto, com um moicano branco. Ao seu"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "lado um homem bem menor e magro, com vestes folgadas de camponês. E o que mais chamava atenção, estavam quase sem armadura. O"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "mais alto com partes do peitoral e coxa, deixando seus grandes músculos a mostra. O mais baixo com uma ombreira, luvas de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "couro e com cabelos cinzentos pouco acima dos ombros."
     },
     {
@@ -134,7 +134,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ambos se aproximam mais e os paladinos percebem que o de moicano carrega algo no ombro. É um Fiender."
     },
     {
@@ -153,13 +153,13 @@
         "type": "dialogue",
         "speaker": "Shin",
         "image": "",
-        "text": "Não, aquele é o Brankio, Loknar é o outro. Loknar limpa parte do sangue nos olhos, ignorando o resto que estava em seu corpo e"
+        "text": "Não, aquele é o Brankio, Loknar é o outro."
     },
     {
-        "type": "dialogue",
-        "speaker": "Shin",
-        "image": "",
-        "text": "vestes."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Loknar limpa parte do sangue nos olhos, ignorando o resto que estava em seu corpo e vestes."
     },
     {
         "type": "dialogue",
@@ -218,19 +218,19 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O corpo do Fiender é jogado no meio da roda de conversa. Sua face está irreconhecível, poderia ser qualquer outro animal"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "quadrupede com biotipo semelhante. O que deixa evidente que era um demônio é a pele esbranquiçada e cinzenta que contrastava"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "com o sangue espalhado pelo corpo. Paladino engole saliva em seco."
     },
     {
@@ -350,19 +350,19 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Em um quarto grande, estão Ethan e Fylk acamados. Entre as camas uma mesa. Em pé estão Alexander, Holand, Holkes e Shin."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Holand se aproxima e começa a iluminar os corpos de Ethan e Fylk ao mesmo tempo com uma cor esverdeada, a mesma luz do colar"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "que está utilizando."
     },
     {
@@ -374,7 +374,7 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Podem confiar em nós, Holand é nosso melhor curador."
     },
     {
@@ -393,19 +393,25 @@
         "type": "dialogue",
         "speaker": "Fylk",
         "image": "",
-        "text": "Você já melhorou?! -Pergunta, indignado com Shin – Monstro desgraçado... - Resmunga, olhando pela janela."
+        "text": "Você já melhorou?! -Pergunta, indignado com Shin – Monstro desgraçado... -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Resmunga, olhando pela janela."
     },
     {
         "type": "dialogue",
         "speaker": "Holkes",
         "image": "",
-        "text": "Senhores esse é Alexander, o líder dos paladinos da capital. Também chamei"
+        "text": "Senhores esse é Alexander, o líder dos paladinos da capital. Também chamei um de nossos guerreiros do leste que participou de"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
+        "type": "dialogue",
+        "speaker": "Holkes",
         "image": "",
-        "text": "um de nossos guerreiros do leste que participou de uma missão incomum. Sian, por favor entre."
+        "text": "uma missão incomum. Sian, por favor entre."
     },
     {
         "type": "dialogue",
@@ -428,7 +434,7 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Está falando de uma guerra total?"
     },
     {
@@ -440,7 +446,7 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Não seria melhor seus outros dois guerreiros estarem aqui também?"
     },
     {
@@ -452,7 +458,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Alexander olha com estranheza, mas logo entende a situação."
     },
     {
@@ -471,7 +477,13 @@
         "type": "dialogue",
         "speaker": "Sian",
         "image": "personagens/SIAN.png",
-        "text": "cheios de cicatrizes luminosas. O jovem Kyuk também ficou assim."
+        "text": "cheios de cicatrizes luminosas. O jovem"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk também ficou assim."
     },
     {
         "type": "dialogue",
@@ -494,7 +506,7 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Seria possível esses monstros usarem magia?"
     },
     {
@@ -507,13 +519,13 @@
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "Tem outra coisa... A montanha que lutamos... Havia uma caverna nela, mas não"
+        "text": "Tem outra coisa... A montanha que lutamos... Havia uma caverna nela, mas não uma caverna normal, parecia que estavam escavando"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
+        "type": "dialogue",
+        "speaker": "Ethan",
         "image": "",
-        "text": "uma caverna normal, parecia que estavam escavando por algum motivo."
+        "text": "por algum motivo."
     },
     {
         "type": "dialogue",
@@ -549,18 +561,18 @@
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "Inclusive esse é o único interesse de vocês em"
+        "text": "Inclusive esse é o único interesse de vocês em nos ajudar, não? Querem explorar o Oeste, principalmente a Hygge..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "nos ajudar, não? Querem explorar o Oeste, principalmente a Hygge... A luz esverdeada se apaga."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "A luz esverdeada se apaga."
     },
     {
         "type": "dialogue",
         "speaker": "Holand",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Já acabei..."
     },
     {
@@ -573,24 +585,24 @@
         "type": "dialogue",
         "speaker": "Holkes",
         "image": "",
-        "text": "Obrigado Fylk, mesmo sem querer você melhorou um pouco esse clima hostil. – Pensa, dando um leve sorriso."
+        "text": "Obrigado Fylk, mesmo sem querer você melhorou um pouco esse clima hostil. –"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Alexander observa a espada bastarda de Ethan encostada do lado da cama de Ethan, ao lado de um saco de couro visualmente"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Pensa, dando um leve sorriso. Alexander observa a espada bastarda de Ethan encostada do lado da cama de Ethan, ao lado de um"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "cheio."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "saco de couro visualmente cheio."
     },
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Você seria um bom paladino, é uma arma interessante."
     },
     {
@@ -602,25 +614,19 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Hum... Nunca vi uma espada assim antes, deve ter se esforçado muito para desenvolver seu próprio jeito de lutar..."
     },
     {
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "Acho que sim... Perdi a minha na última missão... Pedi para que trouxessem essa"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "da fortaleza, era do meu aprendiz temporário."
+        "text": "Acho que sim... Perdi a minha na última missão... Pedi para que trouxessem essa da fortaleza, era do meu aprendiz temporário."
     },
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "E esse aprendiz era bom? O que aconteceu com ele? Morreu?"
     },
     {
@@ -632,8 +638,14 @@
     {
         "type": "dialogue",
         "speaker": "Holand",
-        "image": "",
-        "text": "Se já morreu, não devia ser tanto assim... Sian saca sua espada curta e aponta para Holand."
+        "image": "personagens/PALADINOS.png",
+        "text": "Se já morreu, não devia ser tanto assim..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Sian saca sua espada curta e aponta para Holand."
     },
     {
         "type": "dialogue",
@@ -644,7 +656,7 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Kyuk? Disse esse nome a pouco... Ele participou da missão que os Fienders brilharam, né? Foi lá que ele morreu?"
     },
     {
@@ -656,31 +668,31 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os paladinos se olham confusos."
     },
     {
         "type": "dialogue",
         "speaker": "Holand",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Do que você está falando? - Questiona, voltando a olhar Sian."
     },
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Holkes, nos chamou aqui para ouvirmos esses absurdos?"
     },
     {
         "type": "dialogue",
         "speaker": "Holand",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Se isso realmente aconteceu, esse garoto só pode estar envolvido com magia negra de bruxas... E se estiverem aliados com essas"
     },
     {
         "type": "dialogue",
         "speaker": "Holand",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "coisas, seria um desacato incontestável perante a coroa."
     },
     {
@@ -698,13 +710,13 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "O que foi que disse?! - Indaga, irritado. - Heh. Diz isso, mas seu “general” assumiu mais cedo que nossa presença aqui é"
     },
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "importante."
     },
     {
@@ -728,26 +740,26 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Do lado de fora da reunião, Roland aguarda inquieto próximo a porta."
     },
     {
         "type": "dialogue",
         "speaker": "Roland",
-        "image": "",
-        "text": "C-Calma cavalheiros, podemos resolver isso de alguma forma... Logo a frente do paladino, em um chão de pedra irregular, Gunir"
+        "image": "personagens/PALADINOS.png",
+        "text": "C-Calma cavalheiros, podemos resolver isso de alguma forma..."
     },
     {
-        "type": "dialogue",
-        "speaker": "Roland",
-        "image": "",
-        "text": "e Brankio disputam sob o cadáver do Fiender. Gunir segura firme sua lança atravessada no corpo do bicho, prendendo-o ao chão."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Logo a frente do paladino, em um chão de pedra irregular, Gunir e Brankio disputam sob o cadáver do Fiender. Gunir segura"
     },
     {
-        "type": "dialogue",
-        "speaker": "Roland",
-        "image": "",
-        "text": "Brankio tenta puxar a criatura pela braços."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "firme sua lança atravessada no corpo do bicho, prendendo-o ao chão. Brankio tenta puxar a criatura pela braços."
     },
     {
         "type": "dialogue",
@@ -759,19 +771,19 @@
         "type": "dialogue",
         "speaker": "Brankio",
         "image": "",
-        "text": "Se é de carne então é sim! - Grita, arriscando uma mordida. Brankio é impedido por um dos pés de Gunir, empurrando sua testa"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Brankio",
-        "image": "",
-        "text": "com a sola de ferro"
+        "text": "Se é de carne então é sim! - Grita, arriscando uma mordida."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "da armadura grande. O movimento é feito sem tirar as mãos da lança."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Brankio é impedido por um dos pés de Gunir, empurrando sua testa com a sola de ferro da armadura grande. O movimento é feito"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "sem tirar as mãos da lança."
     },
     {
         "type": "dialogue",
@@ -783,19 +795,19 @@
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "Qual de vocês é mais forte...? Gunir claramente está tendo vantagem, mas Brankio não usa armas... Reage Brankio! Hahaha"
+        "text": "Qual de vocês é mais forte...? Gunir claramente está tendo vantagem, mas"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Roland fica boquiaberto sem entender nada e ao olhar para o lado nota que Holkes e todos que estavam na reunião já haviam"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Brankio não usa armas... Reage Brankio! Hahaha Roland fica boquiaberto sem entender nada e ao olhar para o lado nota que"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "saído para ver o que estava acontecendo."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Holkes e todos que estavam na reunião já haviam saído para ver o que estava acontecendo."
     },
     {
         "type": "dialogue",
@@ -812,26 +824,26 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "Vocês não merecem, mas como não posso voltar para o rei sem nada, amanhã voltarei para falarmos sobre estratégia. Isso se"
     },
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "existir alguma nesse lugar!"
     },
     {
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "Aah! Ver isso só me deixou com mais vontade de lutar! Shin! Vem para cima! Pelo jeito você ficou mais fraco e eu..."
+        "text": "Aah! Ver isso só me deixou com mais vontade de lutar! Shin! Vem para cima!"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Shin rapidamente aparece na frente de Loknar, encarando-o."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Pelo jeito você ficou mais fraco e eu... Shin rapidamente aparece na frente de Loknar, encarando-o."
     },
     {
         "type": "dialogue",
@@ -855,13 +867,13 @@
         "type": "dialogue",
         "speaker": "Shin",
         "image": "",
-        "text": "última missão, aquele monstro me deu mesmo trabalho... Estou empolgado para encontrá-lo novamente. Sian, Ethan e os três"
+        "text": "última missão, aquele monstro me deu mesmo trabalho... Estou empolgado para encontrá-lo novamente."
     },
     {
-        "type": "dialogue",
-        "speaker": "Shin",
-        "image": "",
-        "text": "paladinos observam a situação, impressionados."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Sian, Ethan e os três paladinos observam a situação, impressionados."
     },
     {
         "type": "dialogue",
@@ -890,79 +902,79 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Nyari está segurando um Fiender menor pelos braços e arremessando-o contra um orbe de cor escura, envolto de energia"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "avermelhada. O corpo para alguns metros antes, em uma parede quase invisível, pois ao acertá-la faíscas vermelhas saem do ar."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O Fiender cai no chão grunhindo inquieto."
     },
     {
         "type": "dialogue",
         "speaker": "Nyari",
-        "image": "personagens/NYARI.png",
+        "image": "personagens/NYARI II.png",
         "text": "Esse orbe é um saco! - Diz, dando alguns passos para trás, ficando mais perto do irmão."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "E de que adiantaria quebrar essa barreira? Nós não sabemos usar magia... O pai vai ter que sair de Naraka sozinho, assim como"
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "fez com todos nós. Ele só não saiu ainda, porque não conseguiu abrir um portal grande o suficiente."
     },
     {
         "type": "dialogue",
         "speaker": "Nyari",
-        "image": "personagens/NYARI.png",
+        "image": "personagens/NYARI II.png",
         "text": "Eu sei, mas será que aquele cara não poderia nos ajudar? Deve ter morrido mesmo."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "Temos outro problema... No meu ataque fui obrigado a recuar, acho que encontrei aquele tal de Eliphas que o pai comentou. Ele"
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "é perigoso, mas não deve ser problema para o pai. Então é mais um motivo para esperarmos. Além dele, temos aquele humano de"
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "cabelo preto, que veio em grupo, ele também parece uma boa presa."
     },
     {
         "type": "dialogue",
         "speaker": "Nyari",
-        "image": "personagens/NYARI.png",
+        "image": "personagens/NYARI II.png",
         "text": "Aaargh que merda! Vamos ter mesmo que esperar... Se atacarmos todos de uma vez seria incrível. Quero me vingar direito desses"
     },
     {
         "type": "dialogue",
         "speaker": "Nyari",
-        "image": "personagens/NYARI.png",
+        "image": "personagens/NYARI II.png",
         "text": "humanos... Também tem um outro interessante que quero reencontrar. - Comenta, observando as inúmeras silhuetas gigantes e"
     },
     {
         "type": "dialogue",
         "speaker": "Nyari",
-        "image": "personagens/NYARI.png",
+        "image": "personagens/NYARI II.png",
         "text": "escuras cercando o orbe negro."
     },
     {
@@ -974,67 +986,67 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk está deitado entre as raízes de uma árvore, enquanto observa um ninho de passarinhos logo acima em um dos galhos."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK ARMADURA.png",
         "text": "Ufa! Finalmente um descanso! - Agradece, espreguiçando-se. - Desde que aquela missão com a Lycia não tive um segundo para"
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK ARMADURA.png",
         "text": "respirar... - Comenta, lembrando-se do dia que retornou para a fortaleza junto com Lycia. - É mesmo, não tenho tempo para"
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK ARMADURA.png",
         "text": "descansar, preciso praticar nem que seja um pouco. -Diz, fechando os olhos e concentrando energia dentro de si. - Pensando"
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK ARMADURA.png",
         "text": "agora, eu não me desculpei por ter agido daquela forma com ela... Da próxima vez eu me desculpo..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Enquanto isso Agnes próxima dali, procurando por ele. Até que chega na base da mesma árvore que Kyuk estava deitado."
     },
     {
         "type": "dialogue",
         "speaker": "Agnes",
         "image": "",
-        "text": "Estranho... Podia jurar que ele estava por aqui descansando... Será que ele se perdeu de novo? Kyuk abre seus olhos"
+        "text": "Estranho... Podia jurar que ele estava por aqui descansando... Será que ele se perdeu de novo?"
     },
     {
-        "type": "dialogue",
-        "speaker": "Agnes",
-        "image": "",
-        "text": "repentinamente."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk abre seus olhos repentinamente."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK ARMADURA.png",
         "text": "Eita, acho que acabei adormecendo e... - Menciona, enquanto olha em volta e percebe que ainda está na floresta, mas em um"
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "lugar totalmente diferente. - O-O que aconteceu?! Como eu consegui me perder dormindo?! Agnes!!! Por conta do grito, diversos"
+        "image": "personagens/KYUK ARMADURA.png",
+        "text": "lugar totalmente diferente. - O-O que aconteceu?! Como eu consegui me perder dormindo?! Agnes!!!"
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "pássaros saem voando das copas das árvores."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Por conta do grito, diversos pássaros saem voando das copas das árvores."
     }
 ]

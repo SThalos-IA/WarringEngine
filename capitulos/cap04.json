@@ -8,7 +8,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os quatro estão correndo em direção ao pátio principal, Gyuder um pouco mais a frente, os outros estão seguindo-o."
     },
     {
@@ -45,13 +45,13 @@
         "type": "dialogue",
         "speaker": "Guerreiro",
         "image": "",
-        "text": "Calma senhor, só vim notificá-lo. Está tudo sob controle. O General está lá, lembra? Todos param de correr próximo aos"
+        "text": "Calma senhor, só vim notificá-lo. Está tudo sob controle. O General está lá, lembra?"
     },
     {
-        "type": "dialogue",
-        "speaker": "Guerreiro",
-        "image": "",
-        "text": "círculos de teletransporte."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Todos param de correr próximo aos círculos de teletransporte."
     },
     {
         "type": "dialogue",
@@ -69,13 +69,13 @@
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "Por que não disse antes? Me preocupou atoa! Eu vim correndo até aqui e... - Discute, em segundo plano com o guerreiro"
+        "text": "Por que não disse antes? Me preocupou atoa! Eu vim correndo até aqui e... -"
     },
     {
-        "type": "dialogue",
-        "speaker": "Gyuder",
-        "image": "personagens/GYUDER.png",
-        "text": "mensageiro, enquanto aponta para os círculos mágicos."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Discute, em segundo plano com o guerreiro mensageiro, enquanto aponta para os círculos mágicos."
     },
     {
         "type": "dialogue",
@@ -182,7 +182,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Horas depois, acompanhados de dois aprendizes de magos e carregando os devidos equipamentos."
     },
     {
@@ -195,19 +195,19 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "São os círculos de teletransporte que te falei, esse que vamos entrar é o do leste. Aquele lá em cima é o do norte, onde te"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "encontrei. Lá do outro lado é o do oeste, onde"
+        "text": "São os círculos de teletransporte que te falei, esse que vamos entrar é o do leste."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "o general se encontra na frente de batalha. E esse maior aqui no meio nos leva para a capital."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Aquele lá em cima é o do norte, onde te encontrei. Lá do outro lado é o do oeste, onde o general se encontra na frente de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "batalha. E esse maior aqui no meio nos leva para a capital."
     },
     {
         "type": "dialogue",
@@ -219,13 +219,13 @@
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "Ele nem se perguntou da região Sul? Será que entendeu que é aqui? Ou não entende de regiões? - Pensa, intrigado. Lycia e Kyuk"
+        "text": "Ele nem se perguntou da região Sul? Será que entendeu que é aqui? Ou não entende de regiões? - Pensa, intrigado."
     },
     {
-        "type": "dialogue",
-        "speaker": "Gyuder",
-        "image": "personagens/GYUDER.png",
-        "text": "entram no círculo de teletransporte."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia e Kyuk entram no círculo de teletransporte."
     },
     {
         "type": "dialogue",
@@ -237,25 +237,25 @@
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "Sempre cuidei, não se preocupe. Assim, os aprendizes de magos tocam suas mãos no círculo para ativar a magia de"
+        "text": "Sempre cuidei, não se preocupe."
     },
     {
-        "type": "dialogue",
-        "speaker": "Gyuder",
-        "image": "personagens/GYUDER.png",
-        "text": "teletransporte. Aos poucos o corpo de ambos se ilumina e logo se tornam uma quantidade incontável de goticulas de energia"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Assim, os aprendizes de magos tocam suas mãos no círculo para ativar a magia de teletransporte. Aos poucos o corpo de ambos se"
     },
     {
-        "type": "dialogue",
-        "speaker": "Gyuder",
-        "image": "personagens/GYUDER.png",
-        "text": "branca que se espalham sutilmente para cima. Ao chegarem na região Leste, o garoto se depara com uma grandiosa e magnifica"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "ilumina e logo se tornam uma quantidade incontável de goticulas de energia branca que se espalham sutilmente para cima. Ao"
     },
     {
-        "type": "dialogue",
-        "speaker": "Gyuder",
-        "image": "personagens/GYUDER.png",
-        "text": "mina de cristais."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "chegarem na região Leste, o garoto se depara com uma grandiosa e magnifica mina de cristais."
     },
     {
         "type": "dialogue",
@@ -272,25 +272,25 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk se atenta mais ao redor e nota incontáveis trabalhadores subindo e descendo, indo de um lado ao outro com picaretas,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "capacetes, luvas e outros aparatos de mineradores. Entre tantas pessoas, pouco antes da entrada da gruta, há alguns soldados"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "com vestimenta familiares para Kyuk. Dentre os soldados, há dois que se destacam. Um por ter cabelo curto e branco, outro por"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "ser alto, loiro e ter o cabelo bagunçado."
     },
     {
@@ -309,13 +309,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Ethan. Sian. - Diz, olhando para o loiro e o de cabelo branco, respectivamente. - Esse é o Kyuk, é uma longa história, mas"
+        "text": "Ethan. Sian. - Diz, olhando para o loiro e o de cabelo branco, respectivamente. -"
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "passaremos um tempo por aqui."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Esse é o Kyuk, é uma longa história, mas passaremos um tempo por aqui."
     },
     {
         "type": "dialogue",
@@ -357,7 +357,13 @@
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "Ficou sabendo sobre o Oeste? Precisávamos mandar alguém por precaução. Então mandei ele."
+        "text": "Ficou sabendo sobre o Oeste? Precisávamos mandar alguém por precaução."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Então mandei ele."
     },
     {
         "type": "dialogue",
@@ -411,13 +417,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Lembra que o capitão explicou mais cedo que não basta força? O capitão Ethan é"
+        "text": "Lembra que o capitão explicou mais cedo que não basta força? O capitão Ethan é um ótimo exemplo disso. E não quer dizer que"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "um ótimo exemplo disso. E não quer dizer que ele seja mais experiente que os outros capitães, mas ele é bem inteligente."
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "ele seja mais experiente que os outros capitães, mas ele é bem inteligente."
     },
     {
         "type": "dialogue",
@@ -435,13 +441,7 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Está falando da espada do Kyuk? Falei que não havia necessidade de trazê-la, mas"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "ele insistiu."
+        "text": "Está falando da espada do Kyuk? Falei que não havia necessidade de trazê-la, mas ele insistiu."
     },
     {
         "type": "dialogue",
@@ -489,13 +489,13 @@
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "Estava intrigado com a criação dessa espada, me ajudaria muito em batalha. Infelizmente a primeira não deu muito certo, então"
+        "text": "Estava intrigado com a criação dessa espada, me ajudaria muito em batalha."
     },
     {
-        "type": "dialogue",
-        "speaker": "Ethan",
-        "image": "",
-        "text": "a deixei na fortaleza e... Espera, você também é do norte?"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Infelizmente a primeira não deu muito certo, então a deixei na fortaleza e... Espera, você também é do norte?"
     },
     {
         "type": "dialogue",
@@ -507,19 +507,25 @@
         "type": "dialogue",
         "speaker": "Sian",
         "image": "personagens/SIAN.png",
-        "text": "Entendo, chegou a ir pessoalmente para pedir que forjassem essa espada. - Comenta"
+        "text": "Entendo, chegou a ir pessoalmente para pedir que forjassem essa espada. -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Comenta"
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Sim, mas como disse, só vi ele uma vez. -Explica, olhando para Sian. - Só lembrei"
+        "text": "Sim, mas como disse, só vi ele uma vez. -Explica, olhando para Sian. - Só lembrei do senhor agora. - Fala, voltando sua"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "do senhor agora. - Fala, voltando sua atenção para Ethan."
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "atenção para Ethan."
     },
     {
         "type": "dialogue",
@@ -686,7 +692,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O jovem segue sua tutora."
     },
     {
@@ -704,7 +710,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Em algum lugar um pouco mais adentro da caverna."
     },
     {
@@ -717,13 +723,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Sim, o resto deixei na estalagem fora da caverna, mas... não deveria ter alguém"
+        "text": "Sim, o resto deixei na estalagem fora da caverna, mas... não deveria ter alguém nos mostrando o lugar? Acho que estamos"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "nos mostrando o lugar? Acho que estamos perdidos."
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "perdidos."
     },
     {
         "type": "dialogue",
@@ -770,7 +776,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O garoto começa a bater nos cristais compulsivamente, porém são poucas e pequenas as lascas que saem da rocha bruta."
     },
     {
@@ -789,13 +795,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "nessas rochas, há partes mais frágeis, como"
+        "text": "nessas rochas, há partes mais frágeis, como um ponto fraco. Cabe a você encontrar o ponto fraco e acertá-lo com a força"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "um ponto fraco. Cabe a você encontrar o ponto fraco e acertá-lo com a força necessária."
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "necessária."
     },
     {
         "type": "dialogue",
@@ -819,7 +825,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Sim, mas não é por isso que são valiosos. Agora comece de novo, com mais foco. Ficaremos aqui o dia todo..."
+        "text": "Sim, mas não é por isso que são valiosos. Agora comece de novo, com mais foco."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Ficaremos aqui o dia todo..."
     },
     {
         "type": "scene_break",
@@ -830,13 +842,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "À noite, retornam as estalagens que se localizam em uma clareira na floresta que cerca a região. Entre as estalagens e a"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "caverna, há um caminho curto a se seguir. Algumas fogueiras são acesas e mineradores as cercam com comidas e bebidas."
     },
     {
@@ -848,7 +860,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Um outro minerador finaliza um copo grande de bebida."
     },
     {
@@ -866,7 +878,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O jovem está atento com a conversa entre os dois."
     },
     {
@@ -950,13 +962,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Um silêncio completo entre eles só não surgiu, por conta das outras conversas em volta e pelo queimar da lenha da fogueira. O"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "capitão tomou um tempo para pensar, seu dedo indicador dobrado e encostando no queixo demonstrava isso."
     },
     {
@@ -1029,7 +1041,13 @@
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "Se chegou aqui, certamente já conhece os círculos mágicos, certo? Kyuk confirma com a cabeça."
+        "text": "Se chegou aqui, certamente já conhece os círculos mágicos, certo?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk confirma com a cabeça."
     },
     {
         "type": "dialogue",
@@ -1047,7 +1065,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Quer dizer que eles colocam sua energia nos orbes para poderem usar magia. Igual os círculos."
+        "text": "Quer dizer que eles colocam sua energia nos orbes para poderem usar magia."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Igual os círculos."
     },
     {
         "type": "dialogue",
@@ -1143,7 +1167,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "E nos seus estudos também, não é porque está aqui que ficará sem estudar – Notifica, pegando um livro da bagagem."
+        "text": "E nos seus estudos também, não é porque está aqui que ficará sem estudar –"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Notifica, pegando um livro da bagagem."
     },
     {
         "type": "dialogue",
@@ -1160,7 +1190,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk simplesmente se deita e dorme onde está. Ethan fica olhando para Kyuk, intrigado."
     },
     {
@@ -1172,13 +1202,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ethan está em seus aposentos, sentado à mesa lendo um livro iluminado por uma lamparina. Não só no livro, mas na mesa há"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "papeis com símbolos mágicos. Ele olha para a luz, reflexivo."
     }
 ]

@@ -8,37 +8,37 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Em uma fortaleza de madeira, acabara de anoitecer. Há um círculo mágico no chão com tamanho suficiente para comportar um grupo"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "grande de pessoas, em cada um dos lados, dois círculos menores e acima um círculo do mesmo tamanho que os laterais, com linhas"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "que conectam entre eles e os conectam ao maior. Na região abaixo, um corredor largo, porém não muito comprido. Todos esses"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "símbolos no chão, apesar de estarem dentro da fortaleza, se localizam em um lugar a parte do restante da estrutura, como uma"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "sacada grande. Poucos segundos depois, no círculo de cima, o corpo de Kyuk aparece com uma cicatriz contornando o pescoço. E"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "alguém se aproxima de seu corpo."
     },
     {
@@ -50,7 +50,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Em um campo de treinamento, dentro da fortaleza."
     },
     {
@@ -128,13 +128,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "No pátio principal do forte, na base de uma escadaria que leva a uma biblioteca, o Mago Mestre se encontra junto de alguns"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "aprendizes em sua volta. O Mago se depara com Lycia se aproximando com o corpo morto nos braços."
     },
     {
@@ -153,13 +153,19 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "Porque não quero. - Comenta sem tirar sua atenção de seus aprendizes. - Como eu dizia, hoje é o dia de reforçar a barreira da"
+        "text": "Porque não quero. - Comenta sem tirar sua atenção de seus aprendizes. -"
     },
     {
-        "type": "dialogue",
-        "speaker": "Mago Mestre",
-        "image": "personagens/ELIPHAS.png",
-        "text": "Capital, estou de partida, conto com a ajuda de vocês com a barreira protetora desse forte."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Como eu dizia, hoje é o dia de reforçar a barreira da Capital, estou de partida, conto com a ajuda de vocês com a barreira"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "protetora desse forte."
     },
     {
         "type": "dialogue",
@@ -183,7 +189,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Senhor... Se temos a chance de ajudar alguém, devemos ajudar! Mago Mestre coça sua barba por poucos segundos, em silêncio."
+        "text": "Senhor... Se temos a chance de ajudar alguém, devemos ajudar!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mago Mestre coça sua barba por poucos segundos, em silêncio."
     },
     {
         "type": "dialogue",
@@ -206,7 +218,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os aprendizes seguram o riso."
     },
     {
@@ -218,7 +230,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os aprendizes começam a rir de Lycia."
     },
     {
@@ -273,7 +285,13 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "Hunf... Aguardo o dia em que teremos mais magos de verdade nesse mundo. É muito trabalho apenas para mim e Kairos."
+        "text": "Hunf... Aguardo o dia em que teremos mais magos de verdade nesse mundo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "É muito trabalho apenas para mim e Kairos."
     },
     {
         "type": "scene_break",
@@ -284,7 +302,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Entrando na cabana, Kairos está de costas para Lycia."
     },
     {
@@ -297,7 +315,13 @@
         "type": "dialogue",
         "speaker": "Kairos",
         "image": "",
-        "text": "Certo, certo... Deixe-o ali, depois vejo. Lycia deixa o corpo, conforme solicitado."
+        "text": "Certo, certo... Deixe-o ali, depois vejo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia deixa o corpo, conforme solicitado."
     },
     {
         "type": "dialogue",
@@ -315,13 +339,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Isso... verificar todos os corpos que são enviados para nós e depois falar com o Mago Mestre... Não deve ser fácil ter que"
+        "text": "Isso... verificar todos os corpos que são enviados para nós e depois falar com o Mago"
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "decidir quem revive e quem continua morto..."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mestre... Não deve ser fácil ter que decidir quem revive e quem continua morto..."
     },
     {
         "type": "dialogue",
@@ -440,13 +464,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Algumas horas mais tarde, Lycia está chegando em seu dormitório, próximo ao campo de treinamento. Gyuder chega correndo"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "preocupado."
     },
     {
@@ -549,13 +573,19 @@
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "Eu também devia ter perguntado. Droga! Chegando no pátio principal da fortaleza, em frente a cabana de Kairos e na base da"
+        "text": "Eu também devia ter perguntado. Droga!"
     },
     {
-        "type": "dialogue",
-        "speaker": "Gyuder",
-        "image": "personagens/GYUDER.png",
-        "text": "escadaria que leva a biblioteca, alguns aprendizes de mago estão aglomerados em volta de alguém."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Chegando no pátio principal da fortaleza, em frente a cabana de Kairos e na base da escadaria que leva a biblioteca, alguns"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "aprendizes de mago estão aglomerados em volta de alguém."
     },
     {
         "type": "dialogue",
@@ -572,7 +602,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ao se aproximarem, Lycia percebe melhor a situação, e em silêncio, Kairos desenha um círculo mágico no chão."
     },
     {
@@ -602,7 +632,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Um dos aprendizes analisa melhor o desenho do círculo."
     },
     {
@@ -651,13 +681,13 @@
         "type": "dialogue",
         "speaker": "Aprendiz",
         "image": "",
-        "text": "Como esperado do senhor! Então se está fazendo o círculo, quer dizer que o Mago Mestre irá reviver alguém. Que oportunidade"
+        "text": "Como esperado do senhor! Então se está fazendo o círculo, quer dizer que o Mago"
     },
     {
-        "type": "dialogue",
-        "speaker": "Aprendiz",
-        "image": "",
-        "text": "única para aprender isso!"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mestre irá reviver alguém. Que oportunidade única para aprender isso!"
     },
     {
         "type": "dialogue",
@@ -675,13 +705,13 @@
         "type": "dialogue",
         "speaker": "Aprendiz",
         "image": "",
-        "text": "tempo limite para reviver alguém, não é? E até o Mago Mestre voltar, já terão se passado dias eKairos sai da cabana carregando"
+        "text": "tempo limite para reviver alguém, não é?"
     },
     {
-        "type": "dialogue",
-        "speaker": "Aprendiz",
-        "image": "",
-        "text": "Kyuk em seus braços."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "E até o Mago Mestre voltar, já terão se passado dias eKairos sai da cabana carregando Kyuk em seus braços."
     },
     {
         "type": "dialogue",
@@ -710,13 +740,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kairos se aproxima e coloca Kyuk dentro do círculo com muito cuidado, assim que o corpo entra no círculo, todas as linhas"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "brilham intensamente e reduzem, deixando o círculo brilhando sutilmente."
     },
     {
@@ -735,7 +765,13 @@
         "type": "dialogue",
         "speaker": "Aprendiz",
         "image": "",
-        "text": "S-Sim, já estamos indo. E os aprendizes de mago seguem para o lado externo da fortaleza."
+        "text": "S-Sim, já estamos indo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "E os aprendizes de mago seguem para o lado externo da fortaleza."
     },
     {
         "type": "dialogue",
@@ -819,7 +855,13 @@
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "Então vai mesmo... Revivê-lo? Kairos dá um longo suspiro."
+        "text": "Então vai mesmo... Revivê-lo?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kairos dá um longo suspiro."
     },
     {
         "type": "dialogue",
@@ -867,7 +909,13 @@
         "type": "dialogue",
         "speaker": "Kairos",
         "image": "",
-        "text": "transferindo anos de vida para ele. Lycia e Gyuder ficam quase sem palavras."
+        "text": "transferindo anos de vida para ele."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia e Gyuder ficam quase sem palavras."
     },
     {
         "type": "dialogue",
@@ -879,13 +927,13 @@
         "type": "dialogue",
         "speaker": "Kairos",
         "image": "",
-        "text": "Como disse, é uma magia muito complexa, talvez algum Paladino da capital ou o Mago Mestre... Mas esse último é uma exceção,"
+        "text": "Como disse, é uma magia muito complexa, talvez algum Paladino da capital ou o"
     },
     {
-        "type": "dialogue",
-        "speaker": "Kairos",
-        "image": "",
-        "text": "essa magia funciona diferente para ele."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mago Mestre... Mas esse último é uma exceção, essa magia funciona diferente para ele."
     },
     {
         "type": "dialogue",
@@ -921,25 +969,31 @@
         "type": "dialogue",
         "speaker": "Kairos",
         "image": "",
-        "text": "O círculo ainda está um pouco ativo. Não tenho mais tempo a perder. -Diz, fechando"
+        "text": "O círculo ainda está um pouco ativo. Não tenho mais tempo a perder. -Diz, fechando os olhos e colocando as duas mãos no"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kairos",
+        "image": "",
+        "text": "círculo."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "os olhos e colocando as duas mãos no círculo. Lycia tenta ir em direção à Kairos, mas é impedida por Gyuder que faz sinal"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia tenta ir em direção à Kairos, mas é impedida por Gyuder que faz sinal negativo com a cabeça. O desenho circular volta a"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "negativo com a cabeça. O desenho circular volta a brilhar intensamente, tomando para si a responsabilidade de iluminar a"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "brilhar intensamente, tomando para si a responsabilidade de iluminar a noite. Após um tempo, Kairos abre os olhos que deram"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "noite. Após um tempo, Kairos abre os olhos que deram lugar a um brilho igual ao do círculo."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "lugar a um brilho igual ao do círculo."
     },
     {
         "type": "dialogue",
@@ -980,13 +1034,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O brilho mágico vai se apagando lentamente, dando lugar a luz do sol vinda do horizonte. Está amanhecendo. Kyuk abre os olhos"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "lentamente senta-se devagar com a mão na cabeça."
     },
     {
@@ -1004,7 +1058,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ao mesmo tempo, no mesmo círculo que Kyuk aparecera, surge um envelope fechado."
     }
 ]

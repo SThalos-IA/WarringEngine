@@ -8,25 +8,25 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Alguns dias se passam, Kyuk se mostra apto em seu trabalho, ele carrega cristais em sacos de couro, para cima e para baixo."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ajuda os outros mineradores a saírem de baixo de algumas rochas que caíram devido a pequenos desmoronamentos. Carrega seus"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "equipamentos. E continua limpando cada vez mais a área que Lycia havia pedido para minerar. Seu físico mostra uma mudança."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Assim que volta ao acampamento carregando vários equipamentos."
     },
     {
@@ -117,13 +117,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Agora que criou alguma resistência, aprendeu a trabalhar em equipe e entendeu"
+        "text": "Agora que criou alguma resistência, aprendeu a trabalhar em equipe e entendeu um pouco sobre ponto fraco. Precisa encarar um"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "um pouco sobre ponto fraco. Precisa encarar um pouco da realidade."
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "pouco da realidade."
     },
     {
         "type": "dialogue",
@@ -146,7 +146,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "À tarde chega, os dois seguem por entre as árvores, correndo com armaduras leves e suas respectivas armas na cintura."
     },
     {
@@ -195,13 +195,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Os dois cortes naquela arvore. São profundos, um é reto na vertical e o segundo é"
+        "text": "Os dois cortes naquela arvore. São profundos, um é reto na vertical e o segundo é na diagonal. - Explica, apontando para uma"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "na diagonal. - Explica, apontando para uma arvore que está marcada. - São do Sian, é a marca dele."
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "arvore que está marcada. - São do Sian, é a marca dele."
     },
     {
         "type": "dialogue",
@@ -213,7 +213,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Quando ele faz um corte desses significa que não se afastará tanto além daqui. Então ele está perto."
+        "text": "Quando ele faz um corte desses significa que não se afastará tanto além daqui."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Então ele está perto."
     },
     {
         "type": "dialogue",
@@ -225,13 +231,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "A parte de cima do corte indica em que direção ele foi. Nesse caso, para a direita. Vamos com calma daqui para frente. -"
+        "text": "A parte de cima do corte indica em que direção ele foi. Nesse caso, para a direita."
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "Avisa, voltando a correr."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Vamos com calma daqui para frente. - Avisa, voltando a correr."
     },
     {
         "type": "dialogue",
@@ -248,7 +254,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Um rugido forte interrompe Lycia e Kyuk em suas ações."
     },
     {
@@ -273,31 +279,31 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Exatamente, é onde Sian está. Fique atrás de mim. Kyuk obedece. Os dois seguem e aos poucos o rugido fica mais alto e parece"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "ter eco. Até que chegam perto o bastante para ver duas criaturas brancas, quadrupedes e que mesmo assim eram da altura de"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "metade das arvores em volta. Arvores que por sua vez faziam bastante sombra."
+        "text": "Exatamente, é onde Sian está. Fique atrás de mim."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Os monstros se mostram inquietos, trombando um no outro, nos troncos, quebrando uns, derrubando outros. Tentam olhar para"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk obedece. Os dois seguem e aos poucos o rugido fica mais alto e parece ter eco. Até que chegam perto o bastante para ver"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "algum ponto específico no alto, mas falham. Estão feridos e incomodados."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "duas criaturas brancas, quadrupedes e que mesmo assim eram da altura de metade das arvores em volta. Arvores que por sua vez"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "faziam bastante sombra. Os monstros se mostram inquietos, trombando um no outro, nos troncos, quebrando uns, derrubando"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "outros. Tentam olhar para algum ponto específico no alto, mas falham. Estão feridos e incomodados."
     },
     {
         "type": "dialogue",
@@ -309,7 +315,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Sim, vejo os Fienders feridos, mas e o Sian...? Nesse momento, novos cortes duplos aparecem nos corpos de ambos os monstros."
+        "text": "Sim, vejo os Fienders feridos, mas e o Sian...?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Nesse momento, novos cortes duplos aparecem nos corpos de ambos os monstros."
     },
     {
         "type": "dialogue",
@@ -333,19 +345,25 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Fale baixo. Apenas observe. - Fala, ficando em postura de batalha. - Não vai demorar... De repente, ambos os monstros recebem"
+        "text": "Fale baixo. Apenas observe. - Fala, ficando em postura de batalha. - Não vai demorar..."
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "um golpe no meio de suas cabeças, ao mesmo tempo. E Sian está no chão entre ambos, guardando suas espadas curtas nas costas."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "De repente, ambos os monstros recebem um golpe no meio de suas cabeças, ao mesmo tempo. E Sian está no chão entre ambos,"
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "Em seguida anda em direção a Lycia, enquanto os Fienders caem um depois do outro atrás dele."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "guardando suas espadas curtas nas costas. Em seguida anda em direção a Lycia, enquanto os Fienders caem um depois do outro"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "atrás dele."
     },
     {
         "type": "dialogue",
@@ -363,13 +381,7 @@
         "type": "dialogue",
         "speaker": "Sian",
         "image": "personagens/SIAN.png",
-        "text": "Estava ficando sem ter onde me esconder, esses bichos estavam derrubando todas"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "as arvores."
+        "text": "Estava ficando sem ter onde me esconder, esses bichos estavam derrubando todas as arvores."
     },
     {
         "type": "dialogue",
@@ -381,7 +393,13 @@
         "type": "dialogue",
         "speaker": "Sian",
         "image": "personagens/SIAN.png",
-        "text": "E o que ele está fazendo aqui? - Pergunta, olhando para Lycia e apontando para Kyuk."
+        "text": "E o que ele está fazendo aqui? - Pergunta, olhando para Lycia e apontando para"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk."
     },
     {
         "type": "dialogue",
@@ -392,32 +410,44 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Sian olha para Kyuk e ele está afirmando com a cabeça, com os olhos admirados sem saber o que dizer."
     },
     {
         "type": "dialogue",
         "speaker": "Sian",
         "image": "personagens/SIAN.png",
-        "text": "Não acha que está cedo demais? Aqui é perigoso e... Nesse instante, surge um terceiro Fiender atrás da dupla que acabou de"
+        "text": "Não acha que está cedo demais? Aqui é perigoso e..."
     },
     {
-        "type": "dialogue",
-        "speaker": "Sian",
-        "image": "personagens/SIAN.png",
-        "text": "chegar, com intenção de atacar o mais próximo de si, Kyuk. Lycia reage puxando Kyuk para trás e sendo acertada no lugar dele."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Nesse instante, surge um terceiro Fiender atrás da dupla que acabou de chegar, com intenção de atacar o mais próximo de si,"
     },
     {
-        "type": "dialogue",
-        "speaker": "Sian",
-        "image": "personagens/SIAN.png",
-        "text": "Assim, foi jogada para longe, quebrando dois troncos e parando ao trombar em um terceiro."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk. Lycia reage puxando Kyuk para trás e sendo acertada no lugar dele. Assim, foi jogada para longe, quebrando dois troncos"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "e parando ao trombar em um terceiro."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk e Sian",
         "image": "",
-        "text": "Lycia!!! Sian saca suas espadas novamente. Kyuk saca sua espada."
+        "text": "Lycia!!!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Sian saca suas espadas novamente. Kyuk saca sua espada."
     },
     {
         "type": "dialogue",
@@ -428,7 +458,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Sian nota que uma das mãos do monstro está profundamente ferida."
     },
     {
@@ -440,7 +470,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O jovem se aproxima."
     },
     {
@@ -453,13 +483,19 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Não se preocupe comigo, estamos em batalha, não tire os olhos do oponente. - Explica, cuspindo um pouco de sangue no chão. -"
+        "text": "Não se preocupe comigo, estamos em batalha, não tire os olhos do oponente. -"
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "Se eu tivesse com minha armadura, isso não estaria tão ruim. - Diz, sorrindo. - Que droga, agora você me irritou."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Explica, cuspindo um pouco de sangue no chão. - Se eu tivesse com minha armadura, isso não estaria tão ruim. - Diz, sorrindo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "- Que droga, agora você me irritou."
     },
     {
         "type": "dialogue",
@@ -471,25 +507,31 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Não estou com minha armadura... Mas você deu o azar de eu estar com minha espada. Ao mesmo tempo, Sian está tentando se"
+        "text": "Não estou com minha armadura... Mas você deu o azar de eu estar com minha espada."
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "esconder, mas o monstro está completamente incontrolável, derrubando inúmeras arvores ao seu redor. Até que percebe ao seu"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Ao mesmo tempo, Sian está tentando se esconder, mas o monstro está completamente incontrolável, derrubando inúmeras arvores ao"
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "lado a silhueta de Lycia passando por ele e chegando até o monstro, para amputar a pata não machucada e um corte de baixo"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "seu redor. Até que percebe ao seu lado a silhueta de Lycia passando por ele e chegando até o monstro, para amputar a pata não"
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "acima até a cabeça, formando uma linha de sangue vertical no Fiender que vai perdendo a mobilidade aos poucos até sucumbir."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "machucada e um corte de baixo acima até a cabeça, formando uma linha de sangue vertical no Fiender que vai perdendo a"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "mobilidade aos poucos até sucumbir."
     },
     {
         "type": "dialogue",
@@ -626,13 +668,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "No dia seguinte, no acampamento. Kyuk e Lycia estão comendo alguns pães e frutas sentados em um tronco de arvore tombado. Sian"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "se aproxima."
     },
     {
@@ -710,20 +752,20 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Sian se mostra inquieto."
     },
     {
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Não me entenda mal... é que o jeito que ele luta é um tanto... Nesse instante, a silhueta de um homem grande de cabelo e barba"
+        "text": "Não me entenda mal... é que o jeito que ele luta é um tanto..."
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "medianos e castanhos surge atrás dos que estão sentados."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Nesse instante, a silhueta de um homem grande de cabelo e barba medianos e castanhos surge atrás dos que estão sentados."
     },
     {
         "type": "dialogue",
@@ -813,7 +855,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Ele está sendo muito útil. Kyuk é mais forte do que parece, senhor. Gunir encara Kyuk, o jovem fica sem ter para onde olhar."
+        "text": "Ele está sendo muito útil. Kyuk é mais forte do que parece, senhor."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Gunir encara Kyuk, o jovem fica sem ter para onde olhar."
     },
     {
         "type": "dialogue",
@@ -842,7 +890,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk olha para Lycia."
     },
     {
@@ -980,7 +1028,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Lycia olha para Kyuk um pouco surpresa pelo que fez."
     },
     {

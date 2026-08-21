@@ -8,26 +8,32 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Em uma arvore próxima da Fortaleza, um ninho de pássaros presencia o rachar de um ovo solitário. Kyuk abre os olhos lentamente"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "se senta devagar com a mão na cabeça."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Hum...? Onde estou? Gyuder e Lycia ainda estão sem reação. Kyuk lembra-se vagamente do que ocorreu e leva a mão ao próprio"
+        "text": "Hum...? Onde estou?"
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "pescoço rapidamente, preocupado."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Gyuder e Lycia ainda estão sem reação. Kyuk lembra-se vagamente do que ocorreu e leva a mão ao próprio pescoço rapidamente,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "preocupado."
     },
     {
         "type": "dialogue",
@@ -51,7 +57,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "eu sobrevivi? O que aconteceu com aquela mulher? - Pergunta, enquanto se recorda. - É mesmo!!! Yukia! Senhor Bark!"
+        "text": "eu sobrevivi? O que aconteceu com aquela mulher? -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Pergunta, enquanto se recorda. - É mesmo!!! Yukia! Senhor Bark!"
     },
     {
         "type": "dialogue",
@@ -81,7 +93,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Não, quer dizer sim, mas passa bem. Kyuk continua olhando em dúvida."
+        "text": "Não, quer dizer sim, mas passa bem."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk continua olhando em dúvida."
     },
     {
         "type": "dialogue",
@@ -393,13 +411,7 @@
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "funcionando, mas encontrei isso. - Diz, pegando"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "uma carta. - Uma carta dele pra você Kyuk."
+        "text": "funcionando, mas encontrei isso. - Diz, pegando uma carta. - Uma carta dele pra você Kyuk."
     },
     {
         "type": "dialogue",
@@ -434,7 +446,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk olha para carta, seus olhos vão de um lado ao outro da folha rapidamente, olhava de cima a baixo empolgado."
     },
     {
@@ -459,13 +471,13 @@
         "type": "dialogue",
         "speaker": "Carta",
         "image": "",
-        "text": "[Saudações garoto, Se é você quem está lendo esta carta, agradeço aos céus, pois significa que alguém te deu"
+        "text": "[Saudações garoto,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "uma segunda chance... Estamos bem."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Se é você quem está lendo esta carta, agradeço aos céus, pois significa que alguém te deu uma segunda chance... Estamos bem."
     },
     {
         "type": "dialogue",
@@ -489,7 +501,13 @@
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "Para caso caísse em mãos erradas, não desse informações ao inimigo. Lycia segura um riso."
+        "text": "Para caso caísse em mãos erradas, não desse informações ao inimigo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia segura um riso."
     },
     {
         "type": "dialogue",
@@ -554,7 +572,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk fica em silêncio."
     },
     {
@@ -650,13 +668,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Lycia e Kyuk vão para fora da fortaleza. Logo ao saírem, o garoto nota que estão muito alto em comparação às planícies em"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "volta. Alguns passos à frente do portão principal, Kyuk olha para trás."
     },
     {
@@ -675,25 +693,25 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Ah nada, deixa pra lá... -Diz, voltando sua atenção para frente. - Nossa, que alto! - Grita, enquanto olha pra todas as"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "direções possíveis, com a mão fazendo sombra acima das sobrancelhas. - A Yukia iria adorar essa vista!"
+        "text": "Ah nada, deixa pra lá... -Diz, voltando sua atenção para frente. - Nossa, que alto! -"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Ambos começam a descer por um caminho único, feito na grama. O caminho não é muito íngreme, o que atrapalha a descida são os"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Grita, enquanto olha pra todas as direções possíveis, com a mão fazendo sombra acima das sobrancelhas. - A Yukia iria adorar"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "vários troncos de árvores fincados e alinhados em grupos no chão, formando inúmeras barreiras de madeira."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "essa vista! Ambos começam a descer por um caminho único, feito na grama. O caminho não é muito íngreme, o que atrapalha a"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "descida são os vários troncos de árvores fincados e alinhados em grupos no chão, formando inúmeras barreiras de madeira."
     },
     {
         "type": "dialogue",
@@ -764,25 +782,25 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os dois então chegam ao suposto cemitério que não é nada convencional. De início, Kyuk sentiu falta de uma entrada. Os túmulos"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "não foram organizados de forma retilínea, muito pelo contrário, parece até que cavaram um buraco, jogaram o corpo e"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "enterraram. Os amontoados de terras nem mesmo tinham lápides para serem chamados de túmulos, o que combina bastante com a"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "falta de entrada. O único que era um tumulo propriamente dito, estava um uma pequena colina, separado dos demais."
     },
     {
@@ -800,7 +818,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Eles se aproximam da colina."
     },
     {
@@ -825,13 +843,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "acabam nos enviando corpos para o Mago Mestre poder reviver."
+        "text": "acabam nos enviando corpos para o Mago"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Kyuk olha para as próprias mãos."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mestre poder reviver. Kyuk olha para as próprias mãos."
     },
     {
         "type": "dialogue",
@@ -849,25 +867,19 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Bem... Digamos que não é tão simples assim... Sabe, não é de hoje que enfrentamos"
+        "text": "Bem... Digamos que não é tão simples assim... Sabe, não é de hoje que enfrentamos os Fienders... Estamos perdendo muitos"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "os Fienders... Estamos perdendo muitos companheiros em batalha, nosso exército está diminuindo. E quanto mais o tempo passa,"
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "companheiros em batalha, nosso exército está diminuindo. E quanto mais o tempo passa, mais a necessidade de aumentarmos as"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "mais a necessidade de aumentarmos as nossas forças, mas para o Mago Mestre, não adianta reviver pessoas que não se mostram"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "aptas a lutar."
+        "type": "dialogue",
+        "speaker": "Lycia",
+        "image": "personagens/LYCIA.png",
+        "text": "nossas forças, mas para o Mago Mestre, não adianta reviver pessoas que não se mostram aptas a lutar."
     },
     {
         "type": "dialogue",
@@ -897,19 +909,25 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Como não?! Lycia puxa Kyuk pela gola da camisa, olhando-o nos olhos"
+        "text": "Como não?!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia puxa Kyuk pela gola da camisa, olhando-o nos olhos"
     },
     {
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "O Mago Mestre tem muitas coisas pra lidar! - Grita, mas logo desvia o olhar e o solta. - E... Eu também não entendo ele as"
+        "text": "O Mago Mestre tem muitas coisas pra lidar! - Grita, mas logo desvia o olhar e o solta. -"
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "vezes... - Diz, chateada. - Além do mais, você devia estar grato por estar vivo!"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "E... Eu também não entendo ele as vezes... - Diz, chateada. - Além do mais, você devia estar grato por estar vivo!"
     },
     {
         "type": "dialogue",
@@ -974,7 +992,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ambos voltaram à fortaleza. Depois de um tempo, foram ao campo de treinamento."
     },
     {
@@ -993,7 +1011,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "É, estou sabendo... Agora escolhe alguma arma. Kyuk olhou em volta e viu desde armas de madeira à bem forjadas."
+        "text": "É, estou sabendo... Agora escolhe alguma arma."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk olhou em volta e viu desde armas de madeira à bem forjadas."
     },
     {
         "type": "dialogue",
@@ -1028,7 +1052,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ele segue passo a passo das instruções."
     },
     {
@@ -1083,7 +1107,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Você está muito tenso. Agora pratique, estarei logo ali, pode chamar se precisar. - Comenta, se virando para sair."
+        "text": "Você está muito tenso. Agora pratique, estarei logo ali, pode chamar se precisar. -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Comenta, se virando para sair."
     },
     {
         "type": "dialogue",
@@ -1112,7 +1142,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Dois dias depois. Kyuk e Lycia estão lutando no campo de treinamento, devidamente equipados."
     },
     {
@@ -1143,13 +1173,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Do que você tá falando? - Pergunta, atacando sua adversária com sua espada de uma mão. Lycia interrompe o ataque, acertando a"
+        "text": "Do que você tá falando? - Pergunta, atacando sua adversária com sua espada de uma mão."
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "espada do oponente, lançando-a pra longe."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia interrompe o ataque, acertando a espada do oponente, lançando-a pra longe."
     },
     {
         "type": "dialogue",
@@ -1167,13 +1197,25 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Será que é a arma? - Pensa. - Tem certeza de que não quer tentar com outra espada? Temos espadas de outros tipos também."
+        "text": "Será que é a arma? - Pensa. - Tem certeza de que não quer tentar com outra espada?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Temos espadas de outros tipos também."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Certo, vou tentar! Mesma conclusão do caso anterior."
+        "text": "Certo, vou tentar!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mesma conclusão do caso anterior."
     },
     {
         "type": "dialogue",
@@ -1257,7 +1299,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Hunf, duvido muito... Quando ele age assim é porque quer alguma coisa. Provavelmente lutar contra o senhor."
+        "text": "Hunf, duvido muito... Quando ele age assim é porque quer alguma coisa."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Provavelmente lutar contra o senhor."
     },
     {
         "type": "dialogue",
@@ -1329,37 +1377,49 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Pediu para que cuidasse dele... estou cuidando. Kyuk pega a carta."
+        "text": "Pediu para que cuidasse dele... estou cuidando."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk pega a carta."
     },
     {
         "type": "dialogue",
         "speaker": "Carta",
         "image": "",
-        "text": "[Saudações, Parece que ao menos uma coisa deu certo, mas sentimos muito pela sua perda... seu pai era"
+        "text": "[Saudações,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "um grande homem! Como havia dito na carta anterior, estamos bem, mas por conta do ocorrido tivemos que sair do vilarejo. Se"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Parece que ao menos uma coisa deu certo, mas sentimos muito pela sua perda... seu pai era um grande homem! Como havia dito na"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "mencionou meu nome, devem ter te contado, então mudar de vilarejo foi a melhor opção, pois ainda tenho muito trabalho a fazer"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "carta anterior, estamos bem, mas por conta do ocorrido tivemos que sair do vilarejo. Se mencionou meu nome, devem ter te"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "e como sabe, minha filha está me ajudando como de costume. [Escrito com a letra de Bark] Esperamos encontrá-lo em breve. Se"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "contado, então mudar de vilarejo foi a melhor opção, pois ainda tenho muito trabalho a fazer e como sabe, minha filha está me"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "cuide! [Escrito com a letra de Yukia] Bark e Yukia]"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "ajudando como de costume. [Escrito com a letra de Bark] Esperamos encontrá-lo em breve. Se cuide! [Escrito com a letra de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Yukia] Bark e Yukia]"
     },
     {
         "type": "dialogue",
@@ -1377,7 +1437,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Não se preocupe, sua leitura evoluiu mais que sua habilidade com a espada. Lycia e Gyuder riem juntos."
+        "text": "Não se preocupe, sua leitura evoluiu mais que sua habilidade com a espada."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia e Gyuder riem juntos."
     },
     {
         "type": "dialogue",
@@ -1389,7 +1455,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Agora deixe-me ler novamente para você. Então..."
+        "text": "Agora deixe-me ler novamente para você."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Então..."
     },
     {
         "type": "dialogue",
@@ -1407,7 +1479,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Acho que você que nunca se interessou por isso mesmo. De repente, um guerreiro surge."
+        "text": "Acho que você que nunca se interessou por isso mesmo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "De repente, um guerreiro surge."
     },
     {
         "type": "dialogue",

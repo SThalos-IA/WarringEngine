@@ -8,7 +8,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Brankio e Loknar saíram do portal mais próximo à Skar e já podem ver os muros da cidade."
     },
     {
@@ -26,7 +26,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Brankio olha para Loknar em silêncio, de sobrancelhas franzidas."
     },
     {
@@ -38,7 +38,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O capitão maior avista a primeira área de confronto entre paladinos e Fienders."
     },
     {
@@ -62,8 +62,14 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
-        "text": "V-Vocês não conseguiram derrotar o rei demônio, não é? Posso... Cof! Cof! Posso sentir seu poder."
+        "image": "personagens/PALADINOS.png",
+        "text": "V-Vocês não conseguiram derrotar o rei demônio, não é? Posso... Cof! Cof!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Posso sentir seu poder."
     },
     {
         "type": "dialogue",
@@ -74,7 +80,7 @@
     {
         "type": "dialogue",
         "speaker": "Alexander",
-        "image": "",
+        "image": "personagens/PALADINOS.png",
         "text": "O-Ora seuBrankio: A luta ainda não acabou, viemos ajudar."
     },
     {
@@ -92,7 +98,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ele cerca-se de Fienders com cicatrizes brilhantes e aos poucos os Fienders antes derrotados se levantam."
     },
     {
@@ -122,7 +128,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Loknar olha de volta emburrado."
     },
     {
@@ -135,13 +141,13 @@
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "seguida, segurando os dois pela cabeça, arremessa na direção do Fiender mágico."
+        "text": "seguida, segurando os dois pela cabeça, arremessa na direção do"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Os Fienders arremessados acertam outros dois Fienders distintos, um pouco mais afastados de Norio."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Fiender mágico. Os Fienders arremessados acertam outros dois Fienders distintos, um pouco mais afastados de Norio."
     },
     {
         "type": "dialogue",
@@ -170,37 +176,37 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Uma quantidade considerável de monstros avança na direção dos capitães. Brankio acerta um soco no meio da cabeça do Fiender"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "que se adiantou na corrida. O segundo colocado recebeu o mesmo presente, só que do outro punho. Seguido do terceiro, quarto,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "quinto, sexto... O capitão entrou em modo automático com um sorriso crescente. Após o vigésimo crânio esmagado, a sequência de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "golpes cessa. Os monstros que vêm a seguir, são cortados na jugular pelas foices de Loknar. Após acertar alguns, o capitão"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "saca uma espada curta do chão e habilmente corta próximo aos ombros. Todos que foram acertados param de se mover conforme suas"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "cicatrizes param de brilhar."
     },
     {
@@ -224,20 +230,20 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "A movimentação dos Fienders difere da investida direta, desta vez circulam suas presas, cercando-os."
     },
     {
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "Certo, isso é novo para mim... -Diz, olhando de um lado ao outro. Brankio não sabe para qual lado olhar. E acaba sendo mordido"
+        "text": "Certo, isso é novo para mim... -Diz, olhando de um lado ao outro."
     },
     {
-        "type": "dialogue",
-        "speaker": "Loknar",
-        "image": "personagens/LOKNAR.png",
-        "text": "no ombro por um ataque que veio de trás."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Brankio não sabe para qual lado olhar. E acaba sendo mordido no ombro por um ataque que veio de trás."
     },
     {
         "type": "dialogue",
@@ -248,44 +254,38 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Loknar tenta atacar esse Fiender, mas é impedido por outro que cruzou seu caminho. Acompanhando o movimento do primeiro, um"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "após o outro ficam entre os capitães, cercando-os individualmente. Brankio consegue arrancá-lo de suas costas, perdendo parte"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "de seu ombro no processo."
     },
     {
         "type": "dialogue",
         "speaker": "Brankio",
         "image": "",
-        "text": "Acho que vou precisar de armadura aqui também... Loknar não responde, está olhando em volta. O círculo a sua volta se fecha"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Brankio",
-        "image": "",
-        "text": "gradativamente."
+        "text": "Acho que vou precisar de armadura aqui também..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Na medida que o cercam como lobos, alguns tentam atacá-lo, mas o homem de cabelos cinzentos desvia sem grandes dificuldades,"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Loknar não responde, está olhando em volta. O círculo a sua volta se fecha gradativamente. Na medida que o cercam como lobos,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "mesmo os ataques vindos de trás."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "alguns tentam atacá-lo, mas o homem de cabelos cinzentos desvia sem grandes dificuldades, mesmo os ataques vindos de trás."
     },
     {
         "type": "dialogue",
@@ -296,19 +296,19 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os predadores mudam suas investidas e passam a atacar em duplas simultâneas. As duas primeiras têm algum resultado. Acertam-no"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "por pouco com suas mordidas. Seus braços estão sangrando. Porém, um integrante de cada tem suas cicatrizes iluminadas piscar"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "até pararem de se mover. Loknar abre outro sorriso sarcástico para Norio."
     },
     {
@@ -332,14 +332,20 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Loknar olha para Brankio e ele parece perplexo e fascinado com a informação."
     },
     {
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "É sério que você não percebeu?! -Pergunta, indignado. Norio está incrédulo com a reação de Brankio."
+        "text": "É sério que você não percebeu?! -Pergunta, indignado."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Norio está incrédulo com a reação de Brankio."
     },
     {
         "type": "dialogue",
@@ -351,43 +357,43 @@
         "type": "dialogue",
         "speaker": "Norio",
         "image": "personagens/NORIO.png",
-        "text": "tentou atacá-lo pelas patas traseiras e está girando-o a sua volta, fazendo seu próprio corpo ser"
+        "text": "tentou atacá-lo pelas patas traseiras e está girando-o a sua volta, fazendo seu próprio corpo ser o centro de apoio. A"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "velocidade em que o monstro é girado aumenta, tornando difícil identificar a silhueta de um humano segurando um Fiender"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Norio",
+        "image": "personagens/NORIO.png",
+        "text": "daquele jeito. Atrapalhando também os inimigos em volta de tentarem se aproximar."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "o centro de apoio. A velocidade em que o monstro é girado aumenta, tornando difícil identificar a silhueta de um humano"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Nesse momento os Fienders haviam desistido de tentar cercá-lo. Os que foram acertados e lançados para longe foram suficientes"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "segurando um Fiender daquele jeito. Atrapalhando também os inimigos em volta de tentarem se aproximar. Nesse momento os"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "para convencer Norio que seria boa ideia manter seus aliados afastados. Loknar está gargalhando. Os demônios a sua volta"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Fienders haviam desistido de tentar cercá-lo. Os que foram acertados e lançados para longe foram suficientes para convencer"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "também se dispersaram. A rotação diminui, Brankio mostra dificuldades de se manter parado, tudo a sua volta está girando."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Norio que seria boa ideia manter seus aliados afastados. Loknar está gargalhando. Os demônios a sua volta também se"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "dispersaram. A rotação diminui, Brankio mostra dificuldades de se manter parado, tudo a sua volta está girando. Loknar ri mais"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "ainda dele. Norio se irrita com a reação descontraída dos dois."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Loknar ri mais ainda dele. Norio se irrita com a reação descontraída dos dois."
     },
     {
         "type": "dialogue",
@@ -422,13 +428,13 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Eliphas flutua pouco acima da visão de Yama. Ele se movimenta de um lado ao outro."
     },
     {
@@ -440,13 +446,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O monstro sente um corte profundo em sua costela. Olhando rapidamente para a origem do ataque, está Holkes pegando um orbe"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "pequeno e encaixando em sua espada, no espaço que o anterior ocupava. Yama olha para sua ferida."
     },
     {
@@ -464,13 +470,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Um orbe dentre as vestes do mago se quebra. Apesar do susto, logo se recompõe e volta sua atenção para Eliphas. Porém não"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "consegue se mover direito, há lama sob seus pés. E seu corpo está sutilmente mais pesado, por estar molhado."
     },
     {
@@ -482,31 +488,31 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Outro orbe se despedaça. Um novo corte a distância é lançado, o Fiender coloca seu braço na frente por reflexo e tem seu"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "antebraço cortado. Ao mesmo tempo que não tirou sua atenção do Mago que se aproximou, mas a mão aberta do rei monstro está"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "aguardando para agarrá-lo. Eliphas faz o que pode para lançar sua magia de vento para desviar. E quando está prestes a ser"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "pego, Holkes recebe um ataque de raios vermelhos em suas costas, a maior parte do ataque passa em volta de si. Ele cai de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "joelhos, tendo fumaça saindo de suas costas."
     },
     {
@@ -518,7 +524,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O general afirma, com o polegar para cima e apoiando-se na espada, como uma bengala, sem levantar a cabeça."
     },
     {
@@ -542,13 +548,13 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk e Ethan estão caídos no chão, o capitão acorda assustado."
     },
     {
@@ -560,7 +566,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Sua cicatriz do pescoço brilha intensamente e se apaga gradativamente."
     },
     {
@@ -584,13 +590,13 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Yama movimenta seu braço para cima, quase acertando Eliphas que segue flutuando por cima."
     },
     {
@@ -603,7 +609,13 @@
         "type": "dialogue",
         "speaker": "Eliphas",
         "image": "personagens/ELIPHAS.png",
-        "text": "pior... vai acabar me atacando. - Pensa, enquanto cria um leve tornado em volta do Fiender."
+        "text": "pior... vai acabar me atacando. -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Pensa, enquanto cria um leve tornado em volta do Fiender."
     },
     {
         "type": "dialogue",
@@ -614,7 +626,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O mago conjura uma bola de fogo na ventania, transformando-a em um tornado em chamas."
     },
     {
@@ -626,7 +638,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O rei Fiender tenta se mover, mas o pouco que se move encosta nas chamas com alguma parte do corpo."
     },
     {
@@ -656,13 +668,13 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Shin está encarando Han interagindo com os Fienders quadrupedes, como se estivessem conversando."
     },
     {
@@ -674,7 +686,7 @@
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "Hum?! O que um humano quer saber? E por que deveria responder? - Diz, observando o grupo de Fienders menores se afastarem."
     },
     {
@@ -686,37 +698,37 @@
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
-        "text": "Treino...? -Pergunta-se, encarando Shin com estranheza. - Do que está falando? - Questiona, olhando para baixo em diagonal,"
+        "image": "personagens/HAN II.png",
+        "text": "Treino...? -Pergunta-se, encarando Shin com estranheza. - Do que está falando? -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Questiona, olhando para baixo em diagonal, depois para cima, tentando lembrar de algo. Fica alguns segundos pensando, após uma"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "piscada longa seu semblante se fecha. Shin se surpreende e segura suas armas com mais firmeza."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
-        "text": "depois para cima, tentando lembrar de algo. Fica alguns segundos pensando, após uma piscada longa seu semblante se fecha. Shin"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Han",
-        "image": "",
-        "text": "se surpreende e segura suas armas com mais firmeza."
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "Aquele lugar é quente demais, fogo e rocha derretida para todos os lados, precisamos abrir buracos nas rochas para nos"
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "esconder. É o tipo de calor que não se acostuma, porque o solo fica cada vez mais quente, não podemos ficar parados... -"
     },
     {
-        "type": "dialogue",
-        "speaker": "Han",
-        "image": "",
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Comenta, observando suas pernas pretas como carvão. Shin está apreensivo com a expressão séria do Fiender."
     },
     {
@@ -734,43 +746,43 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O Fiender está insatisfeito com sua memória e o capitão com a resposta. Shin e Han não podem ser vistos enquanto lutam, não há"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "olhos aptos para acompanhar o que está acontecendo. Alguém com excelente percepção identifica alguns pontos subindo poeira do"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "solo, mas não é possível dizer onde será o próximo rastro, porque até chegar em uma possível conclusão, outros cinco ou seis"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "pontos de poeira já foram levantados. Então a movimentação insana cessa tão rapidamente quanto começou."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "O pai precisa saber sobre os “círculos” que o Norio descobriu. - Pensa, olhando o rei demônio ao longe. - Mas se eu for lá..."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "ele pode acabar comigo... - Complementa, incomodado evitando encarar a silhueta longínqua de Holkes. - Talvez o pai me ataque,"
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "mas se aquele monstro me ver... E ele nem é o Eliphas. - Conclui, arrepiando-se."
     },
     {
@@ -782,43 +794,43 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Shin se aproxima muito de Han tentando acertar sua adaga da direita no rosto do demônio, em um movimento de baixo para cima. O"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "braço esquerdo do capitão, por outro lado, está posicionado para trás de seu corpo, do ponto de vista do Fiender. Na tentativa"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "de ser acertado pela lâmina destra, o monstro desvia um pouco para trás. E nesse momento Shin usa sua lâmina canhota numa"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "velocidade que Han não pôde compreender. Quando percebeu, o braço esquerdo de Shin já estava retornando à posição original."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Nela havia sangue. E por um breve momento não sentiu nada de diferente. De repente o Fiender sentir algo no peito, havia uma"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "perfuração diagonal bem no meio, e seu próprio sangue saindo dela."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "Você acha... que estamos no mesmo nível?! Igualar sua velocidade me dá sono, humano desgraçado!"
     },
     {
@@ -830,43 +842,49 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Shin tenta repetir o mesmo movimento efetivo de antes, mas Han não está na sua frente."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "Onde está mirando? - Pergunta, atrás do capitão."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ele tenta se virar, mas para."
     },
     {
         "type": "dialogue",
         "speaker": "Shin",
         "image": "",
-        "text": "Huh?!! O-O quê? Meu corpo n-não responde... - Comenta, perplexo. Seu cabelo grande cobre seus olhos involuntariamente. Uma"
+        "text": "Huh?!! O-O quê? Meu corpo n-não responde... - Comenta, perplexo."
     },
     {
-        "type": "dialogue",
-        "speaker": "Shin",
-        "image": "",
-        "text": "lagrima escorre de um deles, unindo-se ao suor do rosto e escorrendo até o queixo."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Seu cabelo grande cobre seus olhos involuntariamente. Uma lagrima escorre de um deles, unindo-se ao suor do rosto e escorrendo"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "até o queixo."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "Então estava mesmo no seu limite... Sabe, pensei que conseguiria me entreter por mais tempo... Como você não matou meu tédio,"
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "te matarei com meus braços, com aqueles golpes que você até conseguia esquivar, mas agora, está aí... patético."
     },
     {
@@ -878,7 +896,7 @@
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "O quê?"
     },
     {
@@ -890,13 +908,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Han faz um breve silêncio."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "E por que eu deveria fazer isso?"
     },
     {
@@ -915,19 +933,19 @@
         "type": "dialogue",
         "speaker": "Shin",
         "image": "",
-        "text": "perfeitamente seu chute acertando Shin em menos de um piscar de olhos. Mas algo o incomoda vindo da perna de apoio,"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Shin",
-        "image": "",
-        "text": "precisamente em seu pé, uma espada curta está atravessando-o e fincando firmemente no chão."
+        "text": "perfeitamente seu chute acertando Shin em menos de um piscar de olhos."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Han se mostra paralisado."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mas algo o incomoda vindo da perna de apoio, precisamente em seu pé, uma espada curta está atravessando-o e fincando"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "firmemente no chão. Han se mostra paralisado."
     },
     {
         "type": "dialogue",
@@ -938,7 +956,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Shin se surpreende com o chamado, vira-se devagar, olhando por cima do ombro e arregala os olhos."
     },
     {
@@ -956,7 +974,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Han se recompõe e aproveita a distância para atravessar estômago de Sian com o braço."
     },
     {
@@ -968,38 +986,38 @@
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN II.png",
         "text": "Desgraçado! - Grita para Sian. - E você também! Acabou de dizer que não tinha humano mais rápido que você! - Exclama, agitado."
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
-        "text": "- Então quem é esse-? Shin entende a pedido no olhar daquele homem. E sem perder mais tempo, com suas adagas efetua um"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Han",
-        "image": "",
-        "text": "movimento giratório que passa pelos dois rapidamente."
+        "image": "personagens/HAN II.png",
+        "text": "- Então quem é esse-?"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Os tendões do pé de Han são os primeiros a sentir o golpe, de onde é possível ver espirros de sangue. Sua garganta é a próxima"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Shin entende a pedido no olhar daquele homem. E sem perder mais tempo, com suas adagas efetua um movimento giratório que passa"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "a se abrir, um corte bem mais profundo que o primeiro feito no começo da luta. O corpo de Han cai para trás, trazendo o corpo"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "pelos dois rapidamente. Os tendões do pé de Han são os primeiros a sentir o golpe, de onde é possível ver espirros de sangue."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "de Sian junto."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Sua garganta é a próxima a se abrir, um corte bem mais profundo que o primeiro feito no começo da luta. O corpo de Han cai"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "para trás, trazendo o corpo de Sian junto."
     },
     {
         "type": "dialogue",
@@ -1010,139 +1028,139 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Shin também cai, inconsciente. No peito de Han é possível ver um novo corte atravessando o primeiro na horizontal. Igual a"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "marca que Shin inspirou Sian a fazer nas árvores quando estava caçando. -FlashbackEm uma cidade à leste da capital, mais"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "próxima à famosa caverna de cristais. Shin e Sian, crianças, se preparam para apostar corrida. O garoto de cabelos negros"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "parece calmo e focado, o outro sua um pouco e olha rapidamente para seu adversário. O pouso de um pássaro no solo dá início a"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "disputa desses camponeses. Sian toma vantagem, cerca de um segundo a frente. Algo comum entre suas competições, assim como"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Shin chegar antes no objetivo. Dentre essas disputas, em um bosque, ao terminar uma corrida matinal, Shin se mostra mais"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "silencioso que o de costume, está ofegante, mas se esforça para não se mover. Quando Sian acompanha seu olhar se depara com um"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "coelho parado em estado de alerta. Um pequeno movimento foi suficiente para perderem o animal de vista em poucos segundos."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Sian olha para Shin, na intenção de desculpar-se, mas não se fez necessário, os olhos de Shin brilhavam de empolgação. Os anos"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "se passam, ambos tinham muita vontade de encontrar um animal, qualquer um bastava. Na adolescência já não havia adversário que"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "os alcançasse naquele vilarejo. Um dia, como também era costume, estavam pescando. Shin reclama por não gostar, mesmo sendo o"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "melhor em limpar e cortar os peixes. Tinha vontade de encontrar um animal maior, pois poderia se desafiar de verdade e ainda"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "poderia trazer mais alimento para casa em uma única caçada. Após semanas não tendo sucesso em encontrar animais terrestres,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Shin consegue pescar um peixe com uma adaga, ele aguarda o peixe pular para fora do riacho e o perfura pulando de uma margem à"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "outra. E com o passar tempo passa a conseguir com estocadas apenas esticando o braço no momento certo. \"Não é o jeito mais"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "efetivo, mas é interessante\". Ainda preferia ter encontrado outros animais. O que surgiu nesse dia não foi exatamente um"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "animal. Pela primeira vez, presenciaram um dos ataques tão raros àquela vila tão longínqua. E naquele momento Shin não soube"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "como correu tanto, roubou uma faca fileteira da cintura de um dos adultos paralisados de medo e matou o Fiender menor em meio"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "minuto. Desde aquele dia, nunca mais aceitou os desafios de Sian e sendo um pouco mais velho que Sian entrou para o exército"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "de Holkes assim que pôde, um ano antes. Quando Sian conseguiu ver seu rival novamente, não o reconheceu. Além do silêncio"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "incomum até mesmo para ele, dominou muito bem as lâminas de combate, especialmente as curtas que sempre utilizou quando"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "criança. E antes que fosse mandado para a caverna de cristais para treinar, notou que agora Shin estava acompanhado por Loknar"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "e Fylk. E não houve mais espaço para disputas. -Fim do FlashbackShin está caído, olhando as costas de Sian."
     },
     {

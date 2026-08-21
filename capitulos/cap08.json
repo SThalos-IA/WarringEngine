@@ -8,31 +8,31 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Dentro da biblioteca, Mago Mestre entra como se fosse sua casa, desce a escadaria de poucos degraus da entrada com"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "naturalidade. Kyuk assim que adentra fica desnorteado sem saber para onde olhar exatamente. São muitas estantes de livros,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "tantas que não se vê as paredes. Há algumas escadas de madeira cumpridas apoiadas em pontos mais altos. Os únicos lugares que"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "não têm estantes são o centro da biblioteca com carteiras desorganizadas de frente para uma lousa de madeira com papeis"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "pendurados. A porta de entrada e uma passagem que se localiza entre duas estantes."
     },
     {
@@ -80,7 +80,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk fica em silêncio."
     },
     {
@@ -92,20 +92,14 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O garoto não olha para falar com o Mago."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Não te perdoei ainda, tem tanta coisa acontecendo... -Comenta, levando as mãos"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "a cabeça."
+        "text": "Não te perdoei ainda, tem tanta coisa acontecendo... -Comenta, levando as mãos a cabeça."
     },
     {
         "type": "dialogue",
@@ -189,13 +183,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Depois que quebrei aquela coisa estou sentindo essa tal barreira, mas é estranho,"
+        "text": "Depois que quebrei aquela coisa estou sentindo essa tal barreira, mas é estranho, a mesma coisa que sinto fluindo dentro de"
     },
     {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "a mesma coisa que sinto fluindo dentro de mim é o que sinto dela."
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "mim é o que sinto dela."
     },
     {
         "type": "dialogue",
@@ -207,13 +201,7 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "isso é bom... Embora eu duvide"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "um pouco dessa melhora repentina."
+        "text": "isso é bom... Embora eu duvide um pouco dessa melhora repentina."
     },
     {
         "type": "dialogue",
@@ -308,7 +296,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk fica sem reação."
     },
     {
@@ -333,19 +321,19 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "Aconselho não pensar dessa forma. Se fosse assim, de quem seria a culpa"
+        "text": "Aconselho não pensar dessa forma. Se fosse assim, de quem seria a culpa dos ataques deles? A mina de cristais? - Pergunta,"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Mago Mestre",
+        "image": "personagens/ELIPHAS.png",
+        "text": "enquanto retira dois papeis da lousa para ler."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "dos ataques deles? A mina de cristais? - Pergunta, enquanto retira dois papeis da lousa para ler. Novamente Kyuk não sabe o"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "que dizer, se sente ainda mais incomodado."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Novamente Kyuk não sabe o que dizer, se sente ainda mais incomodado."
     },
     {
         "type": "dialogue",
@@ -369,13 +357,19 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "Essa habilidade sensorial deve ter ligação com a inteligência deles... - Comenta, buscando rapidamente um pergaminho para"
+        "text": "Essa habilidade sensorial deve ter ligação com a inteligência deles... -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Comenta, buscando rapidamente um pergaminho para anotar."
     },
     {
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "anotar. - Isso explicaria como conseguiram te achar, tinha uma que até falava, certo? - Questiona, olhando para Kyuk."
+        "text": "Isso explicaria como conseguiram te achar, tinha uma que até falava, certo? - Questiona, olhando para Kyuk."
     },
     {
         "type": "dialogue",
@@ -453,13 +447,13 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "Aquilo? Não, eu uso os orbes que ficam dentro das minhas vestes. Naquele momento usei o orbe que você destruiu logo depois no"
+        "text": "Aquilo? Não, eu uso os orbes que ficam dentro das minhas vestes."
     },
     {
-        "type": "dialogue",
-        "speaker": "Mago Mestre",
-        "image": "personagens/ELIPHAS.png",
-        "text": "teste."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Naquele momento usei o orbe que você destruiu logo depois no teste."
     },
     {
         "type": "dialogue",
@@ -471,7 +465,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "estar... Mago Mestre começa a refletir, tentando se lembrar de algo."
+        "text": "estar..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mago Mestre começa a refletir, tentando se lembrar de algo."
     },
     {
         "type": "dialogue",
@@ -530,7 +530,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "A porta principal da biblioteca se abre e Gyuder entra."
     },
     {
@@ -566,7 +566,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O capitão não se move muito, se limita a ficar na parte de cima da escadaria."
     },
     {
@@ -603,37 +603,37 @@
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "Lembre-se de todo esse sentimento de completa impotência, de ter a certeza de que nunca mais poderá proteger alguém... Kyuk"
+        "text": "Lembre-se de todo esse sentimento de completa impotência, de ter a certeza de que nunca mais poderá proteger alguém..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk serra seus punhos."
     },
     {
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "serra seus punhos."
+        "text": "Isso não foi verdade, certo? Estamos aqui para provar isso... Nós dois sabemos o quão desesperador é isso. E é por isso que me"
     },
     {
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "Isso não foi verdade, certo? Estamos aqui para provar isso... Nós dois sabemos"
+        "text": "senti na obrigação de guiá-lo, você precisa ficar mais forte para nunca mais passar por aquilo Kyuk! Lycia pediu para que"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Gyuder",
+        "image": "personagens/GYUDER.png",
+        "text": "estude e eu ordeno que lute! Fique mais forte fazendo o que nasceu para fazer! Não faça o sacrifício de Kairos ser em vão!"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "o quão desesperador é isso. E é por isso que me senti na obrigação de guiá-lo, você precisa ficar mais forte para nunca mais"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "passar por aquilo Kyuk! Lycia pediu para que estude e eu ordeno que lute! Fique mais forte fazendo o que nasceu para fazer!"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "Não faça o sacrifício de Kairos ser em vão! Kyuk surpreso, fica em silêncio por um momento, pensativo."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk surpreso, fica em silêncio por um momento, pensativo."
     },
     {
         "type": "dialogue",
@@ -645,24 +645,24 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "Ele é melhor com as palavras do que imaginei. – Pensa. - Agora... dada"
+        "text": "Ele é melhor com as palavras do que imaginei. – Pensa. - Agora... dada essas explicações, vamos seguir com-"
     },
     {
         "type": "dialogue",
-        "speaker": "essas explicações, vamos seguir comKyuk",
-        "image": "",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
         "text": "Parece que te devo desculpas!"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Quando o Mago olha para ele, está fazendo reverência em sua direção. Mago Mestre fica surpreso, enquanto Kyuk desfaz a"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "postura."
     },
     {
@@ -704,25 +704,25 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "No espaço entre as estantes da parte inferior da biblioteca, há uma passagem que dá acesso a uma escadaria em espiral que"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "desce. O jovem e o Mago seguem esse caminho. Logo abaixo, há uma sala grande proporcional a biblioteca logo acima em espaço,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "porém, não se vê coisas como prateleiras e livros. A sala grande e espaçosa está ocupada por cristais, orbes e símbolos"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "mágicos completos e incompletos."
     },
     {
@@ -752,13 +752,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O Mago para de falar, ao ver Kyuk quebrando outro orbe tentando usar sua energia, enquanto pisa em um círculo, desmanchando"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "parte dele."
     },
     {
@@ -813,13 +813,7 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "essa energia vital... Com"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "o tempo percebi que algumas coisas canalizavam melhor do que outras."
+        "text": "essa energia vital... Com o tempo percebi que algumas coisas canalizavam melhor do que outras."
     },
     {
         "type": "dialogue",
@@ -902,7 +896,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Quando percebi, já tinha alguns seguidores. A maioria desses jovens que estão aqui são decentes dessas pessoas..."
     },
     {
@@ -939,13 +933,19 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "um orbe e só precisa liberar essa energia vital interior. Kyuk fecha os olhos e aproxima as mãos, deixando um espaço entre"
+        "text": "um orbe e só precisa liberar essa energia vital interior."
     },
     {
-        "type": "dialogue",
-        "speaker": "Mago Mestre",
-        "image": "personagens/ELIPHAS.png",
-        "text": "elas, como se estivesse segurando um orbe invisível cuidadosamente."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk fecha os olhos e aproxima as mãos, deixando um espaço entre elas, como se estivesse segurando um orbe invisível"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "cuidadosamente."
     },
     {
         "type": "dialogue",
@@ -969,13 +969,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Certo... - Afirma, enquanto se concentra. - Não estou com problemas para sentir, mas não sei o que pensar exatamente e... Para"
+        "text": "Certo... - Afirma, enquanto se concentra. - Não estou com problemas para sentir, mas não sei o que pensar exatamente e..."
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "de falar, pois sente que criou um orbe distorcido de energia brilhante entre suas mãos. Mago mestre não sabe o que dizer."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Para de falar, pois sente que criou um orbe distorcido de energia brilhante entre suas mãos. Mago mestre não sabe o que dizer."
     },
     {
         "type": "dialogue",
@@ -998,13 +998,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk volta a se concentrar e aos poucos a bola de energia cria formas elementais inconsistentes. Vento, terra, água e fogo,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "respectivamente."
     },
     {
@@ -1017,7 +1017,13 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "Está instável, mas conseguiu algum foco, deve ter aprendido com Lycia. - Pensa. - Hum... Consegue reduzir isso?"
+        "text": "Está instável, mas conseguiu algum foco, deve ter aprendido com Lycia. -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Pensa. - Hum... Consegue reduzir isso?"
     },
     {
         "type": "dialogue",
@@ -1029,7 +1035,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "que ele. Dentre os quatro, apenas um brilha laranja avermelhado representando a magia conjurada."
+        "text": "que ele."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Dentre os quatro, apenas um brilha laranja avermelhado representando a magia conjurada."
     },
     {
         "type": "dialogue",
@@ -1107,13 +1119,7 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "difícil, mas não sei se posso dizer"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "o mesmo da “Chamar alguma coisa”."
+        "text": "difícil, mas não sei se posso dizer o mesmo da “Chamar alguma coisa”."
     },
     {
         "type": "dialogue",
@@ -1148,7 +1154,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Enquanto para você é como respirar, nós precisamos estudar e nos concentrar muito!"
     },
     {
@@ -1166,26 +1172,32 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O garoto aponta suas mãos para a sala e conjura uma grande chama inconstante que preenche o lugar. No processo, uma grande"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "quantidade de papeis colados na parede do fundo da sala são incinerados. Na parede, onde os papeis cobriam, há um símbolo"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "grande igual aos quatro de teletransporte, desenhado na parede."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Uou!!! Quer dizer... N-Não foi por mal! E-Eu... Veja, estão inteiros pelo menos! - Diz, apontando para alguns orbes."
+        "text": "Uou!!! Quer dizer... N-Não foi por mal! E-Eu... Veja, estão inteiros pelo menos! -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Diz, apontando para alguns orbes."
     },
     {
         "type": "dialogue",

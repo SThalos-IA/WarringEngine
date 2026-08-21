@@ -753,36 +753,39 @@ portrait.classList.remove(
 
 
     //--------------------------------------------------
-    // TRANSIÇÃO
-    //--------------------------------------------------
+// TRANSIÇÃO
+//--------------------------------------------------
 
-    if (cena.type === "scene_break") {
+if (cena.type === "scene_break") {
 
-        characterName.textContent = "";
+    characterName.textContent = "";
 
-        dialogue.textContent =
+    dialogue.textContent =
+        "•••";
 
-            "•••";
+    // Usa exatamente a imagem definida no JSON
+    if (cena.image) {
 
         portrait.src =
+            cena.image;
 
+    } else {
+
+        // Compatibilidade com JSONs antigos
+        portrait.src =
             "transicoes/" +
-
             capituloAtual +
-
             ".png";
-
-        portrait.classList.remove(
-
-            "hidden"
-
-        );
-
-        salvarProgresso();
-
-        return;
-
     }
+
+    portrait.classList.remove(
+        "hidden"
+    );
+
+    salvarProgresso();
+
+    return;
+}
 
 
     //--------------------------------------------------

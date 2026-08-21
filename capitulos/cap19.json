@@ -8,19 +8,19 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "-FlashbackO dia está ensolarado, com poucas nuvens no céu. Eliphas está deitado na grama, cercado de flores e animais, o homem"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "parece relaxado com a nuca apoiada nas mãos entrelaçadas. De repente uma brisa mais forte sopra e uma sombra cobre seus olhos,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "os animais se afastam vagarosamente. O homem abre os olhos e vê uma silhueta feminina com asas brancas cobrindo o sol."
     },
     {
@@ -33,13 +33,19 @@
         "type": "dialogue",
         "speaker": "Eliphas",
         "image": "personagens/ELIPHAS.png",
-        "text": "uma das mãos com uma luz branca exalando dela. Eliphas está perplexo com a figura que parece ter surgido voando. Segundos"
+        "text": "uma das mãos com uma luz branca exalando dela."
     },
     {
-        "type": "dialogue",
-        "speaker": "Eliphas",
-        "image": "personagens/ELIPHAS.png",
-        "text": "depois ele também estende a mão para ela que o ajuda a levantar."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Eliphas está perplexo com a figura que parece ter surgido voando. Segundos depois ele também estende a mão para ela que o"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "ajuda a levantar."
     },
     {
         "type": "dialogue",
@@ -62,13 +68,13 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Eliphas reuniu todos os orbes do campo de batalha para perto deles, mantém todos flutuando."
     },
     {
@@ -86,7 +92,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Eliphas está se aproximando até demais. - Pensa, observando o mago flutuar de um lado ao outro."
     },
     {
@@ -99,13 +105,13 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "jogarmos ele lá, não teremos como destruir o orbe negro novamente. Aquela barreira é insana. - Pensa, preocupado. Yama abre um"
+        "text": "jogarmos ele lá, não teremos como destruir o orbe negro novamente. Aquela barreira é insana. - Pensa, preocupado."
     },
     {
-        "type": "dialogue",
-        "speaker": "Mago Mestre",
-        "image": "personagens/ELIPHAS.png",
-        "text": "sorriso de canto de boca."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Yama abre um sorriso de canto de boca."
     },
     {
         "type": "dialogue",
@@ -116,55 +122,55 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ele começa a andar na direção de Holkes. Os dois ficam em alerta. O mago o acompanha e um raio acerta o ombro do monstro, mas"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "se não fosse pelo barulho, ele mal teria notado, o dano não se mostrou efetivo. De onde o primeiro saiu, vieram outros."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Enquanto caminhava casualmente na direção do general, inúmeros raios roxos se alternam, o acertando. Entre um conjunto de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "ataques e outros, Eliphas tenta se aproximar, mas os simples movimentos de braço de Yama o fazia recuar imediatamente."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Inúmeros orbes quebraram. Eram tantos ao mesmo tempo que foi possível ver micro fragmentos saindo das vestes de Eliphas"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "enquanto alternava entre atacar e se aproximar. Os ataques pararam e do corpo do Fiender sai fumaça e está cada vez mais"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "próximo de Holkes. Quando o levantou a mão na direção de Holkes, o general ameaçou dar um passo para trás quando notou o"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "inimigo pausando o andar. Yama está confuso. Quando olhou para suas cicatrizes, estavam luminosas, da cor dos raios que o"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "atingiram."
     },
     {
@@ -182,13 +188,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O general avança habilmente em movimento de estocada, diminuindo distância suficiente para sua lâmina perfurar o meio do peito"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "do rei Fiender. O golpe foi centrado a ponto de ter utilizado o buraco da lança de Gunir como referência."
     },
     {
@@ -200,91 +206,91 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "A espada dele se ilumina e do fio saí um corte de energia que termina de atravessar o corpo do monstro. Yama vomita sangue"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "quando Holkes tomou nova distância, deixando sua arma fincada. Eliphas terminou de acumular o máximo de energia possível e"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "converteu em um raio emitindo de suas mãos mirando da mesma distância que Holkes. A mão de Yama foi mais rápido que a magia,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "interrompendo-a, segurando seu emissor. Ele abriu outro sorriso de canto de boca, antes de levar o corpo do mago mestre ao"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "chão com a palma da mão aberta. Em seguida olhou para Holkes, arrancou sua lâmina do próprio peito e assim como em Gunir,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "devolveu a arma para seu dono arremessando na direção do dono. A espada passa rapidamente pela lateral do corpo de Holkes,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "acertando suas costelas esquerdas. Em um primeiro momento fica sem reação, primeiro porque não compreender que foi atingido. E"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "segundo que não podia acreditar que seu aliado estava sendo fortemente golpeado enquanto estava no chão, pelo punho fechado de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Yama que golpeava como um martelo com a parte de baixo da mão fechada. O orbe que estava na espada se quebra, vários que"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "estavam no ar também. Os golpes persistem, são pausados e pesados, a terra extreme-se. É então que o guerreiro percebe que a"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "cada acerto, um orbe se quebra. Um golpe. Um orbe. Um estilhaço. Quando o rei Fiender faz uma pausa, o chão a sua frente se"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "tornara uma pequena cratera. Do centro dela, o baixar da poeira foi dando espaço a uma iluminação azulada, característica dos"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "orbes iluminados. O corpo de Eliphas estava envolto de uma barreira mágica trincada. Conseguiu escapar por pouco de uma nova"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "tentativa de ataque físico demoníaco. E com uma rajada de vento bem direcionada vai rapidamente para perto do general. Eliphas"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "e Holkes estão lado a lado."
     },
     {
@@ -308,7 +314,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Eliphas olha para Holkes, Holkes retribui."
     },
     {
@@ -327,37 +333,43 @@
         "type": "dialogue",
         "speaker": "Yama",
         "image": "",
-        "text": "Admito que estão se saindo bem, mas se continuarem assim... - Diz, apontando"
+        "text": "Admito que estão se saindo bem, mas se continuarem assim... - Diz, apontando novamente a palma da mão aberta na direção deles."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "novamente a palma da mão aberta na direção deles. Raios violentos e instáveis vêm de suas costas, os dois olham para trás"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Raios violentos e instáveis vêm de suas costas, os dois olham para trás preocupados. Um raio deveria ter acertado primeiro"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "preocupados. Um raio deveria ter acertado primeiro Holkes, depois Eliphas se não fosse pela barreira de proteção que se ativou"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Holkes, depois Eliphas se não fosse pela barreira de proteção que se ativou no momento do impacto. Seis orbes flutuantes de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "no momento do impacto. Seis orbes flutuantes de quebram. O pequeno movimento reativo de Holkes levou sua mão à lateral do"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "quebram. O pequeno movimento reativo de Holkes levou sua mão à lateral do corpo, protegendo suas costelas que sangram pela"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "corpo, protegendo suas costelas que sangram pela armadura."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "armadura."
     },
     {
         "type": "dialogue",
         "speaker": "Holkes",
         "image": "",
-        "text": "Mesmo bem protegido, aquele ataque destruiu completamente essa parte. Argh!"
+        "text": "Mesmo bem protegido, aquele ataque destruiu completamente essa parte."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Argh!"
     },
     {
         "type": "dialogue",
@@ -386,62 +398,62 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Então faz um favor e me fala, qual é o plano? - Indaga, vendo o rei demônio levantando um rochedo que foi quebrado a pouco com"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "seus golpes no solo e mirando da direção deles para arremessar."
     },
     {
         "type": "dialogue",
         "speaker": "Eliphas",
         "image": "personagens/ELIPHAS.png",
-        "text": "Hum... não estava contando que ele teria resistência a fogo. - Comenta,"
+        "text": "Hum... não estava contando que ele teria resistência a fogo. - Comenta, enquanto cria um pequeno tornado entre eles. Fazendo"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "ambos se afastarem rapidamente em direções opostas, ao mesmo tempo que a rocha entra nos ventos espiralados e é arremessada de"
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Eliphas",
+        "image": "personagens/ELIPHAS.png",
+        "text": "volta."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "enquanto cria um pequeno tornado entre eles. Fazendo ambos se afastarem rapidamente em direções opostas, ao mesmo tempo que a"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "O rei destrói o contra-ataque com um soco bem encaixado no centro da pedra. Quando os fragmentos menores saem do seu campo de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "rocha entra nos ventos espiralados e é arremessada de volta. O rei destrói o contra-ataque com um soco bem encaixado no centro"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "visão, permite que ele volte a ver Eliphas que se aproxima pelo solo, com rajadas de ar bem direcionadas, que o permite"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "da pedra. Quando os fragmentos menores saem do seu campo de visão, permite que ele volte a ver Eliphas que se aproxima pelo"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "avançar por vezes em diagonal e por vezes em linha reta na direção de Yama. Agora próximo o bastante, Eliphas gira em torno do"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "solo, com rajadas de ar bem direcionadas, que o permite avançar por vezes em diagonal e por vezes em linha reta na direção de"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "oponente em sentindo horário e depois ante horário. Formando aos poucos um breve hexágono, tornando seus movimentos"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Yama. Agora próximo o bastante, Eliphas gira em torno do oponente em sentindo horário e depois ante horário. Formando aos"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "poucos um breve hexágono, tornando seus movimentos imprevisíveis. Principalmente pela nuvem de poeira que volta a subir,"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "desorientando quem está no ponto central."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "imprevisíveis. Principalmente pela nuvem de poeira que volta a subir, desorientando quem está no ponto central."
     },
     {
         "type": "dialogue",
@@ -453,19 +465,31 @@
         "type": "dialogue",
         "speaker": "Eliphas",
         "image": "personagens/ELIPHAS.png",
-        "text": "onde já foi aberto cortes... De um dos cantos de vento é disparado uma bola de fogo que acerta a ferida aberta de Yama."
+        "text": "onde já foi aberto cortes..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "De um dos cantos de vento é disparado uma bola de fogo que acerta a ferida aberta de Yama."
     },
     {
         "type": "dialogue",
         "speaker": "Yama",
         "image": "",
-        "text": "Aargh! Outra bola de fogo é disparada, mas atinge o antebraço do alvo que protege suas partes mais vulneráveis. Assim que as"
+        "text": "Aargh!"
     },
     {
-        "type": "dialogue",
-        "speaker": "Yama",
-        "image": "",
-        "text": "chamas dissiparam, um corte vertical também acerta o braço, criando um corte superficial."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Outra bola de fogo é disparada, mas atinge o antebraço do alvo que protege suas partes mais vulneráveis. Assim que as chamas"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "dissiparam, um corte vertical também acerta o braço, criando um corte superficial."
     },
     {
         "type": "dialogue",
@@ -500,13 +524,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Holkes está próximo o bastante para reparar um detalhe em seu aliado que parou de se mover tanto por aqueles instantes que se"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "reuniram"
     },
     {
@@ -524,26 +548,32 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Eliphas fica em silêncio, focado no inimigo."
     },
     {
         "type": "dialogue",
         "speaker": "Holkes",
         "image": "",
-        "text": "Acho... Arf! Arf! Acho que tenho um plano, mas precisarei me recuperar... - Comenta, mantendo uma das mãos nas próprias"
+        "text": "Acho... Arf! Arf! Acho que tenho um plano, mas precisarei me recuperar... -"
     },
     {
-        "type": "dialogue",
-        "speaker": "Holkes",
-        "image": "",
-        "text": "costelas extremamente feridas. Eliphas concorda acenando com a cabeça. Holkes retribui o aceno. Holkes firma as duas mãos na"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Comenta, mantendo uma das mãos nas próprias costelas extremamente feridas. Eliphas concorda acenando com a cabeça. Holkes"
     },
     {
-        "type": "dialogue",
-        "speaker": "Holkes",
-        "image": "",
-        "text": "espada de cabeça para baixo, direcionada para trás de sua postura, na altura da cintura. Tenta respirar fundo."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "retribui o aceno. Holkes firma as duas mãos na espada de cabeça para baixo, direcionada para trás de sua postura, na altura da"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "cintura. Tenta respirar fundo."
     },
     {
         "type": "dialogue",
@@ -554,80 +584,80 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ele corre diretamente para Yama e poucos metros antes dá um salto longo. Os braços acima da cabeça, como se o rei demônio"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "estivesse de costas para si e ele tentasse apunhalá-lo aproveitando o peso de toda sua arma junto da toda força de seus"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "braços. Mas seu alvo está de frente e acompanha todo seu movimento, reagindo em um tempo perfeito com seu braço sem punho para"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "bloquear do ataque de estocada. A queda é interrompida cerca de um metro antes do bloqueio inimigo e vai diretamente para o"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "solo. Yama está intrigado."
     },
     {
         "type": "dialogue",
         "speaker": "Yama",
         "image": "",
-        "text": "Então suas forças realmente acabaram... Pensei que seus orbes acabariam antes disso. Metade da lâmina perfurou o solo, o"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Yama",
-        "image": "",
-        "text": "soldado se apoia nela. Arfa e sua em excesso, a ferida aparentemente mortal cobra seu preço a cada segundo."
+        "text": "Então suas forças realmente acabaram... Pensei que seus orbes acabariam antes disso."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Quando levanta o olhar, se vê diante do punho demoníaco vindo em sua direção, parece cada vez mais próximo, ele junta forças"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Metade da lâmina perfurou o solo, o soldado se apoia nela. Arfa e sua em excesso, a ferida aparentemente mortal cobra seu"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "para arrancar sua arma, mas ela pouco se move. Até que o punho acerta precisamente, uma barreira mágica que separa o guerreiro"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "preço a cada segundo. Quando levanta o olhar, se vê diante do punho demoníaco vindo em sua direção, parece cada vez mais"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "do demônio. O impacto gerou uma rajada de ar estrondoso em volta de ambos. Foi a primeira vez que Holkes vira um soco tão"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "próximo, ele junta forças para arrancar sua arma, mas ela pouco se move. Até que o punho acerta precisamente, uma barreira"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "carregado de fúria. Naquele instante sentiu que o próximo movimento do demônio acabaria com ele. Surpreso, Yama olha"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "mágica que separa o guerreiro do demônio. O impacto gerou uma rajada de ar estrondoso em volta de ambos. Foi a primeira vez"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "imediatamente para Eliphas, que está abaixado, desenhando um círculo mágico no chão. Mesmo concentrado o mago sente o suor"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "que Holkes vira um soco tão carregado de fúria. Naquele instante sentiu que o próximo movimento do demônio acabaria com ele."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "contornar o rosto e olha apreensivo para o Fiender."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Surpreso, Yama olha imediatamente para Eliphas, que está abaixado, desenhando um círculo mágico no chão. Mesmo concentrado o"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "mago sente o suor contornar o rosto e olha apreensivo para o Fiender."
     },
     {
         "type": "dialogue",
@@ -638,7 +668,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Yama se volta para o general. Aproximadamente dez orbes flutuantes se quebraram."
     },
     {
@@ -656,7 +686,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O Fiender corre exaustivamente e grunhindo sem parar."
     },
     {
@@ -668,62 +698,62 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O Fiender menor é mutilado por um golpe de Holkes que finalmente recuperou sua arma. Os flutuantes acabaram, seus fragmentos"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "caem atrás de Eliphas. Na sua frente Yama se aproxima, enquanto ainda desenha o círculo na terra. Agora é na direção de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Eliphas que o soco demoníaco se aproxima brutalmente. E por um décimo de segundo sente o contato por todo seu corpo, mas era"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "apenas seu cérebro o iludindo, visto o quão próximo estava de acertá-lo. O soco gera um estrondoso deslocamento de ar, como um"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "furacão em linha reta horizontal. Holkes só teve tempo de suspirar aliviado por seu aliado não está mais presente. Quando"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "piscou novamente Eliphas estava de volta, parcialmente recuperado."
     },
     {
         "type": "dialogue",
         "speaker": "Holkes",
         "image": "",
-        "text": "O golpe deve ter interferido na magia. - Conclui, preocupado. - Cuidado, Eliphas! -Grita, vendo o punho em forma de martelo"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Holkes",
-        "image": "",
-        "text": "indo na direção do mago mestre."
+        "text": "O golpe deve ter interferido na magia. - Conclui, preocupado. - Cuidado,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "O círculo é esmagado junto ao solo. Eliphas recuou com uma forte e espontânea lufada. As ventanias se chocam, tornando o ar"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Eliphas! -Grita, vendo o punho em forma de martelo indo na direção do mago mestre. O círculo é esmagado junto ao solo. Eliphas"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "instável. Há poeira imprevisível para todas as direções."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "recuou com uma forte e espontânea lufada. As ventanias se chocam, tornando o ar instável. Há poeira imprevisível para todas as"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "direções."
     },
     {
         "type": "dialogue",
@@ -734,19 +764,19 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os últimos fragmentos de orbe caem das vestes de Eliphas."
     },
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ethan está ajoelhado no chão, sentado sobre os calcanhares. Sua cabeça está baixa."
     },
     {
@@ -764,13 +794,13 @@
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Não vou desistir, só porque não faço nada direto ou porque as coisas não aconteceram como eu queria... até me acostumei com"
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "isso."
     },
     {
@@ -782,31 +812,31 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O jovem caminha até a barreira do orbe, mesmo com raios instáveis que escapam dela."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Eu... Conto com você, capitão! N-Nós vamos conseguir!!!"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O capitão loiro demora algum tempo para entender o que aconteceu. Há alguns segundos seu pupilo se aproximava da barreira,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "agora não está mais reconhecendo sua imagem, parece distorcida. Ethan esfrega os olhos para ter certeza. A imagem continua"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "distorcida."
     },
     {
@@ -819,85 +849,85 @@
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "Kyuk não está sendo atingido lá dentro, entre o orbe negro e sua barreira maior. Se aproxima da barreira com cautela, porque a"
+        "text": "Kyuk não está sendo atingido lá dentro, entre o orbe negro e sua barreira maior."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Se aproxima da barreira com cautela, porque a inconstância dos raios avermelhados não cessou."
     },
     {
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "inconstância dos raios avermelhados não cessou."
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Ethan",
-        "image": "",
-        "text": "O-O que pensa que está fazendo? Como foi parar aí? Responda, Kyuk!!! Chegando bem próximo do orbe, ele encara por alguns"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Ethan",
-        "image": "",
-        "text": "instantes, chegando vagarosamente o mais próximo que consegue."
+        "text": "O-O que pensa que está fazendo? Como foi parar aí? Responda, Kyuk!!!"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Kyuk tenta atacar o orbe negro com a espada bastarda, utilizando-a com as duas mãos. O ataque é reto e preciso na vertical. A"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Chegando bem próximo do orbe, ele encara por alguns instantes, chegando vagarosamente o mais próximo que consegue. Kyuk tenta"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "mesma força aplicada foi refletida em resposta, fazendo escapar uma das mãos do cabo. Sem esperar muito, a lâmina é levantada"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "atacar o orbe negro com a espada bastarda, utilizando-a com as duas mãos. O ataque é reto e preciso na vertical. A mesma força"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "de novo na mesma posição, mas o ataque é mais lento. Desta vez o orbe não repele e o fio da espada com muita relutância, se"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "aplicada foi refletida em resposta, fazendo escapar uma das mãos do cabo. Sem esperar muito, a lâmina é levantada de novo na"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "aproxima da esfera, como se houvesse outra mini barreira protegendo-o. A lâmina eventualmente não aguenta e rachadura após"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "mesma posição, mas o ataque é mais lento. Desta vez o orbe não repele e o fio da espada com muita relutância, se aproxima da"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "rachadura, se desintegrada. O jovem deixa uma das mãos livres para tentar tocar o orbe, apoiando assim uma de suas mãos no"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "esfera, como se houvesse outra mini barreira protegendo-o. A lâmina eventualmente não aguenta e rachadura após rachadura, se"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Orbe Negro e a outra na arma de Ethan. E por um breve momento percebe que aquela arma e objetivos não lhe pertencem mais, é"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "desintegrada. O jovem deixa uma das mãos livres para tentar tocar o orbe, apoiando assim uma de suas mãos no Orbe Negro e a"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "melhor seguir em frente. Assim, Kyuk solta a arma e segura o orbe com as duas mãos para tentar tocá-lo."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "outra na arma de Ethan. E por um breve momento percebe que aquela arma e objetivos não lhe pertencem mais, é melhor seguir em"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "frente. Assim, Kyuk solta a arma e segura o orbe com as duas mãos para tentar tocá-lo."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Destino... Você negou todas as minhas vontades! - Exclama, sem tirar as mãos em volta do orbe e não sentindo mais seu capuz."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "Ele voou para longe, deixando-o só com a armadura que sua amiga fez. - Então tentarei negar a sua ao menos uma vez!!! Eliphas,"
+        "image": "personagens/KYUK FEITICEIRO.png",
+        "text": "Ele voou para longe, deixando-o só com a armadura que sua amiga fez. - Então tentarei negar a sua ao menos uma vez!!!"
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "Holkes e Yama olham na direção da barreira."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Eliphas, Holkes e Yama olham na direção da barreira."
     },
     {
         "type": "dialogue",
@@ -926,61 +956,61 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Yama começa a rir até gargalhar."
     },
     {
         "type": "dialogue",
         "speaker": "Yama",
         "image": "",
-        "text": "Muitos humanos interessantes!!! Agora eu me pergunto... o que acontece se eu usar magia com aquele humaninho lá? Yama estica a"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Yama",
-        "image": "",
-        "text": "mão na direção do orbe e... nada acontece."
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Yama",
-        "image": "",
-        "text": "O quê? Por que não... Tenta novamente e seu orbe não reage. Eliphas e Holkes se entre olham e suas atenções retornam para"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Yama",
-        "image": "",
-        "text": "Yama."
+        "text": "Muitos humanos interessantes!!! Agora eu me pergunto... o que acontece se eu usar magia com aquele humaninho lá?"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Yama estica a mão na direção do orbe e... nada acontece."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Yama",
         "image": "",
-        "text": "O corpo do jovem vai para trás, mas um de seus pés interrompe o movimento. E equilibrando-se para frente, ele desiste do cabo"
+        "text": "O quê? Por que não..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "que sobrou da espada e tenta tocar o orbe com as mãos abertas."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Tenta novamente e seu orbe não reage. Eliphas e Holkes se entre olham e suas atenções retornam para Yama. O corpo do jovem vai"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "para trás, mas um de seus pés interrompe o movimento. E equilibrando-se para frente, ele desiste do cabo que sobrou da espada"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "e tenta tocar o orbe com as mãos abertas."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
+        "image": "personagens/KYUK FEITICEIRO.png",
         "text": "Eu disse... Arf! Arf! Que negarei sua vontade! O senhor Eliphas vai te usar para acabar com seu mestre!!!"
     },
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk ainda insiste em tentar tocar no orbe para entregar à Eliphas e o mago olha para ele."
     },
     {
@@ -1004,92 +1034,104 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O general também é atingido, caindo no chão e ficando paralisado. Yama olha com calma para seus oponentes no chão, o general"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "imóvel e o mago mestre caído, tendo suas vestes volumosas em chamas e seu último orbe sendo desintegrado, devido ao ataque"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "mágico efetivo. Então sua atenção volta para o próprio orbe. E ao apontar sua mão na direção dele, ele começa a vir em sua"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "direção devagar. Kyuk se assusta em um primeiro momento. Involuntariamente olha na direção da batalha, pois foi para lá que o"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "objeto se moveu como um tranco. Não consegue ver direito por conta da barreira, mas percebe que a movimentação da batalha"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "cessou. O orbe dá outro impulso, quase escapando de suas mãos."
     },
     {
         "type": "dialogue",
         "speaker": "Yama",
         "image": "",
-        "text": "Venha! Agora só resta esse garoto aí. Kyuk insiste, para a cada movimento do orbe, uma reação contrária dele para evitar que"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Yama",
-        "image": "",
-        "text": "fuja de suas mãos."
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "Só mais um pouco... Se chegar perto o bastante, o senhor Eliphas poderá usá-lo... Mas isso é tão difícil!!! Argh! - Lembra-se"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "de Yukia, de Bark e sua antiga vila. - Eles nunca estarão seguros se euNesse momento, Kyuk não foi capaz de conter o ritmo do"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "orbe, mas foi capaz de segurálo. E agora está indo direto para a mão do rei demônio, flutuando no ar junto ao objeto."
+        "text": "Venha! Agora só resta esse garoto aí."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Os dedos de Yama passam pela barreira do orbe. Ela desaparece de acordo com o contato dele, o pulso, antebraço, cotovelo..."
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "Quando está quase chegando no ombro e sumindo quase que por completo, sua mão só precisa fechar para pegá-lo e esmagar aquele"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "humano por completo. Kyuk está espantado, sua única ação é continuar segurando a energia em volta do orbe."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk insiste, para a cada movimento do orbe, uma reação contrária dele para evitar que fuja de suas mãos."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "Eu... - Diz, fechando os olhos com força. - Vou morrer?! - Pensa, assustado. Silêncio. O tempo parece não se mover."
+        "image": "personagens/KYUK FEITICEIRO.png",
+        "text": "Só mais um pouco... Se chegar perto o bastante, o senhor Eliphas poderá usá-lo..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mas isso é tão difícil!!! Argh! - Lembra-se de Yukia, de Bark e sua antiga vila. - Eles nunca estarão seguros se euNesse"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "momento, Kyuk não foi capaz de conter o ritmo do orbe, mas foi capaz de segurálo. E agora está indo direto para a mão do rei"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "demônio, flutuando no ar junto ao objeto. Os dedos de Yama passam pela barreira do orbe. Ela desaparece de acordo com o"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "contato dele, o pulso, antebraço, cotovelo... Quando está quase chegando no ombro e sumindo quase que por completo, sua mão só"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "precisa fechar para pegá-lo e esmagar aquele humano por completo. Kyuk está espantado, sua única ação é continuar segurando a"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "energia em volta do orbe."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK FEITICEIRO.png",
+        "text": "Eu... - Diz, fechando os olhos com força. - Vou morrer?! - Pensa, assustado."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Silêncio. O tempo parece não se mover."
     },
     {
         "type": "dialogue",
@@ -1100,7 +1142,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ele abre os olhos rapidamente."
     },
     {
@@ -1113,103 +1155,103 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "lutaria por todos, você lembra?!!! Reconhecendo a voz, lembra-se de Lycia e Gyuder. Inconscientemente, suas chamas se"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "intensificam como nunca."
+        "text": "lutaria por todos, você lembra?!!!"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Até que um tornado surge de cima para baixo e toca rapidamente no solo. Intensificando as chamas, lançando o rei demônio para"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Reconhecendo a voz, lembra-se de Lycia e Gyuder. Inconscientemente, suas chamas se intensificam como nunca. Até que um tornado"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "um lado e o jovem feiticeiro junto do orbe negro para o outro. Por muito pouco Ethan não consegue segurar Kyuk. Repentinamente"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "surge de cima para baixo e toca rapidamente no solo. Intensificando as chamas, lançando o rei demônio para um lado e o jovem"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "uma das mãos do garoto tem êxito ao encostar na esfera, rachaduras se formam a partir do toque, o objeto mágico se mostra um"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "feiticeiro junto do orbe negro para o outro. Por muito pouco Ethan não consegue segurar Kyuk. Repentinamente uma das mãos do"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "pouco menos reativo. O rei Fienders foi arrastado por alguns metros, se levanta bruscamente e cambaleia um pouco. Não está"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "garoto tem êxito ao encostar na esfera, rachaduras se formam a partir do toque, o objeto mágico se mostra um pouco menos"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "sangrando tanto, mas já é mais do que gostaria. Uma sensação estranha toma conta. Kyuk grita de dor enquanto aproxima a outra"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "reativo. O rei Fienders foi arrastado por alguns metros, se levanta bruscamente e cambaleia um pouco. Não está sangrando"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "mão com muito esforço. E finalmente segura-o com as duas mãos por poucos segundos, até a superfície da esfera ter mais"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "tanto, mas já é mais do que gostaria. Uma sensação estranha toma conta. Kyuk grita de dor enquanto aproxima a outra mão com"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "trincados irregulares do que curva. Yama se mostra surpreso. O mago mestre está de pé, sem noventa porcento de sua veste"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "muito esforço. E finalmente segura-o com as duas mãos por poucos segundos, até a superfície da esfera ter mais trincados"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "principal. O pouco que restou da túnica está emaranhado com suas vestes inferiores. Com parte de sua pele amostra, é possível"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "irregulares do que curva. Yama se mostra surpreso. O mago mestre está de pé, sem noventa porcento de sua veste principal. O"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "notar claras como a luz de um sol purpura, espalhadas por todo seu corpo, suas tatuagens de círculos mágicos. Mesmo estando"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "pouco que restou da túnica está emaranhado com suas vestes inferiores. Com parte de sua pele amostra, é possível notar claras"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "iluminados, é possível notar que os traços são bem-marcados, metade deles causaram queloides."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "como a luz de um sol purpura, espalhadas por todo seu corpo, suas tatuagens de círculos mágicos. Mesmo estando iluminados, é"
     },
     {
-        "type": "dialogue",
-        "speaker": "Yama",
-        "image": "",
-        "text": "Você... foi longe demais... Eliphas, seu desgraçado!!! Combinando com a luz mágica do mago mestre, atrás do rei demônio há um"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "possível notar que os traços são bem-marcados, metade deles causaram queloides."
     },
     {
         "type": "dialogue",
         "speaker": "Yama",
         "image": "",
-        "text": "portal purpura que o devora."
+        "text": "Você... foi longe demais... Eliphas, seu desgraçado!!!"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Combinando com a luz mágica do mago mestre, atrás do rei demônio há um portal purpura que o devora."
     },
     {
         "type": "dialogue",
         "speaker": "Eliphas",
         "image": "personagens/ELIPHAS.png",
-        "text": "Não... Esse tempo não é mais nosso. E o mundo nunca foi. E o portal se fecha rapidamente."
+        "text": "Não... Esse tempo não é mais nosso. E o mundo nunca foi."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "O orbe negro se despedaça completamente e a cúpula avermelhada se esvai. Ventos fortes sopram levando consigo o que restou das"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "E o portal se fecha rapidamente. O orbe negro se despedaça completamente e a cúpula avermelhada se esvai. Ventos fortes sopram"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "vestes de mago, deixando-o com suas roupas de baixo, de um camponês."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "levando consigo o que restou das vestes de mago, deixando-o com suas roupas de baixo, de um camponês."
     },
     {
         "type": "dialogue",
@@ -1220,31 +1262,31 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk está caído novamente, com os braços bem abertos ao lado do que sobrou de sua espada, apenas o cabo sem a lâmina. Como um"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "corpo sem a cabeça. Kyuk está inconsciente, das mãos saem fumaça, como se tivesse acabado de conjurar magia de fogo. Ethan se"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "aproxima rapidamente, quase tão rápido quanto um pássaro já adulto passa por eles no céu, que projetou brevemente a própria"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "sombra pelo corpo de Kyuk."
     },
     {
@@ -1262,26 +1304,26 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Começa a tatear a própria armadura ao mesmo tempo que se lembra do pedaço de cristal. Pega-o e inicia o desenho de um círculo"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "mágico no chão ao lado de Kyuk."
     },
     {
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "Como era mesmo aquele...? Ao terminar, coloca o corpo dentro e ajoelha-se ao lado, tocando suas mãos no círculo de olhos"
+        "text": "Como era mesmo aquele...?"
     },
     {
-        "type": "dialogue",
-        "speaker": "Ethan",
-        "image": "",
-        "text": "fechados."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Ao terminar, coloca o corpo dentro e ajoelha-se ao lado, tocando suas mãos no círculo de olhos fechados."
     },
     {
         "type": "dialogue",
@@ -1293,31 +1335,31 @@
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "angustiado com a cabeça quase tocando"
+        "text": "angustiado com a cabeça quase tocando o solo e suas mãos esticadas na direção do garoto."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "o solo e suas mãos esticadas na direção do garoto. Alguns segundos depois, mesmo lamentando, não tirou as mãos do desenho."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Alguns segundos depois, mesmo lamentando, não tirou as mãos do desenho. Levanta a cabeça e testemunha as linhas e curvas"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Levanta a cabeça e testemunha as linhas e curvas iluminadas. Ele arregala os olhos, incrédulo. Com um olhar mais atento, nota"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "iluminadas. Ele arregala os olhos, incrédulo. Com um olhar mais atento, nota que há mais um par de mãos tocando o desenho."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "que há mais um par de mãos tocando o desenho. Elisa também está ajoelhada. Atrás dela, Magda está ajudando Agnes a se manter"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Elisa também está ajoelhada. Atrás dela, Magda está ajudando Agnes a se manter em pé, deixando-a apoiar o braço por trás da"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "em pé, deixando-a apoiar o braço por trás da nuca."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "nuca."
     },
     {
         "type": "dialogue",
@@ -1328,7 +1370,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "A expressão de espanto se torna alívio. Magda olha para o desenho com estranheza, como se algo faltasse."
     },
     {
@@ -1358,13 +1400,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ethan tenta colocar o cabo da espada em uma das mãos de Kyuk, mas o corpo desaparece, deixando o círculo de teletransporte,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "igual ao da Hygge, para trás. Fim"
     }
 ]

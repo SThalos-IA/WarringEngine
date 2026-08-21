@@ -8,19 +8,19 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Em algum lugar no oeste, se aproxima correndo desesperado, um demônio. Este se aproxima de uma mulher humanoide com traços"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "demoníacos. O monstro para repentinamente e emite uma sequência de grunhidos estranhos, característicos de sua espécie, com"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "exceção do fato de parecer assustado. A única coisa que soa como uma palavra é “Nyari”."
     },
     {
@@ -39,7 +39,13 @@
         "type": "dialogue",
         "speaker": "Nyari",
         "image": "personagens/NYARI.png",
-        "text": "horizonte a sua esquerda. - Onde o encontrou? Demônio responde com mais grunhidos."
+        "text": "horizonte a sua esquerda. - Onde o encontrou?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Demônio responde com mais grunhidos."
     },
     {
         "type": "dialogue",
@@ -56,13 +62,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk está visitando o tumulo de seu pai, mas para um pouco antes de subir a colina, devido a presença do Mago Mestre que"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "chegou antes."
     },
     {
@@ -104,7 +110,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O mago se vira para o jovem, revelando em sua face olheiras indiscretas."
     },
     {
@@ -164,20 +170,26 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O Mago e Kyuk retornam a fortaleza e quando estão para subir a escada da biblioteca, o círculo mágico da direita se ilumina e"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "surgem três capitães nele. Lycia, Sian e Ethan."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Lycia! Então também vai participar? - Comenta, observando a chegada de Sian e Ethan logo atrás. - O capitão Gunir não veio?"
+        "text": "Lycia! Então também vai participar? - Comenta, observando a chegada de Sian e"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Ethan logo atrás. - O capitão Gunir não veio?"
     },
     {
         "type": "dialogue",
@@ -194,7 +206,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Gyuder se aproxima."
     },
     {
@@ -206,31 +218,31 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O círculo da esquerda se ilumina e desta vez surgem dois homens de armaduras semelhantes aos dos outros capitães, com destaque"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "a armadura do homem negro, alto e careca que tem uma armadura destacada sutilmente por alguns detalhes em dourado. O outro não"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "é muito mais alto que Sian, e tem um cabelo longo e preto. O que o destaca do homem que anda a sua frente por não ter cabelo e"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "com Sian que tem cabelo branco e curto. Neste momento, todos os capitães presentes fazem reverência ao homem mais alto que se"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "aproxima acompanhado pelo outro capitão."
     },
     {
@@ -249,13 +261,7 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Pensa, reparando na pedra centralizada"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "no chappe da espada."
+        "text": "Pensa, reparando na pedra centralizada no chappe da espada."
     },
     {
         "type": "dialogue",
@@ -285,7 +291,13 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "Não venha com sarcasmo para cima de mim, Holkes! Vejo que trouxe Shin com você dessa vez..."
+        "text": "Não venha com sarcasmo para cima de mim, Holkes! Vejo que trouxe"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Shin com você dessa vez..."
     },
     {
         "type": "dialogue",
@@ -308,13 +320,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Chegando à biblioteca, todos se acomodam em uma mesa de banquete que ficou no lugar das carteiras e lousa que formavam a"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "pequena sala de aula do Mago."
     },
     {
@@ -489,7 +501,13 @@
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "Talvez não quisesse baixas... Isso é um sinal que estava mesmo atrás de algo... Agora, por que essa dúvida, Kyuk?"
+        "text": "Talvez não quisesse baixas... Isso é um sinal que estava mesmo atrás de algo..."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Agora, por que essa dúvida, Kyuk?"
     },
     {
         "type": "dialogue",
@@ -549,7 +567,13 @@
         "type": "dialogue",
         "speaker": "Ethan",
         "image": "",
-        "text": "agora com essa informação... - Conclui, olhando para Kyuk."
+        "text": "agora com essa informação... -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Conclui, olhando para Kyuk."
     },
     {
         "type": "dialogue",
@@ -609,13 +633,13 @@
         "type": "dialogue",
         "speaker": "Shin",
         "image": "",
-        "text": "Talvez. Não lembro a última vez que um Fiender foi em sua direção para atacá-lo. Nem mesmo Han ousou... Mago Mestre se mostra"
+        "text": "Talvez. Não lembro a última vez que um Fiender foi em sua direção para atacá-lo."
     },
     {
-        "type": "dialogue",
-        "speaker": "Shin",
-        "image": "",
-        "text": "pensativo."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Nem mesmo Han ousou... Mago Mestre se mostra pensativo."
     },
     {
         "type": "dialogue",
@@ -668,7 +692,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Lycia levanta a mão e todos olham para ela."
     },
     {
@@ -777,7 +801,13 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "Sim... É arriscado, mas devo concordar. Quem se voluntaria? Ethan, Sian e Shin levantam a mão."
+        "text": "Sim... É arriscado, mas devo concordar. Quem se voluntaria?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Ethan, Sian e Shin levantam a mão."
     },
     {
         "type": "dialogue",
@@ -824,13 +854,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Acho que todos do oeste levantariam a mão se estivessem aqui, então vou escolher mais um deles para ir com vocês. Assim nenhum"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "lado ficaria desfalcado."
     },
     {
@@ -872,7 +902,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Em algum lugar no oeste, Nyari está em cima de uma colina e outro demônio bípede se aproxima."
     },
     {
@@ -884,7 +914,7 @@
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN.png",
         "text": "Nada... Você podia ter ido comigo."
     },
     {
@@ -896,7 +926,7 @@
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN.png",
         "text": "É... Talvez eu quem deveria ter ido contigo. O que encontrou lá?"
     },
     {
@@ -908,14 +938,20 @@
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN.png",
         "text": "Se está falando de lutar, não me arrependi. Onde fui tinham oponentes muito interessantes, então preferi não me arriscar. -"
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
-        "text": "Comenta, lembrando-se da silhueta de Holkes."
+        "image": "personagens/HAN.png",
+        "text": "Comenta, lembrando-se da silhueta de"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Holkes."
     },
     {
         "type": "dialogue",
@@ -926,13 +962,13 @@
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN.png",
         "text": "Sempre com pressa... Ao contrário de nós, Norio foi na frente evitando conflitos, ele é o mais inteligente entre nós, não deve"
     },
     {
         "type": "dialogue",
         "speaker": "Han",
-        "image": "",
+        "image": "personagens/HAN.png",
         "text": "ter morrido."
     }
 ]

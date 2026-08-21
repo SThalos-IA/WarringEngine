@@ -8,67 +8,67 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "-FlashbackAinda era uma criança quando matou um Fiender pela primeira vez. Os adultos que traziam um presente para comemorar"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "seu décimo primeiro aniversário ficaram horrorizados com tamanha frieza. E assim cresceu sempre sem depender de ninguém. Pouco"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "antes de entrar no exército, invadiu o campo de batalha do oeste. Quando se viu vulnerável contra o primeiro Fiender grande"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "que enfrentou. Seria seu último dia de vida se Brankio não tivesse quebrado a costela daquele monstro com um golpe de cada"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "punho. Seus dedos se deslocaram após o movimento. E enquanto observava aquele homem de moicano branco colocando-os no lugar,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "não se conteve e decidiu pôr fim entrar no exército. Loknar não entendia como Brankio conseguiu fazer aquilo, mesmo depois de"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "conhecer Shin anos depois, nunca precisou ser salvo nem por ele, não importa quão árdua a batalha fosse. Shin nunca acreditou"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "nas palavras daquele homem que soava sorrateiro. Então seguiu sem acreditar que alguém menos inteligente e rápido que ele ou"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Loknar poderia fazê-lo. E com o tempo Loknar insistiu tanto que o respeito que Shin só diminuiu e mais uma vez se viu"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "entediado. Era uma noite calma na cidade Skar. Loknar e Fylk estão em volta da fogueira, refletindo e bebendo muito,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "respectivamente. Loknar havia entrado no exército a pouco tempo."
     },
     {
@@ -80,7 +80,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Loknar olha para Fylk."
     },
     {
@@ -98,7 +98,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Loknar olha para suas foices refletindo. Fylk encara Loknar por um momento."
     },
     {
@@ -117,13 +117,13 @@
         "type": "dialogue",
         "speaker": "Fylk",
         "image": "",
-        "text": "Não entendo como Bark concordou em fazer essas foices, elas não são para cortar... -Soluça. -...Plantas? Loknar sorri"
+        "text": "Não entendo como Bark concordou em fazer essas foices, elas não são para cortar... -Soluça. -...Plantas?"
     },
     {
-        "type": "dialogue",
-        "speaker": "Fylk",
-        "image": "",
-        "text": "admirando o fogo sem piscar."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Loknar sorri admirando o fogo sem piscar."
     },
     {
         "type": "dialogue",
@@ -158,7 +158,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Loknar olha surpreso para Norio."
     },
     {
@@ -213,13 +213,7 @@
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "Hum... -Murmura, olhando os corpos ao chão. - E se... E se ele pudesse reviver"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "os humanos também?"
+        "text": "Hum... -Murmura, olhando os corpos ao chão. - E se... E se ele pudesse reviver os humanos também?"
     },
     {
         "type": "dialogue",
@@ -237,7 +231,13 @@
         "type": "dialogue",
         "speaker": "Norio",
         "image": "personagens/NORIO.png",
-        "text": "Qual o sentido disso? Pensei que ele fosse o burro. -Debocha, apontando para Brankio."
+        "text": "Qual o sentido disso? Pensei que ele fosse o burro. -Debocha, apontando para"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Brankio."
     },
     {
         "type": "dialogue",
@@ -290,7 +290,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Brankio fica em silêncio repentinamente. Coça sua cabeça confuso."
     },
     {
@@ -326,7 +326,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Loknar olha rapidamente para Norio de canto de olho."
     },
     {
@@ -351,7 +351,13 @@
         "type": "dialogue",
         "speaker": "Brankio",
         "image": "",
-        "text": "suspenso. Loknar está com suas lâminas apostas."
+        "text": "suspenso."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Loknar está com suas lâminas apostas."
     },
     {
         "type": "dialogue",
@@ -363,25 +369,25 @@
         "type": "dialogue",
         "speaker": "Norio",
         "image": "personagens/NORIO.png",
-        "text": "O quê?! Como farãoLoknar: E depois deles... será você! - Ameaça, apontando sua foice na direção de Norio. Brankio arremessa"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Norio",
-        "image": "personagens/NORIO.png",
-        "text": "seu companheiro, ele cai em cima de um grande grupo de reanimados. Ao pousar em cima deles, pega impulso nas costas de um que"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Norio",
-        "image": "personagens/NORIO.png",
-        "text": "o leva a pisar"
+        "text": "O quê?! Como farãoLoknar: E depois deles... será você! - Ameaça, apontando sua foice na direção de Norio."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "na cabeça de outro e assim ele segue até se aproximar do detentor da magia, pronto para acertá-lo."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Brankio arremessa seu companheiro, ele cai em cima de um grande grupo de reanimados. Ao pousar em cima deles, pega impulso nas"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "costas de um que o leva a pisar na cabeça de outro e assim ele segue até se aproximar do detentor da magia, pronto para"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "acertá-lo."
     },
     {
         "type": "dialogue",
@@ -392,19 +398,19 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Uma rajada de energia avermelhada joga o capitão para longe, o que o impede de ir além é seu aliado que o agarra com os"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "braços. Por um instante, os Fienders estavam todos mortos novamente, mas se recomporão. E o orbe nas mãos de Norio não brilha"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "mais."
     },
     {
@@ -429,13 +435,7 @@
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "Essa rajada de energia não é nada comparada ao rei Fiender, acho que aguento"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "a próxima."
+        "text": "Essa rajada de energia não é nada comparada ao rei Fiender, acho que aguento a próxima."
     },
     {
         "type": "dialogue",
@@ -458,49 +458,49 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Brankio agarra um Fiender em cada mão e novamente abre bem os braços enquanto gira acertando tudo a sua volta, dentre Fienders"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "e humanos também. Nada que é acertado por ele resiste as pancadas brutais. O outro capitão avança inclinado para frente,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "sentindo o vento de um corpo quase acertá-lo. Todos os Fiender que não vão na direção de Brankio, avançam nele. Em um único"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "movimento, quatro Fiender são cortados no rosto ou pescoço com uma lâmina achada no chão. A arma é jogada para o lado e pouco"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "mais a frente uma lança de ponta metálica cai em pé, fincando nas costas de um demônio até então revivido. Após cortar algumas"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "duplas, se aproxima do alvo empalado que estava vivo, até ter a lâmina arrancada de suas costas. As cicatrizes se apagam à"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "medida que o solo revela diversos orbes iluminados, devidos aos corpos lançados para cima. Os luminosos quebram-se um a um,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "sem os capitães precisarem fazer nada."
     },
     {
@@ -513,13 +513,13 @@
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "Brankio parou de atacar. Parece desnorteado, mas consegue pisar nos orbes apagados mais próximos."
+        "text": "Brankio parou de atacar."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Ele olha novamente em volta."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Parece desnorteado, mas consegue pisar nos orbes apagados mais próximos. Ele olha novamente em volta."
     },
     {
         "type": "dialogue",
@@ -530,25 +530,25 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Norio faz um gesto com a mão e todos avançam para Loknar. Por pouco as mordidas e garras não acertaram, pois seu alvo saltou"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "no momento dos ataques simultâneos. Ele corre novamente por cima dos corpos, pegando impulsos. Desta vez Fienders desajeitados"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "sobem em cima do outro, tentando atacar as pernas dele. Algumas garras são cortadas pelas foices. E cada vez mais Loknar"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "consegue se equilibram e pegar impulso até Norio."
     },
     {
@@ -561,19 +561,25 @@
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "suas armas em posição para perfurar seu alvo e quase aterrissando no Fiender inteligente. Norio aponta seu orbe iluminado para"
+        "text": "suas armas em posição para perfurar seu alvo e quase aterrissando no Fiender inteligente."
     },
     {
-        "type": "dialogue",
-        "speaker": "Loknar",
-        "image": "personagens/LOKNAR.png",
-        "text": "Loknar, seus aliados todos desacordados e sua atenção voltada apenas para afastar o humano. Ao mesmo tempo que a rajada mágica"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Norio aponta seu orbe iluminado para Loknar, seus aliados todos desacordados e sua atenção voltada apenas para afastar o"
     },
     {
-        "type": "dialogue",
-        "speaker": "Loknar",
-        "image": "personagens/LOKNAR.png",
-        "text": "é lançada, o Fiender tem sua movimentação interrompida, devido à um abraço de urso projetado por Brankio."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "humano. Ao mesmo tempo que a rajada mágica é lançada, o Fiender tem sua movimentação interrompida, devido à um abraço de urso"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "projetado por Brankio."
     },
     {
         "type": "dialogue",
@@ -590,7 +596,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Loknar cai sentado. O ataque foi suficiente para jogá-lo ao chão, mas não o afastou."
     },
     {
@@ -602,13 +608,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Por pouco consegue se desvencilhar. Seus movimentos foram ainda mais limitados, porque Brankio mordeu sua jugular. Loknar está"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "surpreso. Levantando-se, percebe que a maioria dos orbes estavam logo atrás de Norio."
     },
     {
@@ -621,7 +627,13 @@
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "Entendi, você veio até aqui, porque foi onde o caminho de orbes te trouxe. - Pensa, sorrindo sutilmente."
+        "text": "Entendi, você veio até aqui, porque foi onde o caminho de orbes te trouxe. -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Pensa, sorrindo sutilmente."
     },
     {
         "type": "dialogue",
@@ -645,13 +657,13 @@
         "type": "dialogue",
         "speaker": "Loknar",
         "image": "personagens/LOKNAR.png",
-        "text": "Nem tudo a gente resolve pensando antes de agir. Há momentos que o improviso se faz necessário. Brankio sente seu braço, que"
+        "text": "Nem tudo a gente resolve pensando antes de agir. Há momentos que o improviso se faz necessário."
     },
     {
-        "type": "dialogue",
-        "speaker": "Loknar",
-        "image": "personagens/LOKNAR.png",
-        "text": "outrora foi quebrado, doer e começar a sangrar."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Brankio sente seu braço, que outrora foi quebrado, doer e começar a sangrar."
     },
     {
         "type": "dialogue",
@@ -674,7 +686,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Duas lâminas perfuram o crânio dele, interrompendo sua fala."
     },
     {
@@ -692,7 +704,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os cabos das armas estão em paralelo com a cabeça de Brankio."
     },
     {
@@ -711,7 +723,13 @@
         "type": "dialogue",
         "speaker": "Brankio",
         "image": "",
-        "text": "isso não é boa ideia... todos são horríveis. - Conclui, sem se virar para Loknar."
+        "text": "isso não é boa ideia... todos são horríveis. - Conclui, sem se virar para"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Loknar."
     },
     {
         "type": "dialogue",
@@ -722,13 +740,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Loknar fica em silêncio, observando o orbe deformado se despedaçar ainda na mão de Norio. Brankio não se move mais, mesmo em"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "pé. Loknar senta-se no chão."
     },
     {
@@ -746,56 +764,62 @@
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Shin segue caído, porém consciente, seus olhos fixados em seu amigo se infância, Sian. Seu corpo sem forças para se mover."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Sangue e lágrimas escorrem. Por um momento percebe sons de pássaros sobrevoando-os, não tem forças para virar em sua direção,"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "mas o canto das aves é nostálgico. Entre os capitães e a cidade Skar, guerreiros do exército de Holkes insistem contra alguns"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Fienders quadrupedes. O número de guerreiros segue diminuindo, mas seus olhos não perdem determinação, sua cidade natal e"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "tantas outras estão em risco. Aprendizes, bruxas, capitães estão ocupados ou incapacitados. Não há escolha. Magda não tem mais"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Fienders gigantes para se preocupar. Anda pelo campo de poeira, corpos e sangue, exausta. Ao avistar Elisa se aproxima, a"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "bruxa das raízes está abaixada próxima de Fylk. Magda raramente viu sua amiga de floresta tão abalada."
     },
     {
         "type": "dialogue",
         "speaker": "Magda",
         "image": "",
-        "text": "Você o conhecia? Elisa não tira os olhos de Fylk."
+        "text": "Você o conhecia?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Elisa não tira os olhos de Fylk."
     },
     {
         "type": "dialogue",
@@ -807,48 +831,48 @@
         "type": "dialogue",
         "speaker": "Magda",
         "image": "",
-        "text": "É... - Responde, olhando tantos corpos imóveis em volta, aliados e inimigos. - Não dá para salvar todo mundo."
+        "text": "É... - Responde, olhando tantos corpos imóveis em volta, aliados e inimigos. -"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Elisa olha da direção contrária a Magda."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Não dá para salvar todo mundo. Elisa olha da direção contrária a Magda."
     },
     {
         "type": "dialogue",
         "speaker": "Magda",
         "image": "",
-        "text": "Elisa... não precisaElisa: Ainda não acabou! Agora, mais do que nunca, precisamos ser muito fortes... Aquela criança está na"
+        "text": "Elisa... não precisaElisa: Ainda não acabou! Agora, mais do que nunca, precisamos ser muito fortes..."
     },
     {
-        "type": "dialogue",
-        "speaker": "Magda",
-        "image": "",
-        "text": "linha de frente, como chegamos aqui?"
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Aquela criança está na linha de frente, como chegamos aqui?"
     },
     {
         "type": "scene_break",
         "speaker": "",
-        "image": "",
+        "image": "transicoes/cap14-19.png",
         "text": "..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ethan está com um pedaço de cristal na mão, riscando o chão, concentrado. Suas mãos tremem. Kyuk acorda atordoado, se senta e"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "ao olhar na direção do capitão, percebe um círculo de teletransporte desenhado. Ethan acabou de fazer. O jovem olha para o"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "orbe negro."
     },
     {
@@ -866,7 +890,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk não olha para Ethan."
     }
 ]

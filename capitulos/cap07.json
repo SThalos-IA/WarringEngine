@@ -8,7 +8,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "A carroça e sua escolta se aproximam da entrada de uma vila. Sian e Lycia andam juntos mais atrás."
     },
     {
@@ -39,7 +39,13 @@
         "type": "dialogue",
         "speaker": "Aprendiz 1",
         "image": "",
-        "text": "S-Sim! P-Por que está agitado assim? Kyuk puxa-o pela gola."
+        "text": "S-Sim! P-Por que está agitado assim?"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Kyuk puxa-o pela gola."
     },
     {
         "type": "dialogue",
@@ -62,7 +68,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Gunir fica em silêncio por um tempo."
     },
     {
@@ -87,31 +93,31 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "que podiam estar vivas... - Comenta, levando a mão ao próprio pescoço e fechando os olhos incomodado. Por um breve momento"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "também lembra do tumulo de seu pai."
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "Mago Mestre...!! -Exclama, cerrando os dentes. - Eu quero falar com o Mago Mestre!!! Ele precisa reviver meu pai e todos no"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "vilarejo!"
+        "text": "que podiam estar vivas... -"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Lycia se aproxima, agacha ao lado dele e coloca a mão em seu ombro."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Comenta, levando a mão ao próprio pescoço e fechando os olhos incomodado. Por um breve momento também lembra do tumulo de seu"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "pai."
+    },
+    {
+        "type": "dialogue",
+        "speaker": "Kyuk",
+        "image": "personagens/KYUK.png",
+        "text": "Mago Mestre...!! -Exclama, cerrando os dentes. - Eu quero falar com o Mago"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mestre!!! Ele precisa reviver meu pai e todos no vilarejo! Lycia se aproxima, agacha ao lado dele e coloca a mão em seu ombro."
     },
     {
         "type": "dialogue",
@@ -126,16 +132,10 @@
         "text": "podemos ir agora. - Consola, olhando para Gunir. - Ele ainda é muito jovem, não há nada de errado em se sentir assim. -"
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "Conclui, trazendo o garoto para um abraço que é aceito."
-    },
-    {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "O abraço não dura muito, logo Kyuk se afasta."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Conclui, trazendo o garoto para um abraço que é aceito. O abraço não dura muito, logo Kyuk se afasta."
     },
     {
         "type": "dialogue",
@@ -182,13 +182,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk e Lycia vão até a praça principal da vila com os dois aprendizes que rapidamente pegam algumas pedras transparentes e"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "pontiagudas para desenhar o círculo no chão."
     },
     {
@@ -225,7 +225,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Não quer vir comigo? Você tem muito o que crescer e ficar mais forte ainda. Mesmo como capitã posso te ajudar com isso."
+        "text": "Não quer vir comigo? Você tem muito o que crescer e ficar mais forte ainda."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mesmo como capitã posso te ajudar com isso."
     },
     {
         "type": "dialogue",
@@ -267,19 +273,19 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Comenta, segurando no cabo da Bastarda."
+        "text": "Comenta, segurando no cabo da"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Bastarda."
     },
     {
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Ninguém é bom em tudo... Sabe, ouvi dizer que o capitão Gyuder era assim"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "quando jovem."
+        "text": "Ninguém é bom em tudo... Sabe, ouvi dizer que o capitão Gyuder era assim quando jovem."
     },
     {
         "type": "dialogue",
@@ -344,7 +350,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "No momento que as palmas se encostam, uma sutil nuvem de poeira branca se espalha devido ao contato."
     },
     {
@@ -374,7 +380,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Lycia entra logo em seguida."
     },
     {
@@ -398,7 +404,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk levanta uma das palmas da mão para observá-la."
     },
     {
@@ -416,7 +422,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Na área de círculos para teletransporte, na fortaleza."
     },
     {
@@ -434,20 +440,20 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "O jovem para de falar por sentir a cicatriz em seu pescoço brilhando cada vez mais."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Aargh!!! De novo não... Cof! Cof! - Grita com dificuldade, levando a mão a garganta. Lycia ameaça sacar sua espada, mas logo"
+        "text": "Aargh!!! De novo não... Cof! Cof! - Grita com dificuldade, levando a mão a garganta."
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "desiste percebendo que o garoto precisa de ajuda."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia ameaça sacar sua espada, mas logo desiste percebendo que o garoto precisa de ajuda."
     },
     {
         "type": "dialogue",
@@ -476,13 +482,13 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "A porta da biblioteca é aberta bruscamente, dela sai o Mago Mestre olhando de um lado ao outro até focar na dupla do pátio"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "logo abaixo."
     },
     {
@@ -500,7 +506,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os aprendizes aproveitam a situação para saírem da biblioteca também."
     },
     {
@@ -513,7 +519,13 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "É claro que é magia, olha para isso... -Afirma, se aproximando deles. - Espera o que está acontecendo?! Nunca vi isso antes!"
+        "text": "É claro que é magia, olha para isso... -Afirma, se aproximando deles. -"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Espera o que está acontecendo?! Nunca vi isso antes!"
     },
     {
         "type": "dialogue",
@@ -543,13 +555,13 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Eu? Eu sou Kyuk e... -Apresenta-se, mas pausa por um momento. - Então você é o Mago Mestre!! - Grita, puxando a gola da sua"
+        "text": "Eu? Eu sou Kyuk e... -Apresenta-se, mas pausa por um momento. - Então você é o"
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "vestimenta."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Mago Mestre!! - Grita, puxando a gola da sua vestimenta."
     },
     {
         "type": "dialogue",
@@ -560,20 +572,20 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk cai sentado no chão."
     },
     {
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Hora seu... cof! Cof! -Diz, tentando se levantando devagar por causa da tosse. - Essa sensação, o que está acontecendo"
+        "text": "Hora seu... cof! Cof! -Diz, tentando se levantando devagar por causa da tosse. -"
     },
     {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "comigo?! - Pergunta, inquieto olhando para seus braços levantados."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Essa sensação, o que está acontecendo comigo?! - Pergunta, inquieto olhando para seus braços levantados."
     },
     {
         "type": "dialogue",
@@ -591,13 +603,7 @@
         "type": "dialogue",
         "speaker": "Mago Mestre",
         "image": "personagens/ELIPHAS.png",
-        "text": "Hum... Isso não pode ser coincidência... Venha jovem. - Solicita, retirando"
-    },
-    {
-        "type": "narration",
-        "speaker": "Narrador",
-        "image": "",
-        "text": "um orbe de sua manga e oferecendo-o ao rapaz."
+        "text": "Hum... Isso não pode ser coincidência... Venha jovem. - Solicita, retirando um orbe de sua manga e oferecendo-o ao rapaz."
     },
     {
         "type": "dialogue",
@@ -614,7 +620,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Kyuk olha para Lycia, recebe uma afirmação com a cabeça, então decide se aproximar ainda sem muita vontade. E toca no orbe."
     },
     {
@@ -632,7 +638,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Ele obedece, fecha os olhos."
     },
     {
@@ -651,25 +657,25 @@
         "type": "dialogue",
         "speaker": "Kyuk",
         "image": "personagens/KYUK.png",
-        "text": "Agora ela está mais forte do que nunca, sinto algo fluindo pelo meu corpo e... Neste momento a iluminação do pescoço cessa, o"
-    },
-    {
-        "type": "dialogue",
-        "speaker": "Kyuk",
-        "image": "personagens/KYUK.png",
-        "text": "orbe parece estremecer sem brilho algum e se quebra."
+        "text": "Agora ela está mais forte do que nunca, sinto algo fluindo pelo meu corpo e..."
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "O pátio se encontra em silêncio. Kyuk, Lycia e os aprendizes espalhados pela escada se mostram verdadeiramente em choque. O"
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Neste momento a iluminação do pescoço cessa, o orbe parece estremecer sem brilho algum e se quebra. O pátio se encontra em"
     },
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
-        "text": "Mago Mestre por sua vez, está de cabeça baixa sem muita expressão."
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "silêncio. Kyuk, Lycia e os aprendizes espalhados pela escada se mostram verdadeiramente em choque. O Mago Mestre por sua vez,"
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "está de cabeça baixa sem muita expressão."
     },
     {
         "type": "dialogue",
@@ -680,7 +686,7 @@
     {
         "type": "narration",
         "speaker": "Narrador",
-        "image": "",
+        "image": "personagens/NARRAÇÃO.png",
         "text": "Os aprendizes avançam na direção do quebrador de orbes."
     },
     {
@@ -765,13 +771,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Parece que... Bem... Você acabou de encontrar alguém para ficar no lugar dele. - Comenta, olhando para Kyuk de forma"
+        "text": "Parece que... Bem... Você acabou de encontrar alguém para ficar no lugar dele. -"
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "desconfortável. Kyuk está no chão sendo pisoteado por um grupo de aprendizes revoltados."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Comenta, olhando para Kyuk de forma desconfortável. Kyuk está no chão sendo pisoteado por um grupo de aprendizes revoltados."
     },
     {
         "type": "dialogue",
@@ -963,7 +969,13 @@
         "type": "dialogue",
         "speaker": "Gyuder",
         "image": "personagens/GYUDER.png",
-        "text": "Mestre estão de acordo. Lycia lacrimeja emocionada."
+        "text": "Mestre estão de acordo."
+    },
+    {
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia lacrimeja emocionada."
     },
     {
         "type": "dialogue",
@@ -1053,13 +1065,13 @@
         "type": "dialogue",
         "speaker": "Lycia",
         "image": "personagens/LYCIA.png",
-        "text": "Então não desista!!! Se eu me tornei capitã, você também pode se tornar um mago! Lycia consegue conter bem suas lágrimas, Kyuk"
+        "text": "Então não desista!!! Se eu me tornei capitã, você também pode se tornar um mago!"
     },
     {
-        "type": "dialogue",
-        "speaker": "Lycia",
-        "image": "personagens/LYCIA.png",
-        "text": "não. Ele começa a chorar compulsivamente."
+        "type": "narration",
+        "speaker": "Narrador",
+        "image": "personagens/NARRAÇÃO.png",
+        "text": "Lycia consegue conter bem suas lágrimas, Kyuk não. Ele começa a chorar compulsivamente."
     },
     {
         "type": "dialogue",
